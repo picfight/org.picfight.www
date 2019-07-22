@@ -1,0 +1,19 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.image_tile {
+    border-width: 1px;
+    border-color: #e0e0f0;
+    background-color: #ffffff;
+    border-style: solid;
+    border-radius: 1px;
+    padding: 5px;
+    margin: 1px;
+}
+
+.linkcolor{
+    color: #2a5885;
+    text-decoration: none;
+    cursor: pointer;
+}
