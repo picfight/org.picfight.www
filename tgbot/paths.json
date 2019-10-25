@@ -1,5 +1,6 @@
 {
   "mapping": {
+    "/vkalbums": "albums-list.json",
     "/version": "version.json",
     "/help": "help.json",
     "/start": "menu.json"
