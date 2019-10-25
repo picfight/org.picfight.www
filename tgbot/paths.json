@@ -1,5 +1,6 @@
 {
   "mapping": {
+    "/version": "version.json",
     "/help": "help.json",
     "/start": "menu.json"
   },
