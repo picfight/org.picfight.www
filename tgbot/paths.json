@@ -1,0 +1,7 @@
+{
+  "mapping": {
+    "/help": "help.json",
+    "/start": "menu.json"
+  },
+  "defaultPath": "menu.json"
+}
