@@ -1,7 +1,7 @@
 {
   "messages": [
     {
-      "allowLinks": false,
+      "allowLinks": true,
       "lines": [
         "Статистика файта: Пикфайт #59: «Метал vs. Рэп»",
         "https://vk.com/album-62111632_244963407",
@@ -237,7 +237,16 @@
       "lines": [
         "https://vk.com/photo-62111632_456239728",
         "",
-        "Не удалось распознать авторов:",
+        "Не могу распознать авторов: https://vk.com/photo-62111632_456239728",
+        "",
+        "-----------------------",
+        "Константив Мирошов\nhttps://vk.com/hairycrab\nhttps://vk.com/thomas_thehuman\nhttps://www.instagram.com/thomas_thehuman/\n\nметалистка-вокалист",
+        "-----------------------",
+        "",
+        "Нужно добавить в описание линки на профили с айдишниками (vk.com/id00000)",
+        "Либо, если это плашка, то пометить тэгом #плашка",
+        "Или просто поставить #лайкоботигнор",
+        "",
         "Константив Мирошов\nhttps://vk.com/hairycrab\nhttps://vk.com/thomas_thehuman\nhttps://www.instagram.com/thomas_thehuman/\n\nметалистка-вокалист"
       ]
     }
