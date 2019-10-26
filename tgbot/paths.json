@@ -6,7 +6,6 @@
     "/vkalbums": "albums-list.json",
     "/fstat/vkalbum-267182269": "/fstat/vkalbum-267182269.json",
     "/fstat/vkalbum-261883983": "/fstat/vkalbum-261883983.json",
-    "/fstat/vkalbum-195801656": "/fstat/vkalbum-195801656.json",
     "/fstat/vkalbum-261186682": "/fstat/vkalbum-261186682.json",
     "/fstat/vkalbum-259689375": "/fstat/vkalbum-259689375.json",
     "/fstat/vkalbum-257994064": "/fstat/vkalbum-257994064.json",
@@ -94,8 +93,7 @@
     "/fstat/vkalbum-195786794": "/fstat/vkalbum-195786794.json",
     "/fstat/vkalbum-195786863": "/fstat/vkalbum-195786863.json",
     "/fstat/vkalbum-195786916": "/fstat/vkalbum-195786916.json",
-    "/fstat/vkalbum-195786935": "/fstat/vkalbum-195786935.json",
-    "/fstat/vkalbum-199639922": "/fstat/vkalbum-199639922.json"
+    "/fstat/vkalbum-195786935": "/fstat/vkalbum-195786935.json"
   },
   "defaultPath": "menu.json"
 }
