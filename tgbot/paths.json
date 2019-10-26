@@ -93,7 +93,8 @@
     "/fstat/vkalbum-195786794": "/fstat/vkalbum-195786794.json",
     "/fstat/vkalbum-195786863": "/fstat/vkalbum-195786863.json",
     "/fstat/vkalbum-195786916": "/fstat/vkalbum-195786916.json",
-    "/fstat/vkalbum-195786935": "/fstat/vkalbum-195786935.json"
+    "/fstat/vkalbum-195786935": "/fstat/vkalbum-195786935.json",
+    "/vkunknown": "unknown.json"
   },
   "defaultPath": "menu.json"
 }
