@@ -1,0 +1,40 @@
+{
+  "info": {
+    "album_id": 225357817,
+    "cover_id": 396387637,
+    "title": "libGDX Jam: \"Жизнь в космосе\"",
+    "description": "",
+    "created": {
+      "timestamp": 1450731157000,
+      "javaDate": "Dec 21, 2015 9:52:37 PM"
+    },
+    "updated": {
+      "timestamp": 1451251426000,
+      "javaDate": "Dec 27, 2015 10:23:46 PM"
+    },
+    "vkLink": "https://vk.com/album-62111632_225357817"
+  },
+  "timastamp": {
+    "timestamp": 1572121476201,
+    "javaDate": "Oct 26, 2019 10:24:36 PM"
+  },
+  "likesFor": {
+    "396387637": {
+      "likesFrom": {}
+    },
+    "397124450": {
+      "likesFrom": {}
+    },
+    "397124455": {
+      "likesFrom": {}
+    },
+    "397124482": {
+      "likesFrom": {}
+    },
+    "397160731": {
+      "likesFrom": {
+        "138317702": {}
+      }
+    }
+  }
+}
