@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 240941425,
-    "cover_id": 456239162,
+    "album_id": {
+      "value": 240941425
+    },
+    "cover_id": {
+      "value": 456239162
+    },
     "title": "Турнир за ЗОЛОТУЮ МИСКУ СУДЬБЫ. Раунд — 2",
     "description": "«БИТВА 12 КОРОЛЕВСТВ»  ",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_240941425"
   },
   "timastamp": {
-    "timestamp": 1572121321212,
-    "javaDate": "Oct 26, 2019 10:22:01 PM"
+    "timestamp": 1572194838918,
+    "javaDate": "Oct 27, 2019 5:47:18 PM"
   },
   "likesFor": {
     "456239162": {

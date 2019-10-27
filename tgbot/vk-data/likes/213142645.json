@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 213142645,
-    "cover_id": 360874754,
+    "album_id": {
+      "value": 213142645
+    },
+    "cover_id": {
+      "value": 360874754
+    },
     "title": "Пикфайт #37 «¡Viva España!»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_213142645"
   },
   "timastamp": {
-    "timestamp": 1572122584271,
-    "javaDate": "Oct 26, 2019 10:43:04 PM"
+    "timestamp": 1572194994575,
+    "javaDate": "Oct 27, 2019 5:49:54 PM"
   },
   "likesFor": {
     "360874754": {

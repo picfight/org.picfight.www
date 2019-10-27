@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 212760531,
-    "cover_id": 360009582,
+    "album_id": {
+      "value": 212760531
+    },
+    "cover_id": {
+      "value": 360009582
+    },
     "title": "Пикфайт #36 «Robofight»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_212760531"
   },
   "timastamp": {
-    "timestamp": 1572122589919,
-    "javaDate": "Oct 26, 2019 10:43:09 PM"
+    "timestamp": 1572194997831,
+    "javaDate": "Oct 27, 2019 5:49:57 PM"
   },
   "likesFor": {
     "360009582": {

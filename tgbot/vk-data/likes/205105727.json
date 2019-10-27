@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 205105727,
-    "cover_id": 347404425,
+    "album_id": {
+      "value": 205105727
+    },
+    "cover_id": {
+      "value": 347404425
+    },
     "title": "Пикфайт#22 «День Всех Святых»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_205105727"
   },
   "timastamp": {
-    "timestamp": 1572122928811,
-    "javaDate": "Oct 26, 2019 10:48:48 PM"
+    "timestamp": 1572195090633,
+    "javaDate": "Oct 27, 2019 5:51:30 PM"
   },
   "likesFor": {
     "347404425": {

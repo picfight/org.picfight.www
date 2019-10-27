@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 221741749,
-    "cover_id": 386036402,
+    "album_id": {
+      "value": 221741749
+    },
+    "cover_id": {
+      "value": 386036402
+    },
     "title": "Пикфайт #46: «Виртуальный пленэр»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_221741749"
   },
   "timastamp": {
-    "timestamp": 1572121526023,
-    "javaDate": "Oct 26, 2019 10:25:26 PM"
+    "timestamp": 1572194902030,
+    "javaDate": "Oct 27, 2019 5:48:22 PM"
   },
   "likesFor": {
     "386036402": {

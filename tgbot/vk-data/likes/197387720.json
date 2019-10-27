@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 197387720,
-    "cover_id": 347406623,
+    "album_id": {
+      "value": 197387720
+    },
+    "cover_id": {
+      "value": 347406623
+    },
     "title": "Пикфайт #14 «Постер»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_197387720"
   },
   "timastamp": {
-    "timestamp": 1572123016314,
-    "javaDate": "Oct 26, 2019 10:50:16 PM"
+    "timestamp": 1572195137925,
+    "javaDate": "Oct 27, 2019 5:52:17 PM"
   },
   "likesFor": {
     "347406623": {

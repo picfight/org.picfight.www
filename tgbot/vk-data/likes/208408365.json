@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 208408365,
-    "cover_id": 350997990,
+    "album_id": {
+      "value": 208408365
+    },
+    "cover_id": {
+      "value": 350997990
+    },
     "title": "Пикфайт #28 «Тайны мира животных»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_208408365"
   },
   "timastamp": {
-    "timestamp": 1572122848505,
-    "javaDate": "Oct 26, 2019 10:47:28 PM"
+    "timestamp": 1572195063840,
+    "javaDate": "Oct 27, 2019 5:51:03 PM"
   },
   "likesFor": {
     "350997990": {

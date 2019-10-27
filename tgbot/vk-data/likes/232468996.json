@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 232468996,
-    "cover_id": 421761803,
+    "album_id": {
+      "value": 232468996
+    },
+    "cover_id": {
+      "value": 421761803
+    },
     "title": "June of Girls",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_232468996"
   },
   "timastamp": {
-    "timestamp": 1572121380340,
-    "javaDate": "Oct 26, 2019 10:23:00 PM"
+    "timestamp": 1572194860224,
+    "javaDate": "Oct 27, 2019 5:47:40 PM"
   },
   "likesFor": {
     "421761793": {

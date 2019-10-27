@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 198768522,
-    "cover_id": 347406376,
+    "album_id": {
+      "value": 198768522
+    },
+    "cover_id": {
+      "value": 347406376
+    },
     "title": "Пикфайт #16 «Мульт-фан-арт»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_198768522"
   },
   "timastamp": {
-    "timestamp": 1572122996507,
-    "javaDate": "Oct 26, 2019 10:49:56 PM"
+    "timestamp": 1572195128365,
+    "javaDate": "Oct 27, 2019 5:52:08 PM"
   },
   "likesFor": {
     "347406376": {

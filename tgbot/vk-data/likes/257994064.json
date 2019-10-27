@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 257994064,
-    "cover_id": 456240822,
+    "album_id": {
+      "value": 257994064
+    },
+    "cover_id": {
+      "value": 456240822
+    },
     "title": "Пикфайт #73 «Супер-корона»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_257994064"
   },
   "timastamp": {
-    "timestamp": 1572118721807,
-    "javaDate": "Oct 26, 2019 9:38:41 PM"
+    "timestamp": 1572194573236,
+    "javaDate": "Oct 27, 2019 5:42:53 PM"
   },
   "likesFor": {
     "456240822": {

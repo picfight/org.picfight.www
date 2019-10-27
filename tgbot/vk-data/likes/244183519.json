@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 244183519,
-    "cover_id": 456239517,
+    "album_id": {
+      "value": 244183519
+    },
+    "cover_id": {
+      "value": 456239517
+    },
     "title": "Пикфайт #57: «ПРОФСОЮЗ САДОВЫХ ГНОМОВ»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_244183519"
   },
   "timastamp": {
-    "timestamp": 1572119327864,
-    "javaDate": "Oct 26, 2019 9:48:47 PM"
+    "timestamp": 1572194800988,
+    "javaDate": "Oct 27, 2019 5:46:40 PM"
   },
   "likesFor": {
     "456239517": {

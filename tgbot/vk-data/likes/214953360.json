@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 214953360,
-    "cover_id": 367533412,
+    "album_id": {
+      "value": 214953360
+    },
+    "cover_id": {
+      "value": 367533412
+    },
     "title": "Пикфайт #41«Переполох в галерее»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_214953360"
   },
   "timastamp": {
-    "timestamp": 1572122550396,
-    "javaDate": "Oct 26, 2019 10:42:30 PM"
+    "timestamp": 1572194974225,
+    "javaDate": "Oct 27, 2019 5:49:34 PM"
   },
   "likesFor": {
     "367533412": {

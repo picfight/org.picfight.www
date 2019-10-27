@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195785994,
-    "cover_id": 347407305,
+    "album_id": {
+      "value": 195785994
+    },
+    "cover_id": {
+      "value": 347407305
+    },
     "title": "Пикфайт #10 «Необычное средство передвижения»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195785994"
   },
   "timastamp": {
-    "timestamp": 1572123056685,
-    "javaDate": "Oct 26, 2019 10:50:56 PM"
+    "timestamp": 1572195159032,
+    "javaDate": "Oct 27, 2019 5:52:39 PM"
   },
   "likesFor": {
     "347407305": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 221400050,
-    "cover_id": 385299127,
+    "album_id": {
+      "value": 221400050
+    },
+    "cover_id": {
+      "value": 385299127
+    },
     "title": "Арт-челлендж — октябрь 2015",
     "description": "Альбом для работ по флешмобам #inktober #inkdrrrwing #drawlloween ",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_221400050"
   },
   "timastamp": {
-    "timestamp": 1572121553099,
-    "javaDate": "Oct 26, 2019 10:25:53 PM"
+    "timestamp": 1572194908614,
+    "javaDate": "Oct 27, 2019 5:48:28 PM"
   },
   "likesFor": {
     "385299127": {

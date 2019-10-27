@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786586,
-    "cover_id": 332610984,
+    "album_id": {
+      "value": 195786586
+    },
+    "cover_id": {
+      "value": 332610984
+    },
     "title": "Пикфайт #5 «Small and Cute»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786586"
   },
   "timastamp": {
-    "timestamp": 1572123081587,
-    "javaDate": "Oct 26, 2019 10:51:21 PM"
+    "timestamp": 1572195176424,
+    "javaDate": "Oct 27, 2019 5:52:56 PM"
   },
   "likesFor": {
     "332610984": {

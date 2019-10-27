@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 243398975,
-    "cover_id": 456239367,
+    "album_id": {
+      "value": 243398975
+    },
+    "cover_id": {
+      "value": 456239367
+    },
     "title": "Пикфайт #56: «За секунду до...»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_243398975"
   },
   "timastamp": {
-    "timestamp": 1572119430697,
-    "javaDate": "Oct 26, 2019 9:50:30 PM"
+    "timestamp": 1572194818621,
+    "javaDate": "Oct 27, 2019 5:46:58 PM"
   },
   "likesFor": {
     "456239367": {

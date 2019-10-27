@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 246001374,
-    "cover_id": 456239847,
+    "album_id": {
+      "value": 246001374
+    },
+    "cover_id": {
+      "value": 456239847
+    },
     "title": "Пикфайт #62: «Дип-дип спейс»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_246001374"
   },
   "timastamp": {
-    "timestamp": 1572119241502,
-    "javaDate": "Oct 26, 2019 9:47:21 PM"
+    "timestamp": 1572194766969,
+    "javaDate": "Oct 27, 2019 5:46:06 PM"
   },
   "likesFor": {
     "456239847": {

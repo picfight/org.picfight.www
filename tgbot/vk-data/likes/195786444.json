@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786444,
-    "cover_id": 332611115,
+    "album_id": {
+      "value": 195786444
+    },
+    "cover_id": {
+      "value": 332611115
+    },
     "title": "Пикфайт #6 «Комиксы или Стрипы»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786444"
   },
   "timastamp": {
-    "timestamp": 1572123075735,
-    "javaDate": "Oct 26, 2019 10:51:15 PM"
+    "timestamp": 1572195173202,
+    "javaDate": "Oct 27, 2019 5:52:53 PM"
   },
   "likesFor": {
     "332611682": {

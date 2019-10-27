@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 229252333,
-    "cover_id": 409151040,
+    "album_id": {
+      "value": 229252333
+    },
+    "cover_id": {
+      "value": 409151040
+    },
     "title": "Пикфайт #52: Узоры",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_229252333"
   },
   "timastamp": {
-    "timestamp": 1572121396692,
-    "javaDate": "Oct 26, 2019 10:23:16 PM"
+    "timestamp": 1572194869475,
+    "javaDate": "Oct 27, 2019 5:47:49 PM"
   },
   "likesFor": {
     "409151040": {

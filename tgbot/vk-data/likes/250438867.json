@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 250438867,
-    "cover_id": 456240410,
+    "album_id": {
+      "value": 250438867
+    },
+    "cover_id": {
+      "value": 456240410
+    },
     "title": "Пикфайт #66: «Новогодний»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_250438867"
   },
   "timastamp": {
-    "timestamp": 1572119144020,
-    "javaDate": "Oct 26, 2019 9:45:44 PM"
+    "timestamp": 1572194723863,
+    "javaDate": "Oct 27, 2019 5:45:23 PM"
   },
   "likesFor": {
     "456240410": {

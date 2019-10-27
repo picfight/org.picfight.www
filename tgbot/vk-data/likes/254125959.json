@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 254125959,
-    "cover_id": 456240573,
+    "album_id": {
+      "value": 254125959
+    },
+    "cover_id": {
+      "value": 456240573
+    },
     "title": "Пикфайт #70: «Грибной»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_254125959"
   },
   "timastamp": {
-    "timestamp": 1572119093564,
-    "javaDate": "Oct 26, 2019 9:44:53 PM"
+    "timestamp": 1572194698876,
+    "javaDate": "Oct 27, 2019 5:44:58 PM"
   },
   "likesFor": {
     "456240573": {

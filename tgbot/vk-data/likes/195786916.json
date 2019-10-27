@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786916,
-    "cover_id": 332609730,
+    "album_id": {
+      "value": 195786916
+    },
+    "cover_id": {
+      "value": 332609730
+    },
     "title": "Пикфайт #1 «Почтовые марки из далеких миров»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786916"
   },
   "timastamp": {
-    "timestamp": 1572123096422,
-    "javaDate": "Oct 26, 2019 10:51:36 PM"
+    "timestamp": 1572195182077,
+    "javaDate": "Oct 27, 2019 5:53:02 PM"
   },
   "likesFor": {
     "332609730": {

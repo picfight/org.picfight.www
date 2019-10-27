@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 200436645,
-    "cover_id": 347405337,
+    "album_id": {
+      "value": 200436645
+    },
+    "cover_id": {
+      "value": 347405337
+    },
     "title": "Пикфайт #20 «Знакомство»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_200436645"
   },
   "timastamp": {
-    "timestamp": 1572122968904,
-    "javaDate": "Oct 26, 2019 10:49:28 PM"
+    "timestamp": 1572195113993,
+    "javaDate": "Oct 27, 2019 5:51:53 PM"
   },
   "likesFor": {
     "347405337": {

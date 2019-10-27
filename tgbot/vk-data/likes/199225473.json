@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 199225473,
-    "cover_id": 347406160,
+    "album_id": {
+      "value": 199225473
+    },
+    "cover_id": {
+      "value": 347406160
+    },
     "title": "Пикфайт #17 «Вандализм В Третьяковке»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_199225473"
   },
   "timastamp": {
-    "timestamp": 1572122989289,
-    "javaDate": "Oct 26, 2019 10:49:49 PM"
+    "timestamp": 1572195124575,
+    "javaDate": "Oct 27, 2019 5:52:04 PM"
   },
   "likesFor": {
     "347406160": {

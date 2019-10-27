@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 225018847,
-    "cover_id": 395298042,
+    "album_id": {
+      "value": 225018847
+    },
+    "cover_id": {
+      "value": 395298042
+    },
     "title": "Пикфайт #49 \"Счастье\"",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_225018847"
   },
   "timastamp": {
-    "timestamp": 1572121501736,
-    "javaDate": "Oct 26, 2019 10:25:01 PM"
+    "timestamp": 1572194887417,
+    "javaDate": "Oct 27, 2019 5:48:07 PM"
   },
   "likesFor": {
     "395298042": {

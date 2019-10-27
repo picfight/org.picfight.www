@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 215538277,
-    "cover_id": 369074229,
+    "album_id": {
+      "value": 215538277
+    },
+    "cover_id": {
+      "value": 369074229
+    },
     "title": "Турнир, II-й этап: «Суперэтногерой»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_215538277"
   },
   "timastamp": {
-    "timestamp": 1572121803469,
-    "javaDate": "Oct 26, 2019 10:30:03 PM"
+    "timestamp": 1572194962144,
+    "javaDate": "Oct 27, 2019 5:49:22 PM"
   },
   "likesFor": {
     "369074229": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 246296306,
-    "cover_id": 456239882,
+    "album_id": {
+      "value": 246296306
+    },
+    "cover_id": {
+      "value": 456239882
+    },
     "title": "Пикфайт #63: «Поэтический»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_246296306"
   },
   "timastamp": {
-    "timestamp": 1572119227638,
-    "javaDate": "Oct 26, 2019 9:47:07 PM"
+    "timestamp": 1572194761335,
+    "javaDate": "Oct 27, 2019 5:46:01 PM"
   },
   "likesFor": {
     "456239882": {

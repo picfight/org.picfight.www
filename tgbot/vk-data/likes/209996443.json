@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 209996443,
-    "cover_id": 353925016,
+    "album_id": {
+      "value": 209996443
+    },
+    "cover_id": {
+      "value": 353925016
+    },
     "title": "Пикфайт #29 «Гигантомания»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_209996443"
   },
   "timastamp": {
-    "timestamp": 1572122835647,
-    "javaDate": "Oct 26, 2019 10:47:15 PM"
+    "timestamp": 1572195058892,
+    "javaDate": "Oct 27, 2019 5:50:58 PM"
   },
   "likesFor": {
     "353925016": {

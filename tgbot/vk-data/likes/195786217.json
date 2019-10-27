@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786217,
-    "cover_id": 333931014,
+    "album_id": {
+      "value": 195786217
+    },
+    "cover_id": {
+      "value": 333931014
+    },
     "title": "Пикфайт #9 «Монстры, наружу!»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786217"
   },
   "timastamp": {
-    "timestamp": 1572123062097,
-    "javaDate": "Oct 26, 2019 10:51:02 PM"
+    "timestamp": 1572195162277,
+    "javaDate": "Oct 27, 2019 5:52:42 PM"
   },
   "likesFor": {
     "332617075": {

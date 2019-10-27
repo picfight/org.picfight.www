@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 245613039,
-    "cover_id": 456239803,
+    "album_id": {
+      "value": 245613039
+    },
+    "cover_id": {
+      "value": 456239803
+    },
     "title": "Пикфайт #61: «Abstract fight»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_245613039"
   },
   "timastamp": {
-    "timestamp": 1572119257951,
-    "javaDate": "Oct 26, 2019 9:47:37 PM"
+    "timestamp": 1572194772598,
+    "javaDate": "Oct 27, 2019 5:46:12 PM"
   },
   "likesFor": {
     "456239803": {

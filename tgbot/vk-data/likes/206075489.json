@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 206075489,
-    "cover_id": 347696578,
+    "album_id": {
+      "value": 206075489
+    },
+    "cover_id": {
+      "value": 347696578
+    },
     "title": "Пикфайт #25 «Интерпретация»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_206075489"
   },
   "timastamp": {
-    "timestamp": 1572122901935,
-    "javaDate": "Oct 26, 2019 10:48:21 PM"
+    "timestamp": 1572195078649,
+    "javaDate": "Oct 27, 2019 5:51:18 PM"
   },
   "likesFor": {
     "347696578": {

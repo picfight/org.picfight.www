@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 245190428,
-    "cover_id": 456239758,
+    "album_id": {
+      "value": 245190428
+    },
+    "cover_id": {
+      "value": 456239758
+    },
     "title": "Пикфайт #60: «CHILL øUT»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_245190428"
   },
   "timastamp": {
-    "timestamp": 1572119271789,
-    "javaDate": "Oct 26, 2019 9:47:51 PM"
+    "timestamp": 1572194779596,
+    "javaDate": "Oct 27, 2019 5:46:19 PM"
   },
   "likesFor": {
     "456239758": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 212386423,
-    "cover_id": 359132385,
+    "album_id": {
+      "value": 212386423
+    },
+    "cover_id": {
+      "value": 359132385
+    },
     "title": "Пикфайт #35 «Весеннее Настроение»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_212386423"
   },
   "timastamp": {
-    "timestamp": 1572122602107,
-    "javaDate": "Oct 26, 2019 10:43:22 PM"
+    "timestamp": 1572195007024,
+    "javaDate": "Oct 27, 2019 5:50:07 PM"
   },
   "likesFor": {
     "359132385": {

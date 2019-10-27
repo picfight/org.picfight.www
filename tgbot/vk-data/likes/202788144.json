@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 202788144,
-    "cover_id": 347404911,
+    "album_id": {
+      "value": 202788144
+    },
+    "cover_id": {
+      "value": 347404911
+    },
     "title": "Пикфайт #21 «Очеловечивание предметов и животных»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_202788144"
   },
   "timastamp": {
-    "timestamp": 1572122964063,
-    "javaDate": "Oct 26, 2019 10:49:24 PM"
+    "timestamp": 1572195109293,
+    "javaDate": "Oct 27, 2019 5:51:49 PM"
   },
   "likesFor": {
     "347404911": {

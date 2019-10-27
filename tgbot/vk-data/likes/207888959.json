@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 207888959,
-    "cover_id": 350234798,
+    "album_id": {
+      "value": 207888959
+    },
+    "cover_id": {
+      "value": 350234798
+    },
     "title": "Пикфайт #27 «Открытка»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_207888959"
   },
   "timastamp": {
-    "timestamp": 1572122857767,
-    "javaDate": "Oct 26, 2019 10:47:37 PM"
+    "timestamp": 1572195067093,
+    "javaDate": "Oct 27, 2019 5:51:07 PM"
   },
   "likesFor": {
     "350234798": {

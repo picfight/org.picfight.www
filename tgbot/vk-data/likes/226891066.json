@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 226891066,
-    "cover_id": 401066914,
+    "album_id": {
+      "value": 226891066
+    },
+    "cover_id": {
+      "value": 401066914
+    },
     "title": "Пикфайт #50: \"Маяки\"",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_226891066"
   },
   "timastamp": {
-    "timestamp": 1572121421617,
-    "javaDate": "Oct 26, 2019 10:23:41 PM"
+    "timestamp": 1572194878278,
+    "javaDate": "Oct 27, 2019 5:47:58 PM"
   },
   "likesFor": {
     "401066914": {

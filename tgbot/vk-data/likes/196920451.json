@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 196920451,
-    "cover_id": 347406803,
+    "album_id": {
+      "value": 196920451
+    },
+    "cover_id": {
+      "value": 347406803
+    },
     "title": "Пикфайт #13 «Нечисть»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_196920451"
   },
   "timastamp": {
-    "timestamp": 1572123021862,
-    "javaDate": "Oct 26, 2019 10:50:21 PM"
+    "timestamp": 1572195140893,
+    "javaDate": "Oct 27, 2019 5:52:20 PM"
   },
   "likesFor": {
     "347406803": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 205883014,
-    "cover_id": 347403868,
+    "album_id": {
+      "value": 205883014
+    },
+    "cover_id": {
+      "value": 347403868
+    },
     "title": "Пикфайт #24 «Рецепт любимого блюда»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_205883014"
   },
   "timastamp": {
-    "timestamp": 1572122905929,
-    "javaDate": "Oct 26, 2019 10:48:25 PM"
+    "timestamp": 1572195082509,
+    "javaDate": "Oct 27, 2019 5:51:22 PM"
   },
   "likesFor": {
     "347403868": {

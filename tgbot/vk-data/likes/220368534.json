@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 220368534,
-    "cover_id": 382468545,
+    "album_id": {
+      "value": 220368534
+    },
+    "cover_id": {
+      "value": 382468545
+    },
     "title": "Пикфайт #44 «Скоровища из сумки»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_220368534"
   },
   "timastamp": {
-    "timestamp": 1572121651691,
-    "javaDate": "Oct 26, 2019 10:27:31 PM"
+    "timestamp": 1572194940522,
+    "javaDate": "Oct 27, 2019 5:49:00 PM"
   },
   "likesFor": {
     "382468545": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 247321875,
-    "cover_id": 456239990,
+    "album_id": {
+      "value": 247321875
+    },
+    "cover_id": {
+      "value": 456239990
+    },
     "title": "Пикфайт #65: «Game of Thrones»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_247321875"
   },
   "timastamp": {
-    "timestamp": 1572119197288,
-    "javaDate": "Oct 26, 2019 9:46:37 PM"
+    "timestamp": 1572194746052,
+    "javaDate": "Oct 27, 2019 5:45:46 PM"
   },
   "likesFor": {
     "456239990": {

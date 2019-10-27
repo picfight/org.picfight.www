@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 239783381,
-    "cover_id": 456239055,
+    "album_id": {
+      "value": 239783381
+    },
+    "cover_id": {
+      "value": 456239055
+    },
     "title": "Пикфайт #53: Петушки",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_239783381"
   },
   "timastamp": {
-    "timestamp": 1572121360064,
-    "javaDate": "Oct 26, 2019 10:22:40 PM"
+    "timestamp": 1572194853848,
+    "javaDate": "Oct 27, 2019 5:47:33 PM"
   },
   "likesFor": {
     "456239055": {

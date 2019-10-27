@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 207337122,
-    "cover_id": 349460871,
+    "album_id": {
+      "value": 207337122
+    },
+    "cover_id": {
+      "value": 349460871
+    },
     "title": "Пикфайт #26 «Тлен и Боль»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_207337122"
   },
   "timastamp": {
-    "timestamp": 1572122886982,
-    "javaDate": "Oct 26, 2019 10:48:06 PM"
+    "timestamp": 1572195072736,
+    "javaDate": "Oct 27, 2019 5:51:12 PM"
   },
   "likesFor": {
     "349460871": {

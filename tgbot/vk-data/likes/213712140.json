@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 213712140,
-    "cover_id": 362220828,
+    "album_id": {
+      "value": 213712140
+    },
+    "cover_id": {
+      "value": 362220828
+    },
     "title": "Пикфайт #38 «Кельтозавры»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_213712140"
   },
   "timastamp": {
-    "timestamp": 1572122571717,
-    "javaDate": "Oct 26, 2019 10:42:51 PM"
+    "timestamp": 1572194986000,
+    "javaDate": "Oct 27, 2019 5:49:46 PM"
   },
   "likesFor": {
     "362220828": {

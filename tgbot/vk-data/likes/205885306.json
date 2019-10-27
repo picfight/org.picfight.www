@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 205885306,
-    "cover_id": 347408777,
+    "album_id": {
+      "value": 205885306
+    },
+    "cover_id": {
+      "value": 347408777
+    },
     "title": "Пикфайт-дуэль #1",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_205885306"
   },
   "timastamp": {
-    "timestamp": 1572122931126,
-    "javaDate": "Oct 26, 2019 10:48:51 PM"
+    "timestamp": 1572195093479,
+    "javaDate": "Oct 27, 2019 5:51:33 PM"
   },
   "likesFor": {
     "347408777": {

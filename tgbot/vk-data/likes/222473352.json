@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 222473352,
-    "cover_id": 388116234,
+    "album_id": {
+      "value": 222473352
+    },
+    "cover_id": {
+      "value": 388116234
+    },
     "title": "Пикфайт #47 «Японская школа»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_222473352"
   },
   "timastamp": {
-    "timestamp": 1572121517684,
-    "javaDate": "Oct 26, 2019 10:25:17 PM"
+    "timestamp": 1572194899166,
+    "javaDate": "Oct 27, 2019 5:48:19 PM"
   },
   "likesFor": {
     "388116234": {

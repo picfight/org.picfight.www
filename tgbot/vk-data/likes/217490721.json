@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 217490721,
-    "cover_id": 374403034,
+    "album_id": {
+      "value": 217490721
+    },
+    "cover_id": {
+      "value": 374403034
+    },
     "title": "Пикфайт #43 «Сессия»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_217490721"
   },
   "timastamp": {
-    "timestamp": 1572121702371,
-    "javaDate": "Oct 26, 2019 10:28:22 PM"
+    "timestamp": 1572194953270,
+    "javaDate": "Oct 27, 2019 5:49:13 PM"
   },
   "likesFor": {
     "374403034": {

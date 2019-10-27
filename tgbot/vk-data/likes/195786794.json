@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786794,
-    "cover_id": 332610414,
+    "album_id": {
+      "value": 195786794
+    },
+    "cover_id": {
+      "value": 332610414
+    },
     "title": "Пикфайт #4 «Ачивки»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786794"
   },
   "timastamp": {
-    "timestamp": 1572123087203,
-    "javaDate": "Oct 26, 2019 10:51:27 PM"
+    "timestamp": 1572195179372,
+    "javaDate": "Oct 27, 2019 5:52:59 PM"
   },
   "likesFor": {
     "332610527": {

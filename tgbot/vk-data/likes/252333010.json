@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 252333010,
-    "cover_id": 456240521,
+    "album_id": {
+      "value": 252333010
+    },
+    "cover_id": {
+      "value": 456240521
+    },
     "title": "Пикфайт #69: «Доблестные воины пикфайтовых земель»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_252333010"
   },
   "timastamp": {
-    "timestamp": 1572119124661,
-    "javaDate": "Oct 26, 2019 9:45:24 PM"
+    "timestamp": 1572194715031,
+    "javaDate": "Oct 27, 2019 5:45:15 PM"
   },
   "likesFor": {
     "456240521": {

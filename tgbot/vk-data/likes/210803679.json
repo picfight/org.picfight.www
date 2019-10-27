@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 210803679,
-    "cover_id": 355547601,
+    "album_id": {
+      "value": 210803679
+    },
+    "cover_id": {
+      "value": 355547601
+    },
     "title": "Пикфайт #31 «Лисы (фантастические и прекрасные)»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_210803679"
   },
   "timastamp": {
-    "timestamp": 1572122789723,
-    "javaDate": "Oct 26, 2019 10:46:29 PM"
+    "timestamp": 1572195042345,
+    "javaDate": "Oct 27, 2019 5:50:42 PM"
   },
   "likesFor": {
     "355547601": {

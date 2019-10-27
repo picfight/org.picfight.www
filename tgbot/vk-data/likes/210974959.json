@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 210974959,
-    "cover_id": 355908164,
+    "album_id": {
+      "value": 210974959
+    },
+    "cover_id": {
+      "value": 355908164
+    },
     "title": "Пикфайт #32 «Let me love you»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_210974959"
   },
   "timastamp": {
-    "timestamp": 1572122744420,
-    "javaDate": "Oct 26, 2019 10:45:44 PM"
+    "timestamp": 1572195030918,
+    "javaDate": "Oct 27, 2019 5:50:30 PM"
   },
   "likesFor": {
     "355908164": {

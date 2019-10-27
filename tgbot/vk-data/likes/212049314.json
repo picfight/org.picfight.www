@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 212049314,
-    "cover_id": 358290417,
+    "album_id": {
+      "value": 212049314
+    },
+    "cover_id": {
+      "value": 358290417
+    },
     "title": "Пикфайт #34 «Мини-мания»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_212049314"
   },
   "timastamp": {
-    "timestamp": 1572122611148,
-    "javaDate": "Oct 26, 2019 10:43:31 PM"
+    "timestamp": 1572195014033,
+    "javaDate": "Oct 27, 2019 5:50:14 PM"
   },
   "likesFor": {
     "358290417": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 216192762,
-    "cover_id": 370875482,
+    "album_id": {
+      "value": 216192762
+    },
+    "cover_id": {
+      "value": 370875482
+    },
     "title": "Пикфайт #42 «Автостопом по галактике»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_216192762"
   },
   "timastamp": {
-    "timestamp": 1572121712156,
-    "javaDate": "Oct 26, 2019 10:28:32 PM"
+    "timestamp": 1572194956020,
+    "javaDate": "Oct 27, 2019 5:49:16 PM"
   },
   "likesFor": {
     "370875482": {

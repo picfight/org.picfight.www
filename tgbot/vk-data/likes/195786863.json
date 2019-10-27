@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786863,
-    "cover_id": 332609952,
+    "album_id": {
+      "value": 195786863
+    },
+    "cover_id": {
+      "value": 332609952
+    },
     "title": "Пикфайт #2 «Подводный мир»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786863"
   },
   "timastamp": {
-    "timestamp": 1572123094533,
-    "javaDate": "Oct 26, 2019 10:51:34 PM"
+    "timestamp": 1572195179879,
+    "javaDate": "Oct 27, 2019 5:52:59 PM"
   },
   "likesFor": {
     "332610055": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 246875917,
-    "cover_id": 456239942,
+    "album_id": {
+      "value": 246875917
+    },
+    "cover_id": {
+      "value": 456239942
+    },
     "title": "Пикфайт #64: «День Рождения у Фрэнка»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_246875917"
   },
   "timastamp": {
-    "timestamp": 1572119215432,
-    "javaDate": "Oct 26, 2019 9:46:55 PM"
+    "timestamp": 1572194756869,
+    "javaDate": "Oct 27, 2019 5:45:56 PM"
   },
   "likesFor": {
     "456239942": {

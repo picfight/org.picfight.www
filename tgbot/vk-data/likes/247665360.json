@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 247665360,
-    "cover_id": 456240041,
+    "album_id": {
+      "value": 247665360
+    },
+    "cover_id": {
+      "value": 456240041
+    },
     "title": "Inktober 2017",
     "description": "Альбом для работ по флешмобам #inktober2017 #inktober #inkdrrrwing #drawlloween",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_247665360"
   },
   "timastamp": {
-    "timestamp": 1572119158237,
-    "javaDate": "Oct 26, 2019 9:45:58 PM"
+    "timestamp": 1572194727267,
+    "javaDate": "Oct 27, 2019 5:45:27 PM"
   },
   "likesFor": {
     "456240041": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 259689375,
-    "cover_id": 456240876,
+    "album_id": {
+      "value": 259689375
+    },
+    "cover_id": {
+      "value": 456240876
+    },
     "title": "Пикфайт №74  «Елочные игрушки»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_259689375"
   },
   "timastamp": {
-    "timestamp": 1572118685667,
-    "javaDate": "Oct 26, 2019 9:38:05 PM"
+    "timestamp": 1572194524220,
+    "javaDate": "Oct 27, 2019 5:42:04 PM"
   },
   "likesFor": {
     "456240851": {

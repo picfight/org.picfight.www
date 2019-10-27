@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 200046833,
-    "cover_id": 347405576,
+    "album_id": {
+      "value": 200046833
+    },
+    "cover_id": {
+      "value": 347405576
+    },
     "title": "Пикфайт #19 «Котики»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_200046833"
   },
   "timastamp": {
-    "timestamp": 1572122975788,
-    "javaDate": "Oct 26, 2019 10:49:35 PM"
+    "timestamp": 1572195118485,
+    "javaDate": "Oct 27, 2019 5:51:58 PM"
   },
   "likesFor": {
     "347405576": {

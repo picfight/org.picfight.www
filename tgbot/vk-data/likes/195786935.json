@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786935,
-    "cover_id": 332609480,
+    "album_id": {
+      "value": 195786935
+    },
+    "cover_id": {
+      "value": 332609480
+    },
     "title": "Пикфайт #0: «Роботы-убийцы»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786935"
   },
   "timastamp": {
-    "timestamp": 1572123100701,
-    "javaDate": "Oct 26, 2019 10:51:40 PM"
+    "timestamp": 1572195182440,
+    "javaDate": "Oct 27, 2019 5:53:02 PM"
   },
   "likesFor": {
     "332609480": {

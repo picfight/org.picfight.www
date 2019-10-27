@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 205561348,
-    "cover_id": 347404127,
+    "album_id": {
+      "value": 205561348
+    },
+    "cover_id": {
+      "value": 347404127
+    },
     "title": "Пикфайт #23 «Цвет. Форма. Предмет»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_205561348"
   },
   "timastamp": {
-    "timestamp": 1572122921211,
-    "javaDate": "Oct 26, 2019 10:48:41 PM"
+    "timestamp": 1572195084987,
+    "javaDate": "Oct 27, 2019 5:51:24 PM"
   },
   "likesFor": {
     "347404127": {

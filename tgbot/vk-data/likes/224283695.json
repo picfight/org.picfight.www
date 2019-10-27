@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 224283695,
-    "cover_id": 393197463,
+    "album_id": {
+      "value": 224283695
+    },
+    "cover_id": {
+      "value": 393197463
+    },
     "title": "Пикфайт #48 «Овечкомания»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_224283695"
   },
   "timastamp": {
-    "timestamp": 1572121506044,
-    "javaDate": "Oct 26, 2019 10:25:06 PM"
+    "timestamp": 1572194892918,
+    "javaDate": "Oct 27, 2019 5:48:12 PM"
   },
   "likesFor": {
     "393197463": {

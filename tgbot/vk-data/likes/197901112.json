@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 197901112,
-    "cover_id": 347406509,
+    "album_id": {
+      "value": 197901112
+    },
+    "cover_id": {
+      "value": 347406509
+    },
     "title": "Пикфайт #15 «Загадка белого силуэта»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_197901112"
   },
   "timastamp": {
-    "timestamp": 1572123010400,
-    "javaDate": "Oct 26, 2019 10:50:10 PM"
+    "timestamp": 1572195137114,
+    "javaDate": "Oct 27, 2019 5:52:17 PM"
   },
   "likesFor": {
     "347406509": {

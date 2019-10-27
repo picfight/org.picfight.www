@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786373,
-    "cover_id": 332613066,
+    "album_id": {
+      "value": 195786373
+    },
+    "cover_id": {
+      "value": 332613066
+    },
     "title": "Пикфайт #7 «Игровые концепты»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786373"
   },
   "timastamp": {
-    "timestamp": 1572123071989,
-    "javaDate": "Oct 26, 2019 10:51:11 PM"
+    "timestamp": 1572195170459,
+    "javaDate": "Oct 27, 2019 5:52:50 PM"
   },
   "likesFor": {
     "332613735": {

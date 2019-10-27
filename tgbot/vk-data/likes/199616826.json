@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 199616826,
-    "cover_id": 347405824,
+    "album_id": {
+      "value": 199616826
+    },
+    "cover_id": {
+      "value": 347405824
+    },
     "title": "Пикфайт #18 «Дизайн персонажей для 2D-игр»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_199616826"
   },
   "timastamp": {
-    "timestamp": 1572122980071,
-    "javaDate": "Oct 26, 2019 10:49:40 PM"
+    "timestamp": 1572195121041,
+    "javaDate": "Oct 27, 2019 5:52:01 PM"
   },
   "likesFor": {
     "347405824": {

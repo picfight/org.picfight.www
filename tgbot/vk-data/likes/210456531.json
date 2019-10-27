@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 210456531,
-    "cover_id": 354827836,
+    "album_id": {
+      "value": 210456531
+    },
+    "cover_id": {
+      "value": 354827836
+    },
     "title": "Пикфайт #30  «Я у мамы астронавт»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_210456531"
   },
   "timastamp": {
-    "timestamp": 1572122826666,
-    "javaDate": "Oct 26, 2019 10:47:06 PM"
+    "timestamp": 1572195055029,
+    "javaDate": "Oct 27, 2019 5:50:55 PM"
   },
   "likesFor": {
     "354827836": {

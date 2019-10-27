@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 250853603,
-    "cover_id": 456240438,
+    "album_id": {
+      "value": 250853603
+    },
+    "cover_id": {
+      "value": 456240438
+    },
     "title": "Пикфайт #67: «Обложка»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_250853603"
   },
   "timastamp": {
-    "timestamp": 1572119133200,
-    "javaDate": "Oct 26, 2019 9:45:33 PM"
+    "timestamp": 1572194720299,
+    "javaDate": "Oct 27, 2019 5:45:20 PM"
   },
   "likesFor": {
     "456240438": {

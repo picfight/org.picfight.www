@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 196452956,
-    "cover_id": 347406893,
+    "album_id": {
+      "value": 196452956
+    },
+    "cover_id": {
+      "value": 347406893
+    },
     "title": "Пикфайт #12 «Планы на лето»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_196452956"
   },
   "timastamp": {
-    "timestamp": 1572123033981,
-    "javaDate": "Oct 26, 2019 10:50:33 PM"
+    "timestamp": 1572195149179,
+    "javaDate": "Oct 27, 2019 5:52:29 PM"
   },
   "likesFor": {
     "347406893": {

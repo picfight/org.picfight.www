@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 228673401,
-    "cover_id": 407008726,
+    "album_id": {
+      "value": 228673401
+    },
+    "cover_id": {
+      "value": 407008726
+    },
     "title": "Пикфайт #51: \"Мех и шерсть\"",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_228673401"
   },
   "timastamp": {
-    "timestamp": 1572121411952,
-    "javaDate": "Oct 26, 2019 10:23:31 PM"
+    "timestamp": 1572194874557,
+    "javaDate": "Oct 27, 2019 5:47:54 PM"
   },
   "likesFor": {
     "407008726": {

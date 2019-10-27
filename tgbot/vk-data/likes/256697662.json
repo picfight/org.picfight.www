@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 256697662,
-    "cover_id": 456240763,
+    "album_id": {
+      "value": 256697662
+    },
+    "cover_id": {
+      "value": 456240763
+    },
     "title": "Пикфайт #72 «Время приключений»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_256697662"
   },
   "timastamp": {
-    "timestamp": 1572118742912,
-    "javaDate": "Oct 26, 2019 9:39:02 PM"
+    "timestamp": 1572194581058,
+    "javaDate": "Oct 27, 2019 5:43:01 PM"
   },
   "likesFor": {
     "456240763": {

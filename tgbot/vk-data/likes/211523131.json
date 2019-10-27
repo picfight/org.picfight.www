@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 211523131,
-    "cover_id": 357093726,
+    "album_id": {
+      "value": 211523131
+    },
+    "cover_id": {
+      "value": 357093726
+    },
     "title": "Пикфайт #33 «Корги и Ко»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_211523131"
   },
   "timastamp": {
-    "timestamp": 1572122638519,
-    "javaDate": "Oct 26, 2019 10:43:58 PM"
+    "timestamp": 1572195021966,
+    "javaDate": "Oct 27, 2019 5:50:21 PM"
   },
   "likesFor": {
     "357093726": {

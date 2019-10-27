@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 242679912,
-    "cover_id": 456239278,
+    "album_id": {
+      "value": 242679912
+    },
+    "cover_id": {
+      "value": 456239278
+    },
     "title": "Пикфайт #55: Таро",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_242679912"
   },
   "timastamp": {
-    "timestamp": 1572119498990,
-    "javaDate": "Oct 26, 2019 9:51:38 PM"
+    "timestamp": 1572194821802,
+    "javaDate": "Oct 27, 2019 5:47:01 PM"
   },
   "likesFor": {
     "456239278": {

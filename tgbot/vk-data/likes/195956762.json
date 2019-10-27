@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195956762,
-    "cover_id": 347407127,
+    "album_id": {
+      "value": 195956762
+    },
+    "cover_id": {
+      "value": 347407127
+    },
     "title": "Пикфайт #11 «Сказки сами не проиллюстрируются»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195956762"
   },
   "timastamp": {
-    "timestamp": 1572123042713,
-    "javaDate": "Oct 26, 2019 10:50:42 PM"
+    "timestamp": 1572195153644,
+    "javaDate": "Oct 27, 2019 5:52:33 PM"
   },
   "likesFor": {
     "347407127": {

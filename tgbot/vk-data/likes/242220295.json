@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 242220295,
-    "cover_id": 456239213,
+    "album_id": {
+      "value": 242220295
+    },
+    "cover_id": {
+      "value": 456239213
+    },
     "title": "Пикфайт #54: Вперед и к звездам!",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_242220295"
   },
   "timastamp": {
-    "timestamp": 1572121294253,
-    "javaDate": "Oct 26, 2019 10:21:34 PM"
+    "timestamp": 1572194829459,
+    "javaDate": "Oct 27, 2019 5:47:09 PM"
   },
   "likesFor": {
     "456239213": {

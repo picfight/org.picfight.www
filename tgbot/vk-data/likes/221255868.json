@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 221255868,
-    "cover_id": 384901560,
+    "album_id": {
+      "value": 221255868
+    },
+    "cover_id": {
+      "value": 384901560
+    },
     "title": "Пикфайт #45 «Лис Тинто»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_221255868"
   },
   "timastamp": {
-    "timestamp": 1572121631279,
-    "javaDate": "Oct 26, 2019 10:27:11 PM"
+    "timestamp": 1572194934753,
+    "javaDate": "Oct 27, 2019 5:48:54 PM"
   },
   "likesFor": {
     "384901560": {

@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 217955844,
-    "cover_id": 375693100,
+    "album_id": {
+      "value": 217955844
+    },
+    "cover_id": {
+      "value": 375693100
+    },
     "title": "Арт-челлендж — июль 2015",
     "description": "Альбом для работ по флешмобам #julyofboys и #scullyjuly",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_217955844"
   },
   "timastamp": {
-    "timestamp": 1572121694582,
-    "javaDate": "Oct 26, 2019 10:28:14 PM"
+    "timestamp": 1572194949749,
+    "javaDate": "Oct 27, 2019 5:49:09 PM"
   },
   "likesFor": {
     "375693100": {

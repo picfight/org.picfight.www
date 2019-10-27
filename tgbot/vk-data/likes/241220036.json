@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 241220036,
-    "cover_id": 456239175,
+    "album_id": {
+      "value": 241220036
+    },
+    "cover_id": {
+      "value": 456239175
+    },
     "title": "Турнир за ЗОЛОТУЮ МИСКУ СУДЬБЫ. Раунд — 3",
     "description": "Тема: СЕМЕЙНЫЙ УЖИН",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_241220036"
   },
   "timastamp": {
-    "timestamp": 1572121310893,
-    "javaDate": "Oct 26, 2019 10:21:50 PM"
+    "timestamp": 1572194835942,
+    "javaDate": "Oct 27, 2019 5:47:15 PM"
   },
   "likesFor": {
     "456239175": {

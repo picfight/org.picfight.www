@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 261186682,
-    "cover_id": 456240944,
+    "album_id": {
+      "value": 261186682
+    },
+    "cover_id": {
+      "value": 456240944
+    },
     "title": "Пикфайт №75 «Дикая Охота»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_261186682"
   },
   "timastamp": {
-    "timestamp": 1572118584004,
-    "javaDate": "Oct 26, 2019 9:36:24 PM"
+    "timestamp": 1572194493886,
+    "javaDate": "Oct 27, 2019 5:41:33 PM"
   },
   "likesFor": {
     "456240919": {

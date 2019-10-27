@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 256165914,
-    "cover_id": 456240712,
+    "album_id": {
+      "value": 256165914
+    },
+    "cover_id": {
+      "value": 456240712
+    },
     "title": "«3 сентября»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_256165914"
   },
   "timastamp": {
-    "timestamp": 1572118868056,
-    "javaDate": "Oct 26, 2019 9:41:08 PM"
+    "timestamp": 1572194625576,
+    "javaDate": "Oct 27, 2019 5:43:45 PM"
   },
   "likesFor": {
     "456240712": {

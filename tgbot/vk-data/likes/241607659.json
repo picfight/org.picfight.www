@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 241607659,
-    "cover_id": 456239186,
+    "album_id": {
+      "value": 241607659
+    },
+    "cover_id": {
+      "value": 456239186
+    },
     "title": "Турнир за ЗОЛОТУЮ МИСКУ СУДЬБЫ: гранд финал",
     "description": "Тема: «Ночной жор: отвязная вечеринка»",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_241607659"
   },
   "timastamp": {
-    "timestamp": 1572121306554,
-    "javaDate": "Oct 26, 2019 10:21:46 PM"
+    "timestamp": 1572194835408,
+    "javaDate": "Oct 27, 2019 5:47:15 PM"
   },
   "likesFor": {
     "456239186": {

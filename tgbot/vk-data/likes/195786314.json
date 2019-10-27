@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 195786314,
-    "cover_id": 332615846,
+    "album_id": {
+      "value": 195786314
+    },
+    "cover_id": {
+      "value": 332615846
+    },
     "title": "Пикфайт #8 «Оммаж»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_195786314"
   },
   "timastamp": {
-    "timestamp": 1572123066452,
-    "javaDate": "Oct 26, 2019 10:51:06 PM"
+    "timestamp": 1572195167724,
+    "javaDate": "Oct 27, 2019 5:52:47 PM"
   },
   "likesFor": {
     "332616236": {

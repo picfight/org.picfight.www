@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 240689890,
-    "cover_id": 456239108,
+    "album_id": {
+      "value": 240689890
+    },
+    "cover_id": {
+      "value": 456239108
+    },
     "title": "Турнир за ЗОЛОТУЮ МИСКУ СУДЬБЫ. Раунд — 1",
     "description": "Тема: СТРАСТНЫЙ ЗАВТРАК\n2017",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_240689890"
   },
   "timastamp": {
-    "timestamp": 1572121342534,
-    "javaDate": "Oct 26, 2019 10:22:22 PM"
+    "timestamp": 1572194844538,
+    "javaDate": "Oct 27, 2019 5:47:24 PM"
   },
   "likesFor": {
     "456239108": {

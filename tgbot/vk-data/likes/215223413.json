@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 215223413,
-    "cover_id": 368244606,
+    "album_id": {
+      "value": 215223413
+    },
+    "cover_id": {
+      "value": 368244606
+    },
     "title": "Турнир, I-й этап: «Народы мира»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_215223413"
   },
   "timastamp": {
-    "timestamp": 1572121830534,
-    "javaDate": "Oct 26, 2019 10:30:30 PM"
+    "timestamp": 1572194965403,
+    "javaDate": "Oct 27, 2019 5:49:25 PM"
   },
   "likesFor": {
     "368244606": {

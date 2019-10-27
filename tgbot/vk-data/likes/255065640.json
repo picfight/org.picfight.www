@@ -1,7 +1,11 @@
 {
   "info": {
-    "album_id": 255065640,
-    "cover_id": 456240641,
+    "album_id": {
+      "value": 255065640
+    },
+    "cover_id": {
+      "value": 456240641
+    },
     "title": "Пикфайт #71: «Олени VS Жабы»",
     "description": "",
     "created": {
@@ -15,8 +19,8 @@
     "vkLink": "https://vk.com/album-62111632_255065640"
   },
   "timastamp": {
-    "timestamp": 1572119053563,
-    "javaDate": "Oct 26, 2019 9:44:13 PM"
+    "timestamp": 1572194656358,
+    "javaDate": "Oct 27, 2019 5:44:16 PM"
   },
   "likesFor": {
     "456240641": {
