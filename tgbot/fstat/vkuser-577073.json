@@ -1,10 +1,36 @@
 {
   "messages": [
     {
+      "allowLinks": false,
+      "lines": [
+        "Daria Tysheva",
+        "https://vk.com/id577073",
+        "Занимает 143-е место в ранкинге пикфайтеров собрав ❤️4💙13",
+        "",
+        "Работы:"
+      ]
+    },
+    {
       "allowLinks": true,
       "lines": [
-        "143. Daria Tysheva",
-        "https://vk.com/id577073",
+        "https://vk.com/photo-62111632_456239128",
+        "",
+        "❤️4💙13"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_423715041",
+        "",
+        "❤️4💙13"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_383043362",
+        "",
         "❤️4💙13"
       ]
     }

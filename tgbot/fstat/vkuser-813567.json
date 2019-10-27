@@ -1,10 +1,28 @@
 {
   "messages": [
     {
+      "allowLinks": false,
+      "lines": [
+        "Lida Abrashina",
+        "https://vk.com/id813567",
+        "Занимает 53-е место в ранкинге пикфайтеров собрав ❤️11💙37",
+        "",
+        "Работы:"
+      ]
+    },
+    {
       "allowLinks": true,
       "lines": [
-        "53. Lida Abrashina",
-        "https://vk.com/id813567",
+        "https://vk.com/photo-62111632_456240668",
+        "",
+        "❤️11💙37"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_456240412",
+        "",
         "❤️11💙37"
       ]
     }

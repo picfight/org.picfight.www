@@ -1,10 +1,44 @@
 {
   "messages": [
     {
+      "allowLinks": false,
+      "lines": [
+        "Ann Ninja",
+        "https://vk.com/id847172",
+        "Занимает 112-е место в ранкинге пикфайтеров собрав ❤️5💙48",
+        "",
+        "Работы:"
+      ]
+    },
+    {
       "allowLinks": true,
       "lines": [
-        "112. Ann Ninja",
-        "https://vk.com/id847172",
+        "https://vk.com/photo-62111632_382468854",
+        "",
+        "❤️5💙48"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_334618349",
+        "",
+        "❤️5💙48"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_334618350",
+        "",
+        "❤️5💙48"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_332609480",
+        "",
         "❤️5💙48"
       ]
     }

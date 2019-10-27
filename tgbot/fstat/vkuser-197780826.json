@@ -1,10 +1,20 @@
 {
   "messages": [
     {
+      "allowLinks": false,
+      "lines": [
+        "Vladimir Nalabordin",
+        "https://vk.com/id197780826",
+        "Занимает 197-е место в ранкинге пикфайтеров собрав ❤️2💙9",
+        "",
+        "Работы:"
+      ]
+    },
+    {
       "allowLinks": true,
       "lines": [
-        "197. Vladimir Nalabordin",
-        "https://vk.com/id197780826",
+        "https://vk.com/photo-62111632_385392639",
+        "",
         "❤️2💙9"
       ]
     }

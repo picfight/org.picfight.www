@@ -1,10 +1,28 @@
 {
   "messages": [
     {
+      "allowLinks": false,
+      "lines": [
+        "Mary Nervous",
+        "https://vk.com/id266741031",
+        "Занимает 106-е место в ранкинге пикфайтеров собрав ❤️6💙8",
+        "",
+        "Работы:"
+      ]
+    },
+    {
       "allowLinks": true,
       "lines": [
-        "106. Mary Nervous",
-        "https://vk.com/id266741031",
+        "https://vk.com/photo-62111632_385319787",
+        "",
+        "❤️6💙8"
+      ]
+    },
+    {
+      "allowLinks": true,
+      "lines": [
+        "https://vk.com/photo-62111632_385461221",
+        "",
         "❤️6💙8"
       ]
     }
