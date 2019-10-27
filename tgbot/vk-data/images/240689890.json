@@ -1,11 +1,19 @@
 {
-  "album_id": 240689890,
+  "album_id": {
+    "value": 240689890
+  },
   "photos": {
     "456239108": {
-      "photo_id": 456239108,
+      "photo_id": {
+        "value": 456239108
+      },
       "vkLink": "https://vk.com/photo-62111632_456239108",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895570000,
         "javaDate": "Jan 31, 2017 9:46:10 PM"
@@ -13,10 +21,16 @@
       "text": "https://vk.com/page-62111632_53982441\n\n#плашка"
     },
     "456239109": {
-      "photo_id": 456239109,
+      "photo_id": {
+        "value": 456239109
+      },
       "vkLink": "https://vk.com/photo-62111632_456239109",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895619000,
         "javaDate": "Jan 31, 2017 9:46:59 PM"
@@ -24,10 +38,16 @@
       "text": "Helen\n\nhttps://vk.com/homa_petrovich\n---------------------\nАлёна Перепадя\nhttps://vk.com/id98873862\n"
     },
     "456239110": {
-      "photo_id": 456239110,
+      "photo_id": {
+        "value": 456239110
+      },
       "vkLink": "https://vk.com/photo-62111632_456239110",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895619000,
         "javaDate": "Jan 31, 2017 9:46:59 PM"
@@ -35,10 +55,16 @@
       "text": "сереги светлый лик\n\nhttps://vk.com/id173715288"
     },
     "456239111": {
-      "photo_id": 456239111,
+      "photo_id": {
+        "value": 456239111
+      },
       "vkLink": "https://vk.com/photo-62111632_456239111",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895620000,
         "javaDate": "Jan 31, 2017 9:47:00 PM"
@@ -46,10 +72,16 @@
       "text": "charcoal-ash\n\nhttps://vk.com/id22815247"
     },
     "456239112": {
-      "photo_id": 456239112,
+      "photo_id": {
+        "value": 456239112
+      },
       "vkLink": "https://vk.com/photo-62111632_456239112",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895620000,
         "javaDate": "Jan 31, 2017 9:47:00 PM"
@@ -57,10 +89,16 @@
       "text": "Сладкая пастича к кофе.\n\nJ https://vk.com/jfixbi\n---------------------\nJ Fixbi\nhttps://vk.com/id138317702\n"
     },
     "456239113": {
-      "photo_id": 456239113,
+      "photo_id": {
+        "value": 456239113
+      },
       "vkLink": "https://vk.com/photo-62111632_456239113",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895621000,
         "javaDate": "Jan 31, 2017 9:47:01 PM"
@@ -68,10 +106,16 @@
       "text": "Фасолина\n\nhttps://vk.com/id99802324"
     },
     "456239114": {
-      "photo_id": 456239114,
+      "photo_id": {
+        "value": 456239114
+      },
       "vkLink": "https://vk.com/photo-62111632_456239114",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895622000,
         "javaDate": "Jan 31, 2017 9:47:02 PM"
@@ -79,10 +123,16 @@
       "text": "Ирина Хараб\n\nhttps://vk.com/iren_kharab\n---------------------\nИрина Хараб\nhttps://vk.com/id27109931\n"
     },
     "456239115": {
-      "photo_id": 456239115,
+      "photo_id": {
+        "value": 456239115
+      },
       "vkLink": "https://vk.com/photo-62111632_456239115",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895623000,
         "javaDate": "Jan 31, 2017 9:47:03 PM"
@@ -90,10 +140,16 @@
       "text": "Halber Mensch\nПод атмосферу фильма \"Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу\" мои запорожцы присоединяются к завтраку\n\nhttps://vk.com/annashepeta\n---------------------\nАнна Шепета\nhttps://vk.com/id168929200\n"
     },
     "456239116": {
-      "photo_id": 456239116,
+      "photo_id": {
+        "value": 456239116
+      },
       "vkLink": "https://vk.com/photo-62111632_456239116",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895624000,
         "javaDate": "Jan 31, 2017 9:47:04 PM"
@@ -101,10 +157,16 @@
       "text": "Julia Mikhayleva\n\nhttps://vk.com/julia.mikhayleva\n---------------------\nЮлия Михайлёва\nhttps://vk.com/id12667502\n"
     },
     "456239117": {
-      "photo_id": 456239117,
+      "photo_id": {
+        "value": 456239117
+      },
       "vkLink": "https://vk.com/photo-62111632_456239117",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895624000,
         "javaDate": "Jan 31, 2017 9:47:04 PM"
@@ -112,10 +174,16 @@
       "text": "Bard\n\nhttps://vk.com/id202391661"
     },
     "456239118": {
-      "photo_id": 456239118,
+      "photo_id": {
+        "value": 456239118
+      },
       "vkLink": "https://vk.com/photo-62111632_456239118",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895625000,
         "javaDate": "Jan 31, 2017 9:47:05 PM"
@@ -123,10 +191,16 @@
       "text": "Саша Богатов \n\nhttps://vk.com/id6931933"
     },
     "456239119": {
-      "photo_id": 456239119,
+      "photo_id": {
+        "value": 456239119
+      },
       "vkLink": "https://vk.com/photo-62111632_456239119",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895625000,
         "javaDate": "Jan 31, 2017 9:47:05 PM"
@@ -134,10 +208,16 @@
       "text": "Настюша Мартьян\n\nhttps://vk.com/martyanastia\n---------------------\nНастя Мартьян\nhttps://vk.com/id139125457\n"
     },
     "456239120": {
-      "photo_id": 456239120,
+      "photo_id": {
+        "value": 456239120
+      },
       "vkLink": "https://vk.com/photo-62111632_456239120",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895626000,
         "javaDate": "Jan 31, 2017 9:47:06 PM"
@@ -145,10 +225,16 @@
       "text": "Марина TooChi\nРецепт вкусного завтрака: хрустящий поджаренный тост, ломтик сыра, помидорка, листик салата и немного страсти :)\n\nhttps://vk.com/toochi\nhttps://vk.com/id10264806"
     },
     "456239121": {
-      "photo_id": 456239121,
+      "photo_id": {
+        "value": 456239121
+      },
       "vkLink": "https://vk.com/photo-62111632_456239121",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895627000,
         "javaDate": "Jan 31, 2017 9:47:07 PM"
@@ -156,10 +242,16 @@
       "text": "Ulitka_ann\n\nhttps://vk.com/id124292406"
     },
     "456239122": {
-      "photo_id": 456239122,
+      "photo_id": {
+        "value": 456239122
+      },
       "vkLink": "https://vk.com/photo-62111632_456239122",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895627000,
         "javaDate": "Jan 31, 2017 9:47:07 PM"
@@ -167,10 +259,16 @@
       "text": "tamrishek\n\nhttps://vk.com/tamrishek\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "456239123": {
-      "photo_id": 456239123,
+      "photo_id": {
+        "value": 456239123
+      },
       "vkLink": "https://vk.com/photo-62111632_456239123",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895628000,
         "javaDate": "Jan 31, 2017 9:47:08 PM"
@@ -178,10 +276,16 @@
       "text": "Underglass\n\nhttps://vk.com/id48581269"
     },
     "456239124": {
-      "photo_id": 456239124,
+      "photo_id": {
+        "value": 456239124
+      },
       "vkLink": "https://vk.com/photo-62111632_456239124",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895629000,
         "javaDate": "Jan 31, 2017 9:47:09 PM"
@@ -189,10 +293,16 @@
       "text": "Киришико\n\nhttps://vk.com/k_kirishiko\nhttps://vk.com/id228363684"
     },
     "456239125": {
-      "photo_id": 456239125,
+      "photo_id": {
+        "value": 456239125
+      },
       "vkLink": "https://vk.com/photo-62111632_456239125",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895630000,
         "javaDate": "Jan 31, 2017 9:47:10 PM"
@@ -200,10 +310,16 @@
       "text": "Тина Белчер\n\nhttps://vk.com/id339849081"
     },
     "456239126": {
-      "photo_id": 456239126,
+      "photo_id": {
+        "value": 456239126
+      },
       "vkLink": "https://vk.com/photo-62111632_456239126",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895632000,
         "javaDate": "Jan 31, 2017 9:47:12 PM"
@@ -211,10 +327,16 @@
       "text": "Аконит\n\nhttps://vk.com/id11814550"
     },
     "456239127": {
-      "photo_id": 456239127,
+      "photo_id": {
+        "value": 456239127
+      },
       "vkLink": "https://vk.com/photo-62111632_456239127",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895632000,
         "javaDate": "Jan 31, 2017 9:47:12 PM"
@@ -222,10 +344,16 @@
       "text": "MariArt\u0027y\n\nhttps://vk.com/id8915015"
     },
     "456239128": {
-      "photo_id": 456239128,
+      "photo_id": {
+        "value": 456239128
+      },
       "vkLink": "https://vk.com/photo-62111632_456239128",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895633000,
         "javaDate": "Jan 31, 2017 9:47:13 PM"
@@ -233,10 +361,16 @@
       "text": "DATY\n\nhttps://vk.com/dariaty\n---------------------\nDaria Tysheva\nhttps://vk.com/id577073\n"
     },
     "456239129": {
-      "photo_id": 456239129,
+      "photo_id": {
+        "value": 456239129
+      },
       "vkLink": "https://vk.com/photo-62111632_456239129",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895634000,
         "javaDate": "Jan 31, 2017 9:47:14 PM"
@@ -244,10 +378,16 @@
       "text": "Achtung\n\nhttps://vk.com/e_zagreeva\n---------------------\nЕвгения Загреева\nhttps://vk.com/id4858593\n"
     },
     "456239130": {
-      "photo_id": 456239130,
+      "photo_id": {
+        "value": 456239130
+      },
       "vkLink": "https://vk.com/photo-62111632_456239130",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895634000,
         "javaDate": "Jan 31, 2017 9:47:14 PM"
@@ -255,10 +395,16 @@
       "text": "Плюшевый\n\nhttps://vk.com/t1mmizord\n---------------------\nАнтон Чернышев\nhttps://vk.com/id5941024\n"
     },
     "456239131": {
-      "photo_id": 456239131,
+      "photo_id": {
+        "value": 456239131
+      },
       "vkLink": "https://vk.com/photo-62111632_456239131",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895635000,
         "javaDate": "Jan 31, 2017 9:47:15 PM"
@@ -266,10 +412,16 @@
       "text": "Tieller the Droid\n\nhttps://vk.com/tieller\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "456239132": {
-      "photo_id": 456239132,
+      "photo_id": {
+        "value": 456239132
+      },
       "vkLink": "https://vk.com/photo-62111632_456239132",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895635000,
         "javaDate": "Jan 31, 2017 9:47:15 PM"
@@ -277,10 +429,16 @@
       "text": "quietvictories\n\nhttps://vk.com/speechoffreedom\n---------------------\nSpeech Freedom\nhttps://vk.com/id19407085\n"
     },
     "456239133": {
-      "photo_id": 456239133,
+      "photo_id": {
+        "value": 456239133
+      },
       "vkLink": "https://vk.com/photo-62111632_456239133",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895636000,
         "javaDate": "Jan 31, 2017 9:47:16 PM"
@@ -288,10 +446,16 @@
       "text": "Шербул\n\nhttps://vk.com/sherbul\n---------------------\nТатьяна Шербул\nhttps://vk.com/id7999404\n"
     },
     "456239134": {
-      "photo_id": 456239134,
+      "photo_id": {
+        "value": 456239134
+      },
       "vkLink": "https://vk.com/photo-62111632_456239134",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895636000,
         "javaDate": "Jan 31, 2017 9:47:16 PM"
@@ -299,10 +463,16 @@
       "text": "Mellanius\n\nhttps://vk.com/mellanius\n---------------------\nАлександр Юзва\nhttps://vk.com/id12285947\n"
     },
     "456239135": {
-      "photo_id": 456239135,
+      "photo_id": {
+        "value": 456239135
+      },
       "vkLink": "https://vk.com/photo-62111632_456239135",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895637000,
         "javaDate": "Jan 31, 2017 9:47:17 PM"
@@ -310,10 +480,16 @@
       "text": "Ira Plastic\n\nhttps://vk.com/id190047300"
     },
     "456239136": {
-      "photo_id": 456239136,
+      "photo_id": {
+        "value": 456239136
+      },
       "vkLink": "https://vk.com/photo-62111632_456239136",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485895637000,
         "javaDate": "Jan 31, 2017 9:47:17 PM"
@@ -321,10 +497,16 @@
       "text": "\"СТРАСТНЫЙ ЗАВТРАК\"\nучастник Айгуль\nпаблик https://vk.com/hakunatata\nвдохновила средневековая миниатюра\n\nhttps://vk.com/id98968574"
     },
     "456239138": {
-      "photo_id": 456239138,
+      "photo_id": {
+        "value": 456239138
+      },
       "vkLink": "https://vk.com/photo-62111632_456239138",
-      "album_id": 240689890,
-      "user_id": 100,
+      "album_id": {
+        "value": 240689890
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1485896659000,
         "javaDate": "Jan 31, 2017 10:04:19 PM"

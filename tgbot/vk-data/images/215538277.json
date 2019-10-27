@@ -1,11 +1,19 @@
 {
-  "album_id": 215538277,
+  "album_id": {
+    "value": 215538277
+  },
   "photos": {
     "369074229": {
-      "photo_id": 369074229,
+      "photo_id": {
+        "value": 369074229
+      },
       "vkLink": "https://vk.com/photo-62111632_369074229",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431930471000,
         "javaDate": "May 18, 2015 8:27:51 AM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "369152860": {
-      "photo_id": 369152860,
+      "photo_id": {
+        "value": 369152860
+      },
       "vkLink": "https://vk.com/photo-62111632_369152860",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431972436000,
         "javaDate": "May 18, 2015 8:07:16 PM"
@@ -24,10 +38,16 @@
       "text": "Ира Хараб\nhttps://vk.com/iren_kharab\nСуперЯпония!\n---------------------\nИрина Хараб\nhttps://vk.com/id27109931\n"
     },
     "369152854": {
-      "photo_id": 369152854,
+      "photo_id": {
+        "value": 369152854
+      },
       "vkLink": "https://vk.com/photo-62111632_369152854",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431972434000,
         "javaDate": "May 18, 2015 8:07:14 PM"
@@ -35,10 +55,16 @@
       "text": "Саша Богатов\nhttps://vk.com/id6931933\nhttp://vk.com/drop_shadow\nbehance.net/belk1n"
     },
     "369152838": {
-      "photo_id": 369152838,
+      "photo_id": {
+        "value": 369152838
+      },
       "vkLink": "https://vk.com/photo-62111632_369152838",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431972432000,
         "javaDate": "May 18, 2015 8:07:12 PM"
@@ -46,10 +72,16 @@
       "text": "Катерина Шмырина\nhttp://vk.com/art_kotan\n\nНаяк - защитница тюленят. Пуляет снежными и ледяными шарами в нехороших браконьеров.\n---------------------\nКатерина Шмырина\nhttps://vk.com/id562753\n"
     },
     "369152831": {
-      "photo_id": 369152831,
+      "photo_id": {
+        "value": 369152831
+      },
       "vkLink": "https://vk.com/photo-62111632_369152831",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431972431000,
         "javaDate": "May 18, 2015 8:07:11 PM"
@@ -57,10 +89,16 @@
       "text": "Вита\nhttps://vk.com/vita_mir\n\nвосточный супер-герой.\nпосылает на землю лучи плодородия и удачи\n---------------------\nВита Мирошникова\nhttps://vk.com/id2092571\n"
     },
     "369152847": {
-      "photo_id": 369152847,
+      "photo_id": {
+        "value": 369152847
+      },
       "vkLink": "https://vk.com/photo-62111632_369152847",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431972433000,
         "javaDate": "May 18, 2015 8:07:13 PM"
@@ -68,10 +106,16 @@
       "text": "Гу\nhttps://vk.com/id47462601\n\nИндия славится красками, а её суперэтногерой скачет на волшебном слоне с корзинами бесконечного пигмента и добавляет яркости этому миру."
     },
     "369152862": {
-      "photo_id": 369152862,
+      "photo_id": {
+        "value": 369152862
+      },
       "vkLink": "https://vk.com/photo-62111632_369152862",
-      "album_id": 215538277,
-      "user_id": 100,
+      "album_id": {
+        "value": 215538277
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1431972437000,
         "javaDate": "May 18, 2015 8:07:17 PM"

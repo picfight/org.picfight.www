@@ -1,11 +1,19 @@
 {
-  "album_id": 195786373,
+  "album_id": {
+    "value": 195786373
+  },
   "photos": {
     "332613735": {
-      "photo_id": 332613735,
+      "photo_id": {
+        "value": 332613735
+      },
       "vkLink": "https://vk.com/photo-62111632_332613735",
-      "album_id": 195786373,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786373
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401540163000,
         "javaDate": "May 31, 2014 2:42:43 PM"
@@ -13,10 +21,16 @@
       "text": "Автор: Татьяна Шербул \nhttp://vk.com/sherbuls_place\n---------------------\nТатьяна Шербул\nhttps://vk.com/id7999404\n"
     },
     "332613618": {
-      "photo_id": 332613618,
+      "photo_id": {
+        "value": 332613618
+      },
       "vkLink": "https://vk.com/photo-62111632_332613618",
-      "album_id": 195786373,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786373
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401540051000,
         "javaDate": "May 31, 2014 2:40:51 PM"
@@ -24,10 +38,16 @@
       "text": "Автор: Нод Счастливый"
     },
     "332613450": {
-      "photo_id": 332613450,
+      "photo_id": {
+        "value": 332613450
+      },
       "vkLink": "https://vk.com/photo-62111632_332613450",
-      "album_id": 195786373,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786373
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401539909000,
         "javaDate": "May 31, 2014 2:38:29 PM"
@@ -35,10 +55,16 @@
       "text": "Автор: Maike Sommer \nhttp://vk.com/id244152867"
     },
     "332613280": {
-      "photo_id": 332613280,
+      "photo_id": {
+        "value": 332613280
+      },
       "vkLink": "https://vk.com/photo-62111632_332613280",
-      "album_id": 195786373,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786373
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401539749000,
         "javaDate": "May 31, 2014 2:35:49 PM"
@@ -46,10 +72,16 @@
       "text": "Автор: J Fixbi \nhttp://vk.com/jfixby\n---------------------\nJ Fixbi\nhttps://vk.com/id138317702\n"
     },
     "332613066": {
-      "photo_id": 332613066,
+      "photo_id": {
+        "value": 332613066
+      },
       "vkLink": "https://vk.com/photo-62111632_332613066",
-      "album_id": 195786373,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786373
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401539550000,
         "javaDate": "May 31, 2014 2:32:30 PM"

@@ -1,11 +1,19 @@
 {
-  "album_id": 195786863,
+  "album_id": {
+    "value": 195786863
+  },
   "photos": {
     "332610055": {
-      "photo_id": 332610055,
+      "photo_id": {
+        "value": 332610055
+      },
       "vkLink": "https://vk.com/photo-62111632_332610055",
-      "album_id": 195786863,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786863
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401536934000,
         "javaDate": "May 31, 2014 1:48:54 PM"
@@ -13,10 +21,16 @@
       "text": "Автор: J Fixbi \nhttp://vk.com/jfixby\n---------------------\nJ Fixbi\nhttps://vk.com/id138317702\n"
     },
     "332609952": {
-      "photo_id": 332609952,
+      "photo_id": {
+        "value": 332609952
+      },
       "vkLink": "https://vk.com/photo-62111632_332609952",
-      "album_id": 195786863,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786863
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401536830000,
         "javaDate": "May 31, 2014 1:47:10 PM"

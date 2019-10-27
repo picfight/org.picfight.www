@@ -1,11 +1,19 @@
 {
-  "album_id": 229252333,
+  "album_id": {
+    "value": 229252333
+  },
   "photos": {
     "409151040": {
-      "photo_id": 409151040,
+      "photo_id": {
+        "value": 409151040
+      },
       "vkLink": "https://vk.com/photo-62111632_409151040",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972080000,
         "javaDate": "Mar 14, 2016 5:14:40 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "409150791": {
-      "photo_id": 409150791,
+      "photo_id": {
+        "value": 409150791
+      },
       "vkLink": "https://vk.com/photo-62111632_409150791",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972001000,
         "javaDate": "Mar 14, 2016 5:13:21 PM"
@@ -24,10 +38,16 @@
       "text": "Елена Иванова\nПикфайт #52\nЛюблю пёрышки и ч/б\nПабл: https://vk.com/haiiro_shadow"
     },
     "409150985": {
-      "photo_id": 409150985,
+      "photo_id": {
+        "value": 409150985
+      },
       "vkLink": "https://vk.com/photo-62111632_409150985",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972063000,
         "javaDate": "Mar 14, 2016 5:14:23 PM"
@@ -35,10 +55,16 @@
       "text": "Елена Иванова\nПикфайт #52\nЛюблю пёрышки и ч/б\nПабл: https://vk.com/haiiro_shadow"
     },
     "409150991": {
-      "photo_id": 409150991,
+      "photo_id": {
+        "value": 409150991
+      },
       "vkLink": "https://vk.com/photo-62111632_409150991",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972064000,
         "javaDate": "Mar 14, 2016 5:14:24 PM"
@@ -46,10 +72,16 @@
       "text": "Виктория Козырева\nhttps://vk.com/fredvardlui"
     },
     "409150876": {
-      "photo_id": 409150876,
+      "photo_id": {
+        "value": 409150876
+      },
       "vkLink": "https://vk.com/photo-62111632_409150876",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972029000,
         "javaDate": "Mar 14, 2016 5:13:49 PM"
@@ -57,10 +89,16 @@
       "text": "Кристина Роза - https://vk.com/christine_rose_ed\nПикфайт #52 «Узорчатые заросли»\n\nНекий синтез из индийского растительного паттерна и узоров (рушныка) Харьковщины. Надеюсь, в тему попала."
     },
     "409150810": {
-      "photo_id": 409150810,
+      "photo_id": {
+        "value": 409150810
+      },
       "vkLink": "https://vk.com/photo-62111632_409150810",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972006000,
         "javaDate": "Mar 14, 2016 5:13:26 PM"
@@ -68,10 +106,16 @@
       "text": "Кристина Роза - https://vk.com/christine_rose_ed\nПикфайт #52 «Узорчатые заросли»\n\nНекий синтез из индийского растительного паттерна и узоров (рушныка) Харьковщины. Надеюсь, в тему попала."
     },
     "409150846": {
-      "photo_id": 409150846,
+      "photo_id": {
+        "value": 409150846
+      },
       "vkLink": "https://vk.com/photo-62111632_409150846",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972016000,
         "javaDate": "Mar 14, 2016 5:13:36 PM"
@@ -79,10 +123,16 @@
       "text": "Red Jester - https://vk.com/id65053932\nКовер!"
     },
     "409150781": {
-      "photo_id": 409150781,
+      "photo_id": {
+        "value": 409150781
+      },
       "vkLink": "https://vk.com/photo-62111632_409150781",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457971998000,
         "javaDate": "Mar 14, 2016 5:13:18 PM"
@@ -90,10 +140,16 @@
       "text": "Эвелина Эмир-Али\nhttps://vk.com/emirali_evelina\n---------------------\nЭвелина Эмир-Али\nhttps://vk.com/id43471613\n"
     },
     "409150891": {
-      "photo_id": 409150891,
+      "photo_id": {
+        "value": 409150891
+      },
       "vkLink": "https://vk.com/photo-62111632_409150891",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972033000,
         "javaDate": "Mar 14, 2016 5:13:53 PM"
@@ -101,10 +157,16 @@
       "text": "Ксения Африкантова\nhttps://vk.com/little_muy\n---------------------\nКсения Африкантова\nhttps://vk.com/id20014105\n"
     },
     "409150963": {
-      "photo_id": 409150963,
+      "photo_id": {
+        "value": 409150963
+      },
       "vkLink": "https://vk.com/photo-62111632_409150963",
-      "album_id": 229252333,
-      "user_id": 100,
+      "album_id": {
+        "value": 229252333
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1457972057000,
         "javaDate": "Mar 14, 2016 5:14:17 PM"

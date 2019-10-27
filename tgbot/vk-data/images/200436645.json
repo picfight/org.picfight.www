@@ -1,11 +1,19 @@
 {
-  "album_id": 200436645,
+  "album_id": {
+    "value": 200436645
+  },
   "photos": {
     "347405337": {
-      "photo_id": 347405337,
+      "photo_id": {
+        "value": 347405337
+      },
       "vkLink": "https://vk.com/photo-62111632_347405337",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416251321000,
         "javaDate": "Nov 17, 2014 8:08:41 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "338525526": {
-      "photo_id": 338525526,
+      "photo_id": {
+        "value": 338525526
+      },
       "vkLink": "https://vk.com/photo-62111632_338525526",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407855199000,
         "javaDate": "Aug 12, 2014 4:53:19 PM"
@@ -24,10 +38,16 @@
       "text": "Автор: Ксения Африкантова\nhttp://vk.com/little_muy\n\nСначала я вспомнила про шершавую кисть и портреты Ахматовой, затем унеславсь в сторону Башни Rowan. В общем, будь я графикой, была бы примерно такой.\n---------------------\nКсения Африкантова\nhttps://vk.com/id20014105\n"
     },
     "338525555": {
-      "photo_id": 338525555,
+      "photo_id": {
+        "value": 338525555
+      },
       "vkLink": "https://vk.com/photo-62111632_338525555",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407855227000,
         "javaDate": "Aug 12, 2014 4:53:47 PM"
@@ -35,10 +55,16 @@
       "text": "Автор: Юлия Яковлева\nhttp://vk.com/id76807738\n\n:3"
     },
     "338525591": {
-      "photo_id": 338525591,
+      "photo_id": {
+        "value": 338525591
+      },
       "vkLink": "https://vk.com/photo-62111632_338525591",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407855253000,
         "javaDate": "Aug 12, 2014 4:54:13 PM"
@@ -46,10 +72,16 @@
       "text": "Автор: Дарья Шейнерман\nhttps://www.flickr.com/photos/daria_sheinerman/"
     },
     "338525592": {
-      "photo_id": 338525592,
+      "photo_id": {
+        "value": 338525592
+      },
       "vkLink": "https://vk.com/photo-62111632_338525592",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407855254000,
         "javaDate": "Aug 12, 2014 4:54:14 PM"
@@ -57,10 +89,16 @@
       "text": "Автор: Анастасия Польская\nhttp://vk.com/tiellerthedroid\n\nБез кексиков никуда\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "338525593": {
-      "photo_id": 338525593,
+      "photo_id": {
+        "value": 338525593
+      },
       "vkLink": "https://vk.com/photo-62111632_338525593",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407855255000,
         "javaDate": "Aug 12, 2014 4:54:15 PM"
@@ -68,10 +106,16 @@
       "text": "Автор: Настя Ванина\nvk.com/foxholee\nvk.com/kyubi_chan\ntwitter.com/lulufox2727\n---------------------\nНастя Ванина\nhttps://vk.com/id18243547\n"
     },
     "338525642": {
-      "photo_id": 338525642,
+      "photo_id": {
+        "value": 338525642
+      },
       "vkLink": "https://vk.com/photo-62111632_338525642",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407855304000,
         "javaDate": "Aug 12, 2014 4:55:04 PM"
@@ -79,10 +123,16 @@
       "text": "Plum tree - vk.com/id254834754\nОна махонькая и приносит удачу :)"
     },
     "340280219": {
-      "photo_id": 340280219,
+      "photo_id": {
+        "value": 340280219
+      },
       "vkLink": "https://vk.com/photo-62111632_340280219",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1409604533000,
         "javaDate": "Sep 1, 2014 10:48:53 PM"
@@ -90,10 +140,16 @@
       "text": "http://vk.com/angurikos\nШкололо, рисователь и сериалолюб."
     },
     "340697688": {
-      "photo_id": 340697688,
+      "photo_id": {
+        "value": 340697688
+      },
       "vkLink": "https://vk.com/photo-62111632_340697688",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1410074494000,
         "javaDate": "Sep 7, 2014 9:21:34 AM"
@@ -101,10 +157,16 @@
       "text": "Поправил прическу и.... вроде как, я даже немного похож на себя :)\nvk.com/drop_shadow\n---------------------\nСаша Богатов\nhttps://vk.com/id6931933\n"
     },
     "341478620": {
-      "photo_id": 341478620,
+      "photo_id": {
+        "value": 341478620
+      },
       "vkLink": "https://vk.com/photo-62111632_341478620",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1410806593000,
         "javaDate": "Sep 15, 2014 8:43:13 PM"
@@ -112,10 +174,16 @@
       "text": "Автор: Дарья Шейнерман\nhttp://vk.com/daria_sheinerman\n---------------------\nДарья Шейнерман\nhttps://vk.com/id20515210\n"
     },
     "342071393": {
-      "photo_id": 342071393,
+      "photo_id": {
+        "value": 342071393
+      },
       "vkLink": "https://vk.com/photo-62111632_342071393",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1411392717000,
         "javaDate": "Sep 22, 2014 3:31:57 PM"
@@ -123,10 +191,16 @@
       "text": "Привет! Меня зовут Эдмунд и я тоже администратор Пикфайта.\nhttp://vk.com/tamroid\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "347513765": {
-      "photo_id": 347513765,
+      "photo_id": {
+        "value": 347513765
+      },
       "vkLink": "https://vk.com/photo-62111632_347513765",
-      "album_id": 200436645,
-      "user_id": 100,
+      "album_id": {
+        "value": 200436645
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416347218000,
         "javaDate": "Nov 18, 2014 10:46:58 PM"

@@ -1,11 +1,19 @@
 {
-  "album_id": 216192762,
+  "album_id": {
+    "value": 216192762
+  },
   "photos": {
     "370875482": {
-      "photo_id": 370875482,
+      "photo_id": {
+        "value": 370875482
+      },
       "vkLink": "https://vk.com/photo-62111632_370875482",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181211000,
         "javaDate": "Jun 1, 2015 7:53:31 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "370875648": {
-      "photo_id": 370875648,
+      "photo_id": {
+        "value": 370875648
+      },
       "vkLink": "https://vk.com/photo-62111632_370875648",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181273000,
         "javaDate": "Jun 1, 2015 7:54:33 PM"
@@ -24,10 +38,16 @@
       "text": "Вита Мирошникова\nhttp://vk.com/vita_mir\n\nинопланетяшки звезды \"2905_20_15\" приветствуют всех путешествующих автостопом по галактике.\n---------------------\nВита Мирошникова\nhttps://vk.com/id2092571\n"
     },
     "370875736": {
-      "photo_id": 370875736,
+      "photo_id": {
+        "value": 370875736
+      },
       "vkLink": "https://vk.com/photo-62111632_370875736",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181310000,
         "javaDate": "Jun 1, 2015 7:55:10 PM"
@@ -35,10 +55,16 @@
       "text": "Татьяна Агеева\nhttps://vk.com/id20584228\n\nдо Сатурна не подбросите?"
     },
     "370875774": {
-      "photo_id": 370875774,
+      "photo_id": {
+        "value": 370875774
+      },
       "vkLink": "https://vk.com/photo-62111632_370875774",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181322000,
         "javaDate": "Jun 1, 2015 7:55:22 PM"
@@ -46,10 +72,16 @@
       "text": "Татьяна Агеева\nhttps://vk.com/id20584228\n\nФруктовая галактика"
     },
     "370875863": {
-      "photo_id": 370875863,
+      "photo_id": {
+        "value": 370875863
+      },
       "vkLink": "https://vk.com/photo-62111632_370875863",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181356000,
         "javaDate": "Jun 1, 2015 7:55:56 PM"
@@ -57,10 +89,16 @@
       "text": "Елена Шляхова\nhttps://vk.com/alenapanterka\nhttps://vk.com/snegnika\n---------------------\nАлёна Медведева\nhttps://vk.com/id47403389\n"
     },
     "370875951": {
-      "photo_id": 370875951,
+      "photo_id": {
+        "value": 370875951
+      },
       "vkLink": "https://vk.com/photo-62111632_370875951",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181384000,
         "javaDate": "Jun 1, 2015 7:56:24 PM"
@@ -68,10 +106,16 @@
       "text": "Анна Шепета\nhttps://vk.com/annashepeta\nhttp://mylittlecoloruniverse.tumblr.com/\n---------------------\nАнна Шепета\nhttps://vk.com/id168929200\n"
     },
     "370875987": {
-      "photo_id": 370875987,
+      "photo_id": {
+        "value": 370875987
+      },
       "vkLink": "https://vk.com/photo-62111632_370875987",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181393000,
         "javaDate": "Jun 1, 2015 7:56:33 PM"
@@ -79,10 +123,16 @@
       "text": "Анна Шепета\nhttps://vk.com/annashepeta\nhttp://mylittlecoloruniverse.tumblr.com/\n---------------------\nАнна Шепета\nhttps://vk.com/id168929200\n"
     },
     "370876142": {
-      "photo_id": 370876142,
+      "photo_id": {
+        "value": 370876142
+      },
       "vkLink": "https://vk.com/photo-62111632_370876142",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181434000,
         "javaDate": "Jun 1, 2015 7:57:14 PM"
@@ -90,10 +140,16 @@
       "text": "Маша Масютина\nhttps://vk.com/id93486139"
     },
     "370876241": {
-      "photo_id": 370876241,
+      "photo_id": {
+        "value": 370876241
+      },
       "vkLink": "https://vk.com/photo-62111632_370876241",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181466000,
         "javaDate": "Jun 1, 2015 7:57:46 PM"
@@ -101,10 +157,16 @@
       "text": "Алена Лис\nhttps://vk.com/merian_mc_devil\n---------------------\nАлёна Лис\nhttps://vk.com/id168378512\n"
     },
     "370876373": {
-      "photo_id": 370876373,
+      "photo_id": {
+        "value": 370876373
+      },
       "vkLink": "https://vk.com/photo-62111632_370876373",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181518000,
         "javaDate": "Jun 1, 2015 7:58:38 PM"
@@ -112,10 +174,16 @@
       "text": "Мария Трофимова\nhttps://vk.com/id183025172\n\n№42"
     },
     "370876392": {
-      "photo_id": 370876392,
+      "photo_id": {
+        "value": 370876392
+      },
       "vkLink": "https://vk.com/photo-62111632_370876392",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433181528000,
         "javaDate": "Jun 1, 2015 7:58:48 PM"
@@ -123,10 +191,16 @@
       "text": "Нина Данилина\nhttps://vk.com/foxy_the_pirate\n\nМарви-Марвин. :з"
     },
     "370928630": {
-      "photo_id": 370928630,
+      "photo_id": {
+        "value": 370928630
+      },
       "vkLink": "https://vk.com/photo-62111632_370928630",
-      "album_id": 216192762,
-      "user_id": 100,
+      "album_id": {
+        "value": 216192762
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1433228848000,
         "javaDate": "Jun 2, 2015 9:07:28 AM"

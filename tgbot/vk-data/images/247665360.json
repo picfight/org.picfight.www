@@ -1,11 +1,19 @@
 {
-  "album_id": 247665360,
+  "album_id": {
+    "value": 247665360
+  },
   "photos": {
     "456240041": {
-      "photo_id": 456240041,
+      "photo_id": {
+        "value": 456240041
+      },
       "vkLink": "https://vk.com/photo-62111632_456240041",
-      "album_id": 247665360,
-      "user_id": 100,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1506885490000,
         "javaDate": "Oct 1, 2017 9:18:10 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "456240044": {
-      "photo_id": 456240044,
+      "photo_id": {
+        "value": 456240044
+      },
       "vkLink": "https://vk.com/photo-62111632_456240044",
-      "album_id": 247665360,
-      "user_id": 100,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1506885920000,
         "javaDate": "Oct 1, 2017 9:25:20 PM"
@@ -24,10 +38,16 @@
       "text": "#лайкоботигнор"
     },
     "456240042": {
-      "photo_id": 456240042,
+      "photo_id": {
+        "value": 456240042
+      },
       "vkLink": "https://vk.com/photo-62111632_456240042",
-      "album_id": 247665360,
-      "user_id": 100,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1506885840000,
         "javaDate": "Oct 1, 2017 9:24:00 PM"
@@ -35,10 +55,16 @@
       "text": "#лайкоботигнор"
     },
     "456240043": {
-      "photo_id": 456240043,
+      "photo_id": {
+        "value": 456240043
+      },
       "vkLink": "https://vk.com/photo-62111632_456240043",
-      "album_id": 247665360,
-      "user_id": 100,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1506885883000,
         "javaDate": "Oct 1, 2017 9:24:43 PM"
@@ -46,10 +72,16 @@
       "text": "#лайкоботигнор"
     },
     "456240050": {
-      "photo_id": 456240050,
+      "photo_id": {
+        "value": 456240050
+      },
       "vkLink": "https://vk.com/photo-62111632_456240050",
-      "album_id": 247665360,
-      "user_id": 64831419,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 64831419
+      },
       "date": {
         "timestamp": 1506922383000,
         "javaDate": "Oct 2, 2017 7:33:03 AM"
@@ -57,10 +89,16 @@
       "text": ""
     },
     "456240051": {
-      "photo_id": 456240051,
+      "photo_id": {
+        "value": 456240051
+      },
       "vkLink": "https://vk.com/photo-62111632_456240051",
-      "album_id": 247665360,
-      "user_id": 64831419,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 64831419
+      },
       "date": {
         "timestamp": 1506922385000,
         "javaDate": "Oct 2, 2017 7:33:05 AM"
@@ -68,10 +106,16 @@
       "text": ""
     },
     "456240045": {
-      "photo_id": 456240045,
+      "photo_id": {
+        "value": 456240045
+      },
       "vkLink": "https://vk.com/photo-62111632_456240045",
-      "album_id": 247665360,
-      "user_id": 339849081,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 339849081
+      },
       "date": {
         "timestamp": 1506887870000,
         "javaDate": "Oct 1, 2017 9:57:50 PM"
@@ -79,10 +123,16 @@
       "text": "акварельная перчаточка для #inktober"
     },
     "456240047": {
-      "photo_id": 456240047,
+      "photo_id": {
+        "value": 456240047
+      },
       "vkLink": "https://vk.com/photo-62111632_456240047",
-      "album_id": 247665360,
-      "user_id": 144158029,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 144158029
+      },
       "date": {
         "timestamp": 1506902719000,
         "javaDate": "Oct 2, 2017 2:05:19 AM"
@@ -90,10 +140,16 @@
       "text": "садовая волшебница на #inktober\nhttps://vk.com/zariart\n---------------------\nNight Dragoness\nhttps://vk.com/id144158029\n"
     },
     "456240048": {
-      "photo_id": 456240048,
+      "photo_id": {
+        "value": 456240048
+      },
       "vkLink": "https://vk.com/photo-62111632_456240048",
-      "album_id": 247665360,
-      "user_id": 146392943,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 146392943
+      },
       "date": {
         "timestamp": 1506917247000,
         "javaDate": "Oct 2, 2017 6:07:27 AM"
@@ -101,10 +157,16 @@
       "text": "https://vk.com/miradella"
     },
     "456240049": {
-      "photo_id": 456240049,
+      "photo_id": {
+        "value": 456240049
+      },
       "vkLink": "https://vk.com/photo-62111632_456240049",
-      "album_id": 247665360,
-      "user_id": 321908107,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 321908107
+      },
       "date": {
         "timestamp": 1506920439000,
         "javaDate": "Oct 2, 2017 7:00:39 AM"
@@ -112,10 +174,16 @@
       "text": "https://vk.com/zavar_art"
     },
     "456240052": {
-      "photo_id": 456240052,
+      "photo_id": {
+        "value": 456240052
+      },
       "vkLink": "https://vk.com/photo-62111632_456240052",
-      "album_id": 247665360,
-      "user_id": 286798,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 286798
+      },
       "date": {
         "timestamp": 1506928669000,
         "javaDate": "Oct 2, 2017 9:17:49 AM"
@@ -123,10 +191,16 @@
       "text": "Иду по классическому списку \n\nday1 swift\n\nhttps://vk.com/octolife"
     },
     "456240055": {
-      "photo_id": 456240055,
+      "photo_id": {
+        "value": 456240055
+      },
       "vkLink": "https://vk.com/photo-62111632_456240055",
-      "album_id": 247665360,
-      "user_id": 1615426,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 1615426
+      },
       "date": {
         "timestamp": 1506945817000,
         "javaDate": "Oct 2, 2017 2:03:37 PM"
@@ -134,10 +208,16 @@
       "text": ""
     },
     "456240056": {
-      "photo_id": 456240056,
+      "photo_id": {
+        "value": 456240056
+      },
       "vkLink": "https://vk.com/photo-62111632_456240056",
-      "album_id": 247665360,
-      "user_id": 39831712,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 39831712
+      },
       "date": {
         "timestamp": 1506947513000,
         "javaDate": "Oct 2, 2017 2:31:53 PM"
@@ -145,10 +225,16 @@
       "text": ""
     },
     "456240057": {
-      "photo_id": 456240057,
+      "photo_id": {
+        "value": 456240057
+      },
       "vkLink": "https://vk.com/photo-62111632_456240057",
-      "album_id": 247665360,
-      "user_id": 100337722,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100337722
+      },
       "date": {
         "timestamp": 1506950617000,
         "javaDate": "Oct 2, 2017 3:23:37 PM"
@@ -156,10 +242,16 @@
       "text": ""
     },
     "456240058": {
-      "photo_id": 456240058,
+      "photo_id": {
+        "value": 456240058
+      },
       "vkLink": "https://vk.com/photo-62111632_456240058",
-      "album_id": 247665360,
-      "user_id": 100337722,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100337722
+      },
       "date": {
         "timestamp": 1506950618000,
         "javaDate": "Oct 2, 2017 3:23:38 PM"
@@ -167,10 +259,16 @@
       "text": ""
     },
     "456240059": {
-      "photo_id": 456240059,
+      "photo_id": {
+        "value": 456240059
+      },
       "vkLink": "https://vk.com/photo-62111632_456240059",
-      "album_id": 247665360,
-      "user_id": 339849081,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 339849081
+      },
       "date": {
         "timestamp": 1506956763000,
         "javaDate": "Oct 2, 2017 5:06:03 PM"
@@ -178,10 +276,16 @@
       "text": "#inktober на кончике клюшки"
     },
     "456240060": {
-      "photo_id": 456240060,
+      "photo_id": {
+        "value": 456240060
+      },
       "vkLink": "https://vk.com/photo-62111632_456240060",
-      "album_id": 247665360,
-      "user_id": 4858593,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 4858593
+      },
       "date": {
         "timestamp": 1506960741000,
         "javaDate": "Oct 2, 2017 6:12:21 PM"
@@ -189,10 +293,16 @@
       "text": "1/31 #inktober"
     },
     "456240061": {
-      "photo_id": 456240061,
+      "photo_id": {
+        "value": 456240061
+      },
       "vkLink": "https://vk.com/photo-62111632_456240061",
-      "album_id": 247665360,
-      "user_id": 3512268,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 3512268
+      },
       "date": {
         "timestamp": 1506970205000,
         "javaDate": "Oct 2, 2017 8:50:05 PM"
@@ -200,10 +310,16 @@
       "text": "водные процедуры для #inktober\nhttps://vk.com/kakiakiaki"
     },
     "456240062": {
-      "photo_id": 456240062,
+      "photo_id": {
+        "value": 456240062
+      },
       "vkLink": "https://vk.com/photo-62111632_456240062",
-      "album_id": 247665360,
-      "user_id": 144158029,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 144158029
+      },
       "date": {
         "timestamp": 1506972166000,
         "javaDate": "Oct 2, 2017 9:22:46 PM"
@@ -211,10 +327,16 @@
       "text": "день 2 \nосенняя ведьмочка  на #inktober и #31witches \nhttps://vk.com/zariart\n---------------------\nNight Dragoness\nhttps://vk.com/id144158029\n"
     },
     "456240063": {
-      "photo_id": 456240063,
+      "photo_id": {
+        "value": 456240063
+      },
       "vkLink": "https://vk.com/photo-62111632_456240063",
-      "album_id": 247665360,
-      "user_id": 12285947,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 12285947
+      },
       "date": {
         "timestamp": 1506973197000,
         "javaDate": "Oct 2, 2017 9:39:57 PM"
@@ -222,10 +344,16 @@
       "text": "#Inktober стал поводом, чтобы завести собственный паблик.\nhttps://vk.com/mellanius\n\nИду по альтернативному списку «Постапокалипсис».\n\nСия аллегория на тему The Girl and her dog.\n---------------------\nАлександр Юзва\nhttps://vk.com/id12285947\n"
     },
     "456240064": {
-      "photo_id": 456240064,
+      "photo_id": {
+        "value": 456240064
+      },
       "vkLink": "https://vk.com/photo-62111632_456240064",
-      "album_id": 247665360,
-      "user_id": 286798,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 286798
+      },
       "date": {
         "timestamp": 1506974958000,
         "javaDate": "Oct 2, 2017 10:09:18 PM"
@@ -233,10 +361,16 @@
       "text": "решила  иногда сочетать традиционный темы #inktober и #31witches\n\ndevided+city witch"
     },
     "456240065": {
-      "photo_id": 456240065,
+      "photo_id": {
+        "value": 456240065
+      },
       "vkLink": "https://vk.com/photo-62111632_456240065",
-      "album_id": 247665360,
-      "user_id": 321908107,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 321908107
+      },
       "date": {
         "timestamp": 1506990416000,
         "javaDate": "Oct 3, 2017 2:26:56 AM"
@@ -244,10 +378,16 @@
       "text": "https://vk.com/zavar_art"
     },
     "456240067": {
-      "photo_id": 456240067,
+      "photo_id": {
+        "value": 456240067
+      },
       "vkLink": "https://vk.com/photo-62111632_456240067",
-      "album_id": 247665360,
-      "user_id": 100337722,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100337722
+      },
       "date": {
         "timestamp": 1507026351000,
         "javaDate": "Oct 3, 2017 12:25:51 PM"
@@ -255,10 +395,16 @@
       "text": ""
     },
     "456240071": {
-      "photo_id": 456240071,
+      "photo_id": {
+        "value": 456240071
+      },
       "vkLink": "https://vk.com/photo-62111632_456240071",
-      "album_id": 247665360,
-      "user_id": 2815965,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 2815965
+      },
       "date": {
         "timestamp": 1507031565000,
         "javaDate": "Oct 3, 2017 1:52:45 PM"
@@ -266,10 +412,16 @@
       "text": "#inktober2017 #inktober \n01 Swift Shishi\nhttps://vk.com/msharra"
     },
     "456240072": {
-      "photo_id": 456240072,
+      "photo_id": {
+        "value": 456240072
+      },
       "vkLink": "https://vk.com/photo-62111632_456240072",
-      "album_id": 247665360,
-      "user_id": 2815965,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 2815965
+      },
       "date": {
         "timestamp": 1507031567000,
         "javaDate": "Oct 3, 2017 1:52:47 PM"
@@ -277,10 +429,16 @@
       "text": "#inktober2017 #inktober \n02 Divide Sagari\nhttps://vk.com/msharra"
     },
     "456240073": {
-      "photo_id": 456240073,
+      "photo_id": {
+        "value": 456240073
+      },
       "vkLink": "https://vk.com/photo-62111632_456240073",
-      "album_id": 247665360,
-      "user_id": 2815965,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 2815965
+      },
       "date": {
         "timestamp": 1507031568000,
         "javaDate": "Oct 3, 2017 1:52:48 PM"
@@ -288,10 +446,16 @@
       "text": "#inktober2017 #inktober \n03 Poison Ao-Bozu\nhttps://vk.com/msharra"
     },
     "456240075": {
-      "photo_id": 456240075,
+      "photo_id": {
+        "value": 456240075
+      },
       "vkLink": "https://vk.com/photo-62111632_456240075",
-      "album_id": 247665360,
-      "user_id": 3512268,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 3512268
+      },
       "date": {
         "timestamp": 1507042134000,
         "javaDate": "Oct 3, 2017 4:48:54 PM"
@@ -299,10 +463,16 @@
       "text": "быстрый кабанчик на #inktober\nhttps://vk.com/kakiakiaki"
     },
     "456240076": {
-      "photo_id": 456240076,
+      "photo_id": {
+        "value": 456240076
+      },
       "vkLink": "https://vk.com/photo-62111632_456240076",
-      "album_id": 247665360,
-      "user_id": 12285947,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 12285947
+      },
       "date": {
         "timestamp": 1507050145000,
         "javaDate": "Oct 3, 2017 7:02:25 PM"
@@ -310,10 +480,16 @@
       "text": "Постапокалиптический #inktober продолжается. И на этот раз у нас в программе Exiled Elf.\n\nhttps://vk.com/mellanius\n---------------------\nАлександр Юзва\nhttps://vk.com/id12285947\n"
     },
     "456240077": {
-      "photo_id": 456240077,
+      "photo_id": {
+        "value": 456240077
+      },
       "vkLink": "https://vk.com/photo-62111632_456240077",
-      "album_id": 247665360,
-      "user_id": 4858593,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 4858593
+      },
       "date": {
         "timestamp": 1507050771000,
         "javaDate": "Oct 3, 2017 7:12:51 PM"
@@ -321,10 +497,16 @@
       "text": "2/31 #inktober"
     },
     "456240078": {
-      "photo_id": 456240078,
+      "photo_id": {
+        "value": 456240078
+      },
       "vkLink": "https://vk.com/photo-62111632_456240078",
-      "album_id": 247665360,
-      "user_id": 4858593,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 4858593
+      },
       "date": {
         "timestamp": 1507050771000,
         "javaDate": "Oct 3, 2017 7:12:51 PM"
@@ -332,10 +514,16 @@
       "text": "3/31 #inktober"
     },
     "456240079": {
-      "photo_id": 456240079,
+      "photo_id": {
+        "value": 456240079
+      },
       "vkLink": "https://vk.com/photo-62111632_456240079",
-      "album_id": 247665360,
-      "user_id": 64831419,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 64831419
+      },
       "date": {
         "timestamp": 1507054603000,
         "javaDate": "Oct 3, 2017 8:16:43 PM"
@@ -343,10 +531,16 @@
       "text": "Ну у меня короче дед лесной, на ветке сидит да за гнездом вот следит\n\nhttps://vk.com/scibidaboop"
     },
     "456240081": {
-      "photo_id": 456240081,
+      "photo_id": {
+        "value": 456240081
+      },
       "vkLink": "https://vk.com/photo-62111632_456240081",
-      "album_id": 247665360,
-      "user_id": 339849081,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 339849081
+      },
       "date": {
         "timestamp": 1507065627000,
         "javaDate": "Oct 3, 2017 11:20:27 PM"
@@ -354,10 +548,16 @@
       "text": "ням\n#inktober"
     },
     "456240082": {
-      "photo_id": 456240082,
+      "photo_id": {
+        "value": 456240082
+      },
       "vkLink": "https://vk.com/photo-62111632_456240082",
-      "album_id": 247665360,
-      "user_id": 321908107,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 321908107
+      },
       "date": {
         "timestamp": 1507076841000,
         "javaDate": "Oct 4, 2017 2:27:21 AM"
@@ -365,10 +565,16 @@
       "text": "https://vk.com/zavar_art"
     },
     "456240083": {
-      "photo_id": 456240083,
+      "photo_id": {
+        "value": 456240083
+      },
       "vkLink": "https://vk.com/photo-62111632_456240083",
-      "album_id": 247665360,
-      "user_id": 20014105,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 20014105
+      },
       "date": {
         "timestamp": 1507099456000,
         "javaDate": "Oct 4, 2017 8:44:16 AM"
@@ -376,10 +582,16 @@
       "text": "Куда же без летающих голов"
     },
     "456240085": {
-      "photo_id": 456240085,
+      "photo_id": {
+        "value": 456240085
+      },
       "vkLink": "https://vk.com/photo-62111632_456240085",
-      "album_id": 247665360,
-      "user_id": 100337722,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100337722
+      },
       "date": {
         "timestamp": 1507114840000,
         "javaDate": "Oct 4, 2017 1:00:40 PM"
@@ -387,10 +599,16 @@
       "text": ""
     },
     "456240086": {
-      "photo_id": 456240086,
+      "photo_id": {
+        "value": 456240086
+      },
       "vkLink": "https://vk.com/photo-62111632_456240086",
-      "album_id": 247665360,
-      "user_id": 27039257,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 27039257
+      },
       "date": {
         "timestamp": 1507128544000,
         "javaDate": "Oct 4, 2017 4:49:04 PM"
@@ -398,10 +616,16 @@
       "text": "Третий день #inktober Такие вот Дриады."
     },
     "456240087": {
-      "photo_id": 456240087,
+      "photo_id": {
+        "value": 456240087
+      },
       "vkLink": "https://vk.com/photo-62111632_456240087",
-      "album_id": 247665360,
-      "user_id": 27039257,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 27039257
+      },
       "date": {
         "timestamp": 1507128588000,
         "javaDate": "Oct 4, 2017 4:49:48 PM"
@@ -409,10 +633,16 @@
       "text": "Сегодня четвертый день #inktober  и у нас: \"Древний маг\""
     },
     "456240088": {
-      "photo_id": 456240088,
+      "photo_id": {
+        "value": 456240088
+      },
       "vkLink": "https://vk.com/photo-62111632_456240088",
-      "album_id": 247665360,
-      "user_id": 15673658,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 15673658
+      },
       "date": {
         "timestamp": 1507133847000,
         "javaDate": "Oct 4, 2017 6:17:27 PM"
@@ -420,10 +650,16 @@
       "text": "https://vk.com/seal_son\n1. ведьма-ворон"
     },
     "456240089": {
-      "photo_id": 456240089,
+      "photo_id": {
+        "value": 456240089
+      },
       "vkLink": "https://vk.com/photo-62111632_456240089",
-      "album_id": 247665360,
-      "user_id": 15673658,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 15673658
+      },
       "date": {
         "timestamp": 1507133878000,
         "javaDate": "Oct 4, 2017 6:17:58 PM"
@@ -431,10 +667,16 @@
       "text": "https://vk.com/seal_son\n2. городская ведьма"
     },
     "456240090": {
-      "photo_id": 456240090,
+      "photo_id": {
+        "value": 456240090
+      },
       "vkLink": "https://vk.com/photo-62111632_456240090",
-      "album_id": 247665360,
-      "user_id": 15673658,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 15673658
+      },
       "date": {
         "timestamp": 1507133929000,
         "javaDate": "Oct 4, 2017 6:18:49 PM"
@@ -442,10 +684,16 @@
       "text": "https://vk.com/seal_son\n3. бродяга/тороговка"
     },
     "456240093": {
-      "photo_id": 456240093,
+      "photo_id": {
+        "value": 456240093
+      },
       "vkLink": "https://vk.com/photo-62111632_456240093",
-      "album_id": 247665360,
-      "user_id": 144158029,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 144158029
+      },
       "date": {
         "timestamp": 1507146197000,
         "javaDate": "Oct 4, 2017 9:43:17 PM"
@@ -453,10 +701,16 @@
       "text": "Без Кики никуда  на #inktober и #31witches  )\nhttps://vk.com/zariart\n---------------------\nNight Dragoness\nhttps://vk.com/id144158029\n"
     },
     "456240094": {
-      "photo_id": 456240094,
+      "photo_id": {
+        "value": 456240094
+      },
       "vkLink": "https://vk.com/photo-62111632_456240094",
-      "album_id": 247665360,
-      "user_id": 339849081,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 339849081
+      },
       "date": {
         "timestamp": 1507151953000,
         "javaDate": "Oct 4, 2017 11:19:13 PM"
@@ -464,10 +718,16 @@
       "text": "#inktober"
     },
     "456240095": {
-      "photo_id": 456240095,
+      "photo_id": {
+        "value": 456240095
+      },
       "vkLink": "https://vk.com/photo-62111632_456240095",
-      "album_id": 247665360,
-      "user_id": 39831712,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 39831712
+      },
       "date": {
         "timestamp": 1507159398000,
         "javaDate": "Oct 5, 2017 1:23:18 AM"
@@ -475,10 +735,16 @@
       "text": ""
     },
     "456240096": {
-      "photo_id": 456240096,
+      "photo_id": {
+        "value": 456240096
+      },
       "vkLink": "https://vk.com/photo-62111632_456240096",
-      "album_id": 247665360,
-      "user_id": 321908107,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 321908107
+      },
       "date": {
         "timestamp": 1507163633000,
         "javaDate": "Oct 5, 2017 2:33:53 AM"
@@ -486,10 +752,16 @@
       "text": "https://vk.com/zavar_art"
     },
     "456240097": {
-      "photo_id": 456240097,
+      "photo_id": {
+        "value": 456240097
+      },
       "vkLink": "https://vk.com/photo-62111632_456240097",
-      "album_id": 247665360,
-      "user_id": 286798,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 286798
+      },
       "date": {
         "timestamp": 1507197498000,
         "javaDate": "Oct 5, 2017 11:58:18 AM"
@@ -497,10 +769,16 @@
       "text": "day 3: Poison\n\nhttps://vk.com/octolife"
     },
     "456240101": {
-      "photo_id": 456240101,
+      "photo_id": {
+        "value": 456240101
+      },
       "vkLink": "https://vk.com/photo-62111632_456240101",
-      "album_id": 247665360,
-      "user_id": 81558869,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 81558869
+      },
       "date": {
         "timestamp": 1507198751000,
         "javaDate": "Oct 5, 2017 12:19:11 PM"
@@ -508,10 +786,16 @@
       "text": "https://vk.com/mamamelanholia"
     },
     "456240103": {
-      "photo_id": 456240103,
+      "photo_id": {
+        "value": 456240103
+      },
       "vkLink": "https://vk.com/photo-62111632_456240103",
-      "album_id": 247665360,
-      "user_id": 81558869,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 81558869
+      },
       "date": {
         "timestamp": 1507198854000,
         "javaDate": "Oct 5, 2017 12:20:54 PM"
@@ -519,10 +803,16 @@
       "text": "https://vk.com/mamamelanholia"
     },
     "456240104": {
-      "photo_id": 456240104,
+      "photo_id": {
+        "value": 456240104
+      },
       "vkLink": "https://vk.com/photo-62111632_456240104",
-      "album_id": 247665360,
-      "user_id": 100337722,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 100337722
+      },
       "date": {
         "timestamp": 1507203086000,
         "javaDate": "Oct 5, 2017 1:31:26 PM"
@@ -530,10 +820,16 @@
       "text": ""
     },
     "456240105": {
-      "photo_id": 456240105,
+      "photo_id": {
+        "value": 456240105
+      },
       "vkLink": "https://vk.com/photo-62111632_456240105",
-      "album_id": 247665360,
-      "user_id": 301217961,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 301217961
+      },
       "date": {
         "timestamp": 1507228913000,
         "javaDate": "Oct 5, 2017 8:41:53 PM"
@@ -541,10 +837,16 @@
       "text": "https://vk.com/iamoskiro\nбольше чего-то такого или не такого"
     },
     "456240106": {
-      "photo_id": 456240106,
+      "photo_id": {
+        "value": 456240106
+      },
       "vkLink": "https://vk.com/photo-62111632_456240106",
-      "album_id": 247665360,
-      "user_id": 144158029,
+      "album_id": {
+        "value": 247665360
+      },
+      "user_id": {
+        "value": 144158029
+      },
       "date": {
         "timestamp": 1507231151000,
         "javaDate": "Oct 5, 2017 9:19:11 PM"

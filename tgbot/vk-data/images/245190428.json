@@ -1,11 +1,19 @@
 {
-  "album_id": 245190428,
+  "album_id": {
+    "value": 245190428
+  },
   "photos": {
     "456239758": {
-      "photo_id": 456239758,
+      "photo_id": {
+        "value": 456239758
+      },
       "vkLink": "https://vk.com/photo-62111632_456239758",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498585823000,
         "javaDate": "Jun 27, 2017 7:50:23 PM"
@@ -13,10 +21,16 @@
       "text": "Пикфайт #60: «CHILL øUT»\n\n•Привет всем обитателям пикфайтовых земель, уже пошла летняя жара, и в этом файте мы будем бороться с ней!\n\n•А бороться мы будем любыми методами во всех смыслах chill out\u0027a. Я хочу, чтоб вы рассказали свою историю победы над жарой — от банального зонтика до фаталити Sub zero над Scorpion. Тут только ваше воображение может остановить вас. Не забывайте, что выражение chill out имеет разные значения.\n\n#плашка"
     },
     "456239759": {
-      "photo_id": 456239759,
+      "photo_id": {
+        "value": 456239759
+      },
       "vkLink": "https://vk.com/photo-62111632_456239759",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498585859000,
         "javaDate": "Jun 27, 2017 7:50:59 PM"
@@ -24,10 +38,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239761": {
-      "photo_id": 456239761,
+      "photo_id": {
+        "value": 456239761
+      },
       "vkLink": "https://vk.com/photo-62111632_456239761",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498586008000,
         "javaDate": "Jun 27, 2017 7:53:28 PM"
@@ -35,10 +55,16 @@
       "text": "Анна Громова\nhttps://vk.com/akiakiaki\nhttps://vk.com/kakiakiaki\n---------------------\nАня Громова\nhttps://vk.com/id3512268\n"
     },
     "456239760": {
-      "photo_id": 456239760,
+      "photo_id": {
+        "value": 456239760
+      },
       "vkLink": "https://vk.com/photo-62111632_456239760",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498585879000,
         "javaDate": "Jun 27, 2017 7:51:19 PM"
@@ -46,10 +72,16 @@
       "text": "Саша Богатов\nhttps://vk.com/id6931933\nvk.com/drop_shadow\nbehance.net/belk1n"
     },
     "456239762": {
-      "photo_id": 456239762,
+      "photo_id": {
+        "value": 456239762
+      },
       "vkLink": "https://vk.com/photo-62111632_456239762",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498586058000,
         "javaDate": "Jun 27, 2017 7:54:18 PM"
@@ -57,10 +89,16 @@
       "text": "Юльчик Папарацци\nhttps://vk.com/id462771\nhttps://vk.com/heywaitwhat\n\nспециалист по чилауту - богиня летней жары"
     },
     "456239763": {
-      "photo_id": 456239763,
+      "photo_id": {
+        "value": 456239763
+      },
       "vkLink": "https://vk.com/photo-62111632_456239763",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498586081000,
         "javaDate": "Jun 27, 2017 7:54:41 PM"
@@ -68,10 +106,16 @@
       "text": "Юлия Зверева\nhttps://vk.com/zverazvera\nhttps://vk.com/scibidaboop\n\nЭто снова я, у вас тут клёво! Вот такие вот летние ребята: веселье на пляже и вечерний чилл в бассейне как способы борьбы с жарой.\n---------------------\nЮля Зверева\nhttps://vk.com/id64831419\n"
     },
     "456239764": {
-      "photo_id": 456239764,
+      "photo_id": {
+        "value": 456239764
+      },
       "vkLink": "https://vk.com/photo-62111632_456239764",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498586082000,
         "javaDate": "Jun 27, 2017 7:54:42 PM"
@@ -79,10 +123,16 @@
       "text": "Юлия Зверева\nhttps://vk.com/zverazvera\nhttps://vk.com/scibidaboop\n\nЭто снова я, у вас тут клёво! Вот такие вот летние ребята: веселье на пляже и вечерний чилл в бассейне как способы борьбы с жарой.\n---------------------\nЮля Зверева\nhttps://vk.com/id64831419\n"
     },
     "456239765": {
-      "photo_id": 456239765,
+      "photo_id": {
+        "value": 456239765
+      },
       "vkLink": "https://vk.com/photo-62111632_456239765",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498586110000,
         "javaDate": "Jun 27, 2017 7:55:10 PM"
@@ -90,10 +140,16 @@
       "text": "Дмитрий Иллюстратор\nhttps://vk.com/dmitryillustrator\nhttps://www.behance.net/dmitryillustrator\n\nпопробовал покраску чб\n---------------------\nДмитрий Иллюстратор\nhttps://vk.com/id225567547\n"
     },
     "456239766": {
-      "photo_id": 456239766,
+      "photo_id": {
+        "value": 456239766
+      },
       "vkLink": "https://vk.com/photo-62111632_456239766",
-      "album_id": 245190428,
-      "user_id": 100,
+      "album_id": {
+        "value": 245190428
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1498586129000,
         "javaDate": "Jun 27, 2017 7:55:29 PM"

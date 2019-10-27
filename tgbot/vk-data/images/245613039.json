@@ -1,11 +1,19 @@
 {
-  "album_id": 245613039,
+  "album_id": {
+    "value": 245613039
+  },
   "photos": {
     "456239803": {
-      "photo_id": 456239803,
+      "photo_id": {
+        "value": 456239803
+      },
       "vkLink": "https://vk.com/photo-62111632_456239803",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499967082000,
         "javaDate": "Jul 13, 2017 7:31:22 PM"
@@ -13,10 +21,16 @@
       "text": "Пришло время абстрагироваться от мира!\nДавайте попробуем изобразить битву, но с помощью простых фигур и цветовых пятен. Забудем о существовании людей, зверей, растений и техники. Следующую неделю в Пикфайтах существуют только абстрактные вещи!\n\nОтключите мозг, эксперементируйте с материалами, пользуйтесь любыми инструментами, упрощайте форму до предела. Да, в этом файте будем немного прокачивать композиционную мышцу.\nСоздавайте столько работ, сколько посчитаете нужными для передачи своей идеи. Только помните, что надо изобразить битву, то есть в работе должен быть легкий намек на сюжет.\n\nВперед, ребята! Главное — не бойтесь!\n\n#плашка"
     },
     "456239804": {
-      "photo_id": 456239804,
+      "photo_id": {
+        "value": 456239804
+      },
       "vkLink": "https://vk.com/photo-62111632_456239804",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499967892000,
         "javaDate": "Jul 13, 2017 7:44:52 PM"
@@ -24,10 +38,16 @@
       "text": "Саша Лукашин \nhttps://vk.com/id283145186"
     },
     "456239805": {
-      "photo_id": 456239805,
+      "photo_id": {
+        "value": 456239805
+      },
       "vkLink": "https://vk.com/photo-62111632_456239805",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499967958000,
         "javaDate": "Jul 13, 2017 7:45:58 PM"
@@ -35,10 +55,16 @@
       "text": "Алексей Нечаев\nhttps://vk.com/ne.veyahc\nhttps://www.instagram.com/ne.veyahc/\n\nСерия работ, борьба цвета, формы\nи иероглифы.\n\nDouble damage\n---------------------\nАлексей Нечаев\nhttps://vk.com/id220982828\n"
     },
     "456239806": {
-      "photo_id": 456239806,
+      "photo_id": {
+        "value": 456239806
+      },
       "vkLink": "https://vk.com/photo-62111632_456239806",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499967997000,
         "javaDate": "Jul 13, 2017 7:46:37 PM"
@@ -46,10 +72,16 @@
       "text": "Алексей Нечаев\nhttps://vk.com/ne.veyahc\nhttps://www.instagram.com/ne.veyahc/\n\nСерия работ, борьба цвета, формы\nи иероглифы.\n\nНож в спину\n---------------------\nАлексей Нечаев\nhttps://vk.com/id220982828\n"
     },
     "456239807": {
-      "photo_id": 456239807,
+      "photo_id": {
+        "value": 456239807
+      },
       "vkLink": "https://vk.com/photo-62111632_456239807",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968024000,
         "javaDate": "Jul 13, 2017 7:47:04 PM"
@@ -57,10 +89,16 @@
       "text": "Алексей Нечаев\nhttps://vk.com/ne.veyahc\nhttps://www.instagram.com/ne.veyahc/\n\nСерия работ, борьба цвета, формы\nи иероглифы.\n\nМесто под солнцем\n---------------------\nАлексей Нечаев\nhttps://vk.com/id220982828\n"
     },
     "456239808": {
-      "photo_id": 456239808,
+      "photo_id": {
+        "value": 456239808
+      },
       "vkLink": "https://vk.com/photo-62111632_456239808",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968039000,
         "javaDate": "Jul 13, 2017 7:47:19 PM"
@@ -68,10 +106,16 @@
       "text": "Алексей Нечаев\nhttps://vk.com/ne.veyahc\nhttps://www.instagram.com/ne.veyahc/\n\nСерия работ, борьба цвета, формы\nи иероглифы.\n\nПротив всех\n---------------------\nАлексей Нечаев\nhttps://vk.com/id220982828\n"
     },
     "456239809": {
-      "photo_id": 456239809,
+      "photo_id": {
+        "value": 456239809
+      },
       "vkLink": "https://vk.com/photo-62111632_456239809",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968044000,
         "javaDate": "Jul 13, 2017 7:47:24 PM"
@@ -79,10 +123,16 @@
       "text": "Алексей Нечаев\nhttps://vk.com/ne.veyahc\nhttps://www.instagram.com/ne.veyahc/\n\nСерия работ, борьба цвета, формы\nи иероглифы.\n\nПредательство\n---------------------\nАлексей Нечаев\nhttps://vk.com/id220982828\n"
     },
     "456239810": {
-      "photo_id": 456239810,
+      "photo_id": {
+        "value": 456239810
+      },
       "vkLink": "https://vk.com/photo-62111632_456239810",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968139000,
         "javaDate": "Jul 13, 2017 7:48:59 PM"
@@ -90,10 +140,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239811": {
-      "photo_id": 456239811,
+      "photo_id": {
+        "value": 456239811
+      },
       "vkLink": "https://vk.com/photo-62111632_456239811",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968140000,
         "javaDate": "Jul 13, 2017 7:49:00 PM"
@@ -101,10 +157,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239812": {
-      "photo_id": 456239812,
+      "photo_id": {
+        "value": 456239812
+      },
       "vkLink": "https://vk.com/photo-62111632_456239812",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968141000,
         "javaDate": "Jul 13, 2017 7:49:01 PM"
@@ -112,10 +174,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239813": {
-      "photo_id": 456239813,
+      "photo_id": {
+        "value": 456239813
+      },
       "vkLink": "https://vk.com/photo-62111632_456239813",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968195000,
         "javaDate": "Jul 13, 2017 7:49:55 PM"
@@ -123,10 +191,16 @@
       "text": "Алекс Саенко\nhttps://vk.com/digette\nhttps://vk.com/il8otl7krbj75iu357bu5\n---------------------\nAlex Saenko\nhttps://vk.com/id134044379\n"
     },
     "456239814": {
-      "photo_id": 456239814,
+      "photo_id": {
+        "value": 456239814
+      },
       "vkLink": "https://vk.com/photo-62111632_456239814",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968233000,
         "javaDate": "Jul 13, 2017 7:50:33 PM"
@@ -134,10 +208,16 @@
       "text": "Chopi Fictus\nhttps://vk.com/fictusc\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456239815": {
-      "photo_id": 456239815,
+      "photo_id": {
+        "value": 456239815
+      },
       "vkLink": "https://vk.com/photo-62111632_456239815",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968238000,
         "javaDate": "Jul 13, 2017 7:50:38 PM"
@@ -145,10 +225,16 @@
       "text": "Chopi Fictus\nhttps://vk.com/fictusc\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456239816": {
-      "photo_id": 456239816,
+      "photo_id": {
+        "value": 456239816
+      },
       "vkLink": "https://vk.com/photo-62111632_456239816",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968241000,
         "javaDate": "Jul 13, 2017 7:50:41 PM"
@@ -156,10 +242,16 @@
       "text": "Chopi Fictus\nhttps://vk.com/fictusc\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456239817": {
-      "photo_id": 456239817,
+      "photo_id": {
+        "value": 456239817
+      },
       "vkLink": "https://vk.com/photo-62111632_456239817",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968259000,
         "javaDate": "Jul 13, 2017 7:50:59 PM"
@@ -167,10 +259,16 @@
       "text": "Тамри Нижарадзе\nhttps://vk.com/tamrishek\nhttps://vk.com/tamroid\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "456239818": {
-      "photo_id": 456239818,
+      "photo_id": {
+        "value": 456239818
+      },
       "vkLink": "https://vk.com/photo-62111632_456239818",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968303000,
         "javaDate": "Jul 13, 2017 7:51:43 PM"
@@ -178,10 +276,16 @@
       "text": "Юлия Зверева\nhttps://vk.com/zverazvera\nhttps://vk.com/scibidaboop\n\nсразу понятно, что вступительные по композе завалила :D\n---------------------\nЮля Зверева\nhttps://vk.com/id64831419\n"
     },
     "456239820": {
-      "photo_id": 456239820,
+      "photo_id": {
+        "value": 456239820
+      },
       "vkLink": "https://vk.com/photo-62111632_456239820",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968305000,
         "javaDate": "Jul 13, 2017 7:51:45 PM"
@@ -189,10 +293,16 @@
       "text": "Юлия Зверева\nhttps://vk.com/zverazvera\nhttps://vk.com/scibidaboop\n\nсразу понятно, что вступительные по композе завалила :D\n---------------------\nЮля Зверева\nhttps://vk.com/id64831419\n"
     },
     "456239819": {
-      "photo_id": 456239819,
+      "photo_id": {
+        "value": 456239819
+      },
       "vkLink": "https://vk.com/photo-62111632_456239819",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968304000,
         "javaDate": "Jul 13, 2017 7:51:44 PM"
@@ -200,10 +310,16 @@
       "text": "Юлия Зверева\nhttps://vk.com/zverazvera\nhttps://vk.com/scibidaboop\n\nсразу понятно, что вступительные по композе завалила :D\n---------------------\nЮля Зверева\nhttps://vk.com/id64831419\n"
     },
     "456239821": {
-      "photo_id": 456239821,
+      "photo_id": {
+        "value": 456239821
+      },
       "vkLink": "https://vk.com/photo-62111632_456239821",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968355000,
         "javaDate": "Jul 13, 2017 7:52:35 PM"
@@ -211,10 +327,16 @@
       "text": "Лена Котик\nhttps://vk.com/detective_biscuit\nhttps://vk.com/kotek365\n---------------------\nЛена Котик\nhttps://vk.com/id2478530\n"
     },
     "456239822": {
-      "photo_id": 456239822,
+      "photo_id": {
+        "value": 456239822
+      },
       "vkLink": "https://vk.com/photo-62111632_456239822",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1499968358000,
         "javaDate": "Jul 13, 2017 7:52:38 PM"
@@ -222,10 +344,16 @@
       "text": "Лена Котик\nhttps://vk.com/detective_biscuit\nhttps://vk.com/kotek365\n---------------------\nЛена Котик\nhttps://vk.com/id2478530\n"
     },
     "456239824": {
-      "photo_id": 456239824,
+      "photo_id": {
+        "value": 456239824
+      },
       "vkLink": "https://vk.com/photo-62111632_456239824",
-      "album_id": 245613039,
-      "user_id": 100,
+      "album_id": {
+        "value": 245613039
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1500283769000,
         "javaDate": "Jul 17, 2017 11:29:29 AM"

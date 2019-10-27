@@ -1,11 +1,19 @@
 {
-  "album_id": 197387720,
+  "album_id": {
+    "value": 197387720
+  },
   "photos": {
     "347406623": {
-      "photo_id": 347406623,
+      "photo_id": {
+        "value": 347406623
+      },
       "vkLink": "https://vk.com/photo-62111632_347406623",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416251885000,
         "javaDate": "Nov 17, 2014 8:18:05 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "334618349": {
-      "photo_id": 334618349,
+      "photo_id": {
+        "value": 334618349
+      },
       "vkLink": "https://vk.com/photo-62111632_334618349",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403627281000,
         "javaDate": "Jun 24, 2014 6:28:01 PM"
@@ -24,10 +38,16 @@
       "text": "Автор: Ann Ninja\nhttps://vk.com/spiritius\nhttp://spiritius.net/\n\nэтот пикфайт я не могла пропустить. любимая тематика, уииии\nhttp://spacecadet.printdirect.ru/index.php?action\u003daddtocart\u0026product\u003d5565288\n---------------------\nAnn Ninja\nhttps://vk.com/id847172\n"
     },
     "334618350": {
-      "photo_id": 334618350,
+      "photo_id": {
+        "value": 334618350
+      },
       "vkLink": "https://vk.com/photo-62111632_334618350",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403627281000,
         "javaDate": "Jun 24, 2014 6:28:01 PM"
@@ -35,10 +55,16 @@
       "text": "Автор: Ann Ninja\nhttps://vk.com/spiritius\nhttp://spiritius.net/\n\nэтот пикфайт я не могла пропустить. любимая тематика, уииии\nhttp://spacecadet.printdirect.ru/index.php?action\u003daddtocart\u0026product\u003d5565290\n---------------------\nAnn Ninja\nhttps://vk.com/id847172\n"
     },
     "334618623": {
-      "photo_id": 334618623,
+      "photo_id": {
+        "value": 334618623
+      },
       "vkLink": "https://vk.com/photo-62111632_334618623",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403627430000,
         "javaDate": "Jun 24, 2014 6:30:30 PM"
@@ -46,10 +72,16 @@
       "text": "Автор: Helly\nhttps://vk.com/helly_art\n\nПлакат к мультфильму \"Котики просыпаются ночью\"."
     },
     "334618742": {
-      "photo_id": 334618742,
+      "photo_id": {
+        "value": 334618742
+      },
       "vkLink": "https://vk.com/photo-62111632_334618742",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403627499000,
         "javaDate": "Jun 24, 2014 6:31:39 PM"
@@ -57,10 +89,16 @@
       "text": "Автор: Настя Никифорова\nhttp://vk.com/nnomart\nhttp://nnomnia.tumblr.com/"
     },
     "334618990": {
-      "photo_id": 334618990,
+      "photo_id": {
+        "value": 334618990
+      },
       "vkLink": "https://vk.com/photo-62111632_334618990",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403627620000,
         "javaDate": "Jun 24, 2014 6:33:40 PM"
@@ -68,10 +106,16 @@
       "text": "Автор: Анна Брухно\nhttp://vk.com/id90944129\n\n- Почему гитара? - спросите вы.\n- По качану.\nТаков мой ответ"
     },
     "334618855": {
-      "photo_id": 334618855,
+      "photo_id": {
+        "value": 334618855
+      },
       "vkLink": "https://vk.com/photo-62111632_334618855",
-      "album_id": 197387720,
-      "user_id": 100,
+      "album_id": {
+        "value": 197387720
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403627549000,
         "javaDate": "Jun 24, 2014 6:32:29 PM"

@@ -1,11 +1,19 @@
 {
-  "album_id": 232468996,
+  "album_id": {
+    "value": 232468996
+  },
   "photos": {
     "421761793": {
-      "photo_id": 421761793,
+      "photo_id": {
+        "value": 421761793
+      },
       "vkLink": "https://vk.com/photo-62111632_421761793",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465486469000,
         "javaDate": "Jun 9, 2016 5:34:29 PM"
@@ -13,10 +21,16 @@
       "text": ""
     },
     "421761803": {
-      "photo_id": 421761803,
+      "photo_id": {
+        "value": 421761803
+      },
       "vkLink": "https://vk.com/photo-62111632_421761803",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465486472000,
         "javaDate": "Jun 9, 2016 5:34:32 PM"
@@ -24,10 +38,16 @@
       "text": ""
     },
     "421761812": {
-      "photo_id": 421761812,
+      "photo_id": {
+        "value": 421761812
+      },
       "vkLink": "https://vk.com/photo-62111632_421761812",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465486474000,
         "javaDate": "Jun 9, 2016 5:34:34 PM"
@@ -35,10 +55,16 @@
       "text": ""
     },
     "421761822": {
-      "photo_id": 421761822,
+      "photo_id": {
+        "value": 421761822
+      },
       "vkLink": "https://vk.com/photo-62111632_421761822",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465486477000,
         "javaDate": "Jun 9, 2016 5:34:37 PM"
@@ -46,10 +72,16 @@
       "text": ""
     },
     "421761836": {
-      "photo_id": 421761836,
+      "photo_id": {
+        "value": 421761836
+      },
       "vkLink": "https://vk.com/photo-62111632_421761836",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465486481000,
         "javaDate": "Jun 9, 2016 5:34:41 PM"
@@ -57,10 +89,16 @@
       "text": ""
     },
     "421761840": {
-      "photo_id": 421761840,
+      "photo_id": {
+        "value": 421761840
+      },
       "vkLink": "https://vk.com/photo-62111632_421761840",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465486483000,
         "javaDate": "Jun 9, 2016 5:34:43 PM"
@@ -68,10 +106,16 @@
       "text": ""
     },
     "421778323": {
-      "photo_id": 421778323,
+      "photo_id": {
+        "value": 421778323
+      },
       "vkLink": "https://vk.com/photo-62111632_421778323",
-      "album_id": 232468996,
-      "user_id": 1615426,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1615426
+      },
       "date": {
         "timestamp": 1465493373000,
         "javaDate": "Jun 9, 2016 7:29:33 PM"
@@ -79,10 +123,16 @@
       "text": "#juneofgirls\nhttps://vk.com/indanthrenblau\n---------------------\nВера Качур\nhttps://vk.com/id1615426\n"
     },
     "421778335": {
-      "photo_id": 421778335,
+      "photo_id": {
+        "value": 421778335
+      },
       "vkLink": "https://vk.com/photo-62111632_421778335",
-      "album_id": 232468996,
-      "user_id": 1615426,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1615426
+      },
       "date": {
         "timestamp": 1465493376000,
         "javaDate": "Jun 9, 2016 7:29:36 PM"
@@ -90,10 +140,16 @@
       "text": "#juneofgirls\nhttps://vk.com/indanthrenblau\n---------------------\nВера Качур\nhttps://vk.com/id1615426\n"
     },
     "421778343": {
-      "photo_id": 421778343,
+      "photo_id": {
+        "value": 421778343
+      },
       "vkLink": "https://vk.com/photo-62111632_421778343",
-      "album_id": 232468996,
-      "user_id": 1615426,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1615426
+      },
       "date": {
         "timestamp": 1465493379000,
         "javaDate": "Jun 9, 2016 7:29:39 PM"
@@ -101,10 +157,16 @@
       "text": "#juneofgirls\nhttps://vk.com/indanthrenblau\n---------------------\nВера Качур\nhttps://vk.com/id1615426\n"
     },
     "421778352": {
-      "photo_id": 421778352,
+      "photo_id": {
+        "value": 421778352
+      },
       "vkLink": "https://vk.com/photo-62111632_421778352",
-      "album_id": 232468996,
-      "user_id": 1615426,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1615426
+      },
       "date": {
         "timestamp": 1465493381000,
         "javaDate": "Jun 9, 2016 7:29:41 PM"
@@ -112,10 +174,16 @@
       "text": "#juneofgirls\nhttps://vk.com/indanthrenblau\n---------------------\nВера Качур\nhttps://vk.com/id1615426\n"
     },
     "421778365": {
-      "photo_id": 421778365,
+      "photo_id": {
+        "value": 421778365
+      },
       "vkLink": "https://vk.com/photo-62111632_421778365",
-      "album_id": 232468996,
-      "user_id": 1615426,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1615426
+      },
       "date": {
         "timestamp": 1465493385000,
         "javaDate": "Jun 9, 2016 7:29:45 PM"
@@ -123,10 +191,16 @@
       "text": "#juneofgirls\nhttps://vk.com/indanthrenblau\n---------------------\nВера Качур\nhttps://vk.com/id1615426\n"
     },
     "421778559": {
-      "photo_id": 421778559,
+      "photo_id": {
+        "value": 421778559
+      },
       "vkLink": "https://vk.com/photo-62111632_421778559",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493452000,
         "javaDate": "Jun 9, 2016 7:30:52 PM"
@@ -134,10 +208,16 @@
       "text": ""
     },
     "421778613": {
-      "photo_id": 421778613,
+      "photo_id": {
+        "value": 421778613
+      },
       "vkLink": "https://vk.com/photo-62111632_421778613",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493467000,
         "javaDate": "Jun 9, 2016 7:31:07 PM"
@@ -145,10 +225,16 @@
       "text": "Елизавета Фёдоровна"
     },
     "421778689": {
-      "photo_id": 421778689,
+      "photo_id": {
+        "value": 421778689
+      },
       "vkLink": "https://vk.com/photo-62111632_421778689",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493503000,
         "javaDate": "Jun 9, 2016 7:31:43 PM"
@@ -156,10 +242,16 @@
       "text": "Елизавета Петровна"
     },
     "421778746": {
-      "photo_id": 421778746,
+      "photo_id": {
+        "value": 421778746
+      },
       "vkLink": "https://vk.com/photo-62111632_421778746",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493525000,
         "javaDate": "Jun 9, 2016 7:32:05 PM"
@@ -167,10 +259,16 @@
       "text": "Елизавета Тьюдор"
     },
     "421778965": {
-      "photo_id": 421778965,
+      "photo_id": {
+        "value": 421778965
+      },
       "vkLink": "https://vk.com/photo-62111632_421778965",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493613000,
         "javaDate": "Jun 9, 2016 7:33:33 PM"
@@ -178,10 +276,16 @@
       "text": "Сисси"
     },
     "421779069": {
-      "photo_id": 421779069,
+      "photo_id": {
+        "value": 421779069
+      },
       "vkLink": "https://vk.com/photo-62111632_421779069",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493650000,
         "javaDate": "Jun 9, 2016 7:34:10 PM"
@@ -189,10 +293,16 @@
       "text": "Панночка"
     },
     "421780012": {
-      "photo_id": 421780012,
+      "photo_id": {
+        "value": 421780012
+      },
       "vkLink": "https://vk.com/photo-62111632_421780012",
-      "album_id": 232468996,
-      "user_id": 1503623,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 1503623
+      },
       "date": {
         "timestamp": 1465493994000,
         "javaDate": "Jun 9, 2016 7:39:54 PM"
@@ -200,10 +310,16 @@
       "text": "ОС"
     },
     "421834421": {
-      "photo_id": 421834421,
+      "photo_id": {
+        "value": 421834421
+      },
       "vkLink": "https://vk.com/photo-62111632_421834421",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465539038000,
         "javaDate": "Jun 10, 2016 8:10:38 AM"
@@ -211,10 +327,16 @@
       "text": "Загадочный фотограф Вивиан Майер"
     },
     "422095930": {
-      "photo_id": 422095930,
+      "photo_id": {
+        "value": 422095930
+      },
       "vkLink": "https://vk.com/photo-62111632_422095930",
-      "album_id": 232468996,
-      "user_id": 562753,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 562753
+      },
       "date": {
         "timestamp": 1465707692000,
         "javaDate": "Jun 12, 2016 7:01:32 AM"
@@ -222,10 +344,16 @@
       "text": "дженис джоплин"
     },
     "422224141": {
-      "photo_id": 422224141,
+      "photo_id": {
+        "value": 422224141
+      },
       "vkLink": "https://vk.com/photo-62111632_422224141",
-      "album_id": 232468996,
-      "user_id": 27109931,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 27109931
+      },
       "date": {
         "timestamp": 1465767764000,
         "javaDate": "Jun 12, 2016 11:42:44 PM"
@@ -233,10 +361,16 @@
       "text": "#juneofgirls\nСтранные рисульки в скетчбуке"
     },
     "422304622": {
-      "photo_id": 422304622,
+      "photo_id": {
+        "value": 422304622
+      },
       "vkLink": "https://vk.com/photo-62111632_422304622",
-      "album_id": 232468996,
-      "user_id": 19864715,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 19864715
+      },
       "date": {
         "timestamp": 1465829304000,
         "javaDate": "Jun 13, 2016 4:48:24 PM"
@@ -244,10 +378,16 @@
       "text": "пытаюсь в разные стили\nhttps://vk.com/gu_ash"
     },
     "422304742": {
-      "photo_id": 422304742,
+      "photo_id": {
+        "value": 422304742
+      },
       "vkLink": "https://vk.com/photo-62111632_422304742",
-      "album_id": 232468996,
-      "user_id": 19864715,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 19864715
+      },
       "date": {
         "timestamp": 1465829358000,
         "javaDate": "Jun 13, 2016 4:49:18 PM"
@@ -255,10 +395,16 @@
       "text": "и в разных персонажей\nhttps://vk.com/gu_ash"
     },
     "422908228": {
-      "photo_id": 422908228,
+      "photo_id": {
+        "value": 422908228
+      },
       "vkLink": "https://vk.com/photo-62111632_422908228",
-      "album_id": 232468996,
-      "user_id": 6275049,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 6275049
+      },
       "date": {
         "timestamp": 1466190610000,
         "javaDate": "Jun 17, 2016 9:10:10 PM"
@@ -266,10 +412,16 @@
       "text": "vk.com/krsh_00 \n#juneofgirls"
     },
     "422908250": {
-      "photo_id": 422908250,
+      "photo_id": {
+        "value": 422908250
+      },
       "vkLink": "https://vk.com/photo-62111632_422908250",
-      "album_id": 232468996,
-      "user_id": 6275049,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 6275049
+      },
       "date": {
         "timestamp": 1466190615000,
         "javaDate": "Jun 17, 2016 9:10:15 PM"
@@ -277,10 +429,16 @@
       "text": "vk.com/krsh_00\n#juneofgirls"
     },
     "423715041": {
-      "photo_id": 423715041,
+      "photo_id": {
+        "value": 423715041
+      },
       "vkLink": "https://vk.com/photo-62111632_423715041",
-      "album_id": 232468996,
-      "user_id": 577073,
+      "album_id": {
+        "value": 232468996
+      },
+      "user_id": {
+        "value": 577073
+      },
       "date": {
         "timestamp": 1466696239000,
         "javaDate": "Jun 23, 2016 5:37:19 PM"

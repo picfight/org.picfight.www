@@ -1,11 +1,19 @@
 {
-  "album_id": 254125959,
+  "album_id": {
+    "value": 254125959
+  },
   "photos": {
     "456240573": {
-      "photo_id": 456240573,
+      "photo_id": {
+        "value": 456240573
+      },
       "vkLink": "https://vk.com/photo-62111632_456240573",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183433000,
         "javaDate": "Jun 5, 2018 9:23:53 AM"
@@ -13,10 +21,16 @@
       "text": "Пикфайт #70\n«Грибной» \n\nГрибы (лат. Fungi или Mycota) — царство живой природы, объединяющее эукариотические организмы, сочетающие в себе некоторые признаки как растений, так и животных.\n\nБудьте бдительны. Загадочная форма жизни!\n\nГрибы — это целая вселенная, которой почти не уделяется внимания. Билет в сказку. \nПутешествие в Террабитию. \nЩупать днище. \n\n(«эй, лягуха, иди приляг!...»)\n\nГрибы — это красиво и интересно. Огромный мир у вас под ногами.\nРисовать грибы — такова тема этого файта.\n#плашка"
     },
     "456240574": {
-      "photo_id": 456240574,
+      "photo_id": {
+        "value": 456240574
+      },
       "vkLink": "https://vk.com/photo-62111632_456240574",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183747000,
         "javaDate": "Jun 5, 2018 9:29:07 AM"
@@ -24,10 +38,16 @@
       "text": "Aaron Artursson\nhttps://vk.com/h3rzbau"
     },
     "456240575": {
-      "photo_id": 456240575,
+      "photo_id": {
+        "value": 456240575
+      },
       "vkLink": "https://vk.com/photo-62111632_456240575",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183748000,
         "javaDate": "Jun 5, 2018 9:29:08 AM"
@@ -35,10 +55,16 @@
       "text": "Chopi Fictus\nhttps://vk.com/wintercave\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456240576": {
-      "photo_id": 456240576,
+      "photo_id": {
+        "value": 456240576
+      },
       "vkLink": "https://vk.com/photo-62111632_456240576",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183750000,
         "javaDate": "Jun 5, 2018 9:29:10 AM"
@@ -46,10 +72,16 @@
       "text": "Mellanius\nhttps://vk.com/mellanius\n---------------------\nАлександр Юзва\nhttps://vk.com/id12285947\n"
     },
     "456240577": {
-      "photo_id": 456240577,
+      "photo_id": {
+        "value": 456240577
+      },
       "vkLink": "https://vk.com/photo-62111632_456240577",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183751000,
         "javaDate": "Jun 5, 2018 9:29:11 AM"
@@ -57,10 +89,16 @@
       "text": "Night Dragoness\nhttps://vk.com/zariart\n---------------------\nNight Dragoness\nhttps://vk.com/id144158029\n"
     },
     "456240578": {
-      "photo_id": 456240578,
+      "photo_id": {
+        "value": 456240578
+      },
       "vkLink": "https://vk.com/photo-62111632_456240578",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183794000,
         "javaDate": "Jun 5, 2018 9:29:54 AM"
@@ -68,10 +106,16 @@
       "text": "Вероника Аршинова\nhttps://vk.com/wintercave\nhttps://vk.com/id15315201"
     },
     "456240579": {
-      "photo_id": 456240579,
+      "photo_id": {
+        "value": 456240579
+      },
       "vkLink": "https://vk.com/photo-62111632_456240579",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183796000,
         "javaDate": "Jun 5, 2018 9:29:56 AM"
@@ -79,10 +123,16 @@
       "text": "Bumkat\nhttps://vk.com/bumkat\nhttps://www.instagram.com/sergiemercury/"
     },
     "456240580": {
-      "photo_id": 456240580,
+      "photo_id": {
+        "value": 456240580
+      },
       "vkLink": "https://vk.com/photo-62111632_456240580",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183797000,
         "javaDate": "Jun 5, 2018 9:29:57 AM"
@@ -90,10 +140,16 @@
       "text": "Дарья Беленкова\nКровавый зуб.\nhttps://vk.com/teactopusart"
     },
     "456240581": {
-      "photo_id": 456240581,
+      "photo_id": {
+        "value": 456240581
+      },
       "vkLink": "https://vk.com/photo-62111632_456240581",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183798000,
         "javaDate": "Jun 5, 2018 9:29:58 AM"
@@ -101,10 +157,16 @@
       "text": "Ольга Гальченко\nhttps://vk.com/marivanna_trench"
     },
     "456240582": {
-      "photo_id": 456240582,
+      "photo_id": {
+        "value": 456240582
+      },
       "vkLink": "https://vk.com/photo-62111632_456240582",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183799000,
         "javaDate": "Jun 5, 2018 9:29:59 AM"
@@ -112,10 +174,16 @@
       "text": "Аня Громова\nПаблик: https://vk.com/kakiakiaki\nГриб: Пальцы Дьявола (https://en.wikipedia.org/wiki/Clathrus_archeri)"
     },
     "456240583": {
-      "photo_id": 456240583,
+      "photo_id": {
+        "value": 456240583
+      },
       "vkLink": "https://vk.com/photo-62111632_456240583",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183800000,
         "javaDate": "Jun 5, 2018 9:30:00 AM"
@@ -123,10 +191,16 @@
       "text": "Виктор Дивавин\nhttps://vk.com/divavin.viktor\n---------------------\nВиктор Дивавин\nhttps://vk.com/id121507757\n"
     },
     "456240584": {
-      "photo_id": 456240584,
+      "photo_id": {
+        "value": 456240584
+      },
       "vkLink": "https://vk.com/photo-62111632_456240584",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183801000,
         "javaDate": "Jun 5, 2018 9:30:01 AM"
@@ -134,10 +208,16 @@
       "text": "Юля Зверева\nhttps://vk.com/pikchuza\nhttps://www.instagram.com/pikchuza/\n---------------------\nЮля Зверева\nhttps://vk.com/id64831419\n"
     },
     "456240585": {
-      "photo_id": 456240585,
+      "photo_id": {
+        "value": 456240585
+      },
       "vkLink": "https://vk.com/photo-62111632_456240585",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183803000,
         "javaDate": "Jun 5, 2018 9:30:03 AM"
@@ -145,10 +225,16 @@
       "text": "Женя Калачев\nhttps://vk.com/el_buonoart\nГрибы бывают разные, например заразные. Иногда, гриб - это отличный дом. А иногда грибы - хорошие собеседники."
     },
     "456240586": {
-      "photo_id": 456240586,
+      "photo_id": {
+        "value": 456240586
+      },
       "vkLink": "https://vk.com/photo-62111632_456240586",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183805000,
         "javaDate": "Jun 5, 2018 9:30:05 AM"
@@ -156,10 +242,16 @@
       "text": "Женя Калачев\nhttps://vk.com/el_buonoart"
     },
     "456240587": {
-      "photo_id": 456240587,
+      "photo_id": {
+        "value": 456240587
+      },
       "vkLink": "https://vk.com/photo-62111632_456240587",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183807000,
         "javaDate": "Jun 5, 2018 9:30:07 AM"
@@ -167,10 +259,16 @@
       "text": "Женя Калачев\nhttps://vk.com/el_buonoart"
     },
     "456240588": {
-      "photo_id": 456240588,
+      "photo_id": {
+        "value": 456240588
+      },
       "vkLink": "https://vk.com/photo-62111632_456240588",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183808000,
         "javaDate": "Jun 5, 2018 9:30:08 AM"
@@ -178,10 +276,16 @@
       "text": "Евгения Касьян\nhttps://vk.com/ov_commonthings\n---------------------\nЕвгения Касьян\nhttps://vk.com/id100337722\n"
     },
     "456240589": {
-      "photo_id": 456240589,
+      "photo_id": {
+        "value": 456240589
+      },
       "vkLink": "https://vk.com/photo-62111632_456240589",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183843000,
         "javaDate": "Jun 5, 2018 9:30:43 AM"
@@ -189,10 +293,16 @@
       "text": "Ольга Коваль\nhttps://vk.com/callmeoctober\nhttps://vk.com/id292797253"
     },
     "456240590": {
-      "photo_id": 456240590,
+      "photo_id": {
+        "value": 456240590
+      },
       "vkLink": "https://vk.com/photo-62111632_456240590",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183859000,
         "javaDate": "Jun 5, 2018 9:30:59 AM"
@@ -200,10 +310,16 @@
       "text": "Котеич\nХищные грибы Узбекистана"
     },
     "456240591": {
-      "photo_id": 456240591,
+      "photo_id": {
+        "value": 456240591
+      },
       "vkLink": "https://vk.com/photo-62111632_456240591",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183862000,
         "javaDate": "Jun 5, 2018 9:31:02 AM"
@@ -211,10 +327,16 @@
       "text": "Юлий Ларин\nhttps://vk.com/greeree"
     },
     "456240592": {
-      "photo_id": 456240592,
+      "photo_id": {
+        "value": 456240592
+      },
       "vkLink": "https://vk.com/photo-62111632_456240592",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183864000,
         "javaDate": "Jun 5, 2018 9:31:04 AM"
@@ -222,10 +344,16 @@
       "text": "Алексей Макаров\nhttps://vk.com/byalexeymakarov"
     },
     "456240593": {
-      "photo_id": 456240593,
+      "photo_id": {
+        "value": 456240593
+      },
       "vkLink": "https://vk.com/photo-62111632_456240593",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183866000,
         "javaDate": "Jun 5, 2018 9:31:06 AM"
@@ -233,10 +361,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/public_rikkilorie\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "456240594": {
-      "photo_id": 456240594,
+      "photo_id": {
+        "value": 456240594
+      },
       "vkLink": "https://vk.com/photo-62111632_456240594",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183872000,
         "javaDate": "Jun 5, 2018 9:31:12 AM"
@@ -244,10 +378,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/public_rikkilorie\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "456240595": {
-      "photo_id": 456240595,
+      "photo_id": {
+        "value": 456240595
+      },
       "vkLink": "https://vk.com/photo-62111632_456240595",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183874000,
         "javaDate": "Jun 5, 2018 9:31:14 AM"
@@ -255,10 +395,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/public_rikkilorie\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "456240596": {
-      "photo_id": 456240596,
+      "photo_id": {
+        "value": 456240596
+      },
       "vkLink": "https://vk.com/photo-62111632_456240596",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183876000,
         "javaDate": "Jun 5, 2018 9:31:16 AM"
@@ -266,10 +412,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/public_rikkilorie\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "456240597": {
-      "photo_id": 456240597,
+      "photo_id": {
+        "value": 456240597
+      },
       "vkLink": "https://vk.com/photo-62111632_456240597",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183879000,
         "javaDate": "Jun 5, 2018 9:31:19 AM"
@@ -277,10 +429,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/public_rikkilorie\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "456240598": {
-      "photo_id": 456240598,
+      "photo_id": {
+        "value": 456240598
+      },
       "vkLink": "https://vk.com/photo-62111632_456240598",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183883000,
         "javaDate": "Jun 5, 2018 9:31:23 AM"
@@ -288,10 +446,16 @@
       "text": "Константин Ситников\nhttps://vk.com/id4515215"
     },
     "456240599": {
-      "photo_id": 456240599,
+      "photo_id": {
+        "value": 456240599
+      },
       "vkLink": "https://vk.com/photo-62111632_456240599",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183883000,
         "javaDate": "Jun 5, 2018 9:31:23 AM"
@@ -299,10 +463,16 @@
       "text": "Саша Скрастынь\nhttps://vk.com/sesheka\nhttps://www.instagram.com/_sesheka_/\n\nМстящий гриб"
     },
     "456240600": {
-      "photo_id": 456240600,
+      "photo_id": {
+        "value": 456240600
+      },
       "vkLink": "https://vk.com/photo-62111632_456240600",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183885000,
         "javaDate": "Jun 5, 2018 9:31:25 AM"
@@ -310,10 +480,16 @@
       "text": "Саша Скрастынь\nhttps://vk.com/sesheka\nhttps://www.instagram.com/_sesheka_/"
     },
     "456240601": {
-      "photo_id": 456240601,
+      "photo_id": {
+        "value": 456240601
+      },
       "vkLink": "https://vk.com/photo-62111632_456240601",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183886000,
         "javaDate": "Jun 5, 2018 9:31:26 AM"
@@ -321,10 +497,16 @@
       "text": "Марк Хамстов\nhttps://vk.com/hamstov\n---------------------\nМарк Хамстов\nhttps://vk.com/id182454635\n"
     },
     "456240602": {
-      "photo_id": 456240602,
+      "photo_id": {
+        "value": 456240602
+      },
       "vkLink": "https://vk.com/photo-62111632_456240602",
-      "album_id": 254125959,
-      "user_id": 100,
+      "album_id": {
+        "value": 254125959
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1528183887000,
         "javaDate": "Jun 5, 2018 9:31:27 AM"

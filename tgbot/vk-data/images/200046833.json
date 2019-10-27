@@ -1,11 +1,19 @@
 {
-  "album_id": 200046833,
+  "album_id": {
+    "value": 200046833
+  },
   "photos": {
     "347405576": {
-      "photo_id": 347405576,
+      "photo_id": {
+        "value": 347405576
+      },
       "vkLink": "https://vk.com/photo-62111632_347405576",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416251411000,
         "javaDate": "Nov 17, 2014 8:10:11 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "337969549": {
-      "photo_id": 337969549,
+      "photo_id": {
+        "value": 337969549
+      },
       "vkLink": "https://vk.com/photo-62111632_337969549",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407260111000,
         "javaDate": "Aug 5, 2014 7:35:11 PM"
@@ -24,10 +38,16 @@
       "text": "http://vk.com/killkennykat\n---------------------\nАлександр Кодарев\nhttps://vk.com/id445938\n"
     },
     "337969550": {
-      "photo_id": 337969550,
+      "photo_id": {
+        "value": 337969550
+      },
       "vkLink": "https://vk.com/photo-62111632_337969550",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407260111000,
         "javaDate": "Aug 5, 2014 7:35:11 PM"
@@ -35,10 +55,16 @@
       "text": "vk.com/foxholee\nvk.com/kyubi_chan\ntwitter.com/lulufox2727"
     },
     "337969551": {
-      "photo_id": 337969551,
+      "photo_id": {
+        "value": 337969551
+      },
       "vkLink": "https://vk.com/photo-62111632_337969551",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407260112000,
         "javaDate": "Aug 5, 2014 7:35:12 PM"
@@ -46,10 +72,16 @@
       "text": "Саша Богатов\nhttp://vk.com/id6931933"
     },
     "337969552": {
-      "photo_id": 337969552,
+      "photo_id": {
+        "value": 337969552
+      },
       "vkLink": "https://vk.com/photo-62111632_337969552",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1407260112000,
         "javaDate": "Aug 5, 2014 7:35:12 PM"
@@ -57,10 +89,16 @@
       "text": "vk.com/foxholee\nvk.com/kyubi_chan\ntwitter.com/lulufox2727"
     },
     "342131934": {
-      "photo_id": 342131934,
+      "photo_id": {
+        "value": 342131934
+      },
       "vkLink": "https://vk.com/photo-62111632_342131934",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1411456150000,
         "javaDate": "Sep 23, 2014 9:09:10 AM"
@@ -68,10 +106,16 @@
       "text": "Хиптсакотикк.\n\nhttp://vk.com/tamroid\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "360048775": {
-      "photo_id": 360048775,
+      "photo_id": {
+        "value": 360048775
+      },
       "vkLink": "https://vk.com/photo-62111632_360048775",
-      "album_id": 200046833,
-      "user_id": 100,
+      "album_id": {
+        "value": 200046833
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426668819000,
         "javaDate": "Mar 18, 2015 9:53:39 AM"

@@ -1,11 +1,19 @@
 {
-  "album_id": 221741749,
+  "album_id": {
+    "value": 221741749
+  },
   "photos": {
     "386036402": {
-      "photo_id": 386036402,
+      "photo_id": {
+        "value": 386036402
+      },
       "vkLink": "https://vk.com/photo-62111632_386036402",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444138468000,
         "javaDate": "Oct 6, 2015 3:34:28 PM"
@@ -13,10 +21,16 @@
       "text": "Друзья! \n\nЗнаменитый волкодав Локи, путешествующий со своим хозяином по всему миру, предлагает вам забаву — виртуальный пленэр.\n\nСуть не нова и проста:\n1) Открываем Google Street View и отправляемся, куда глаза глядят.\n2) Рисуем приглянувшиеся пейзажи, не выходя из дома. \n3) Присылаем работы, не забыв указать ссылку на изображённую локацию.\n\nНам кажется, это будет отличная практика рисования с референсов. К тому же вы можете задействовать воображение и добавить в работу что угодно, превратив её в полноценную историю. \n\nВот ссылки, которые вам пригодятся для этого пикфайта: \nhttps://www.google.com/maps/streetview/\nhttps://www.instantstreetview.com/\nhttps://www.panoramio.com/\nhttps://www.mapcrunch.com/\n#плашка"
     },
     "386070491": {
-      "photo_id": 386070491,
+      "photo_id": {
+        "value": 386070491
+      },
       "vkLink": "https://vk.com/photo-62111632_386070491",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153007000,
         "javaDate": "Oct 6, 2015 7:36:47 PM"
@@ -24,10 +38,16 @@
       "text": "Светлана Тебякина\nhttps://vk.com/bilberrycat\nhttps://vk.com/tebyakina_art\nhttps://vk.com/id68377285"
     },
     "386070496": {
-      "photo_id": 386070496,
+      "photo_id": {
+        "value": 386070496
+      },
       "vkLink": "https://vk.com/photo-62111632_386070496",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153008000,
         "javaDate": "Oct 6, 2015 7:36:48 PM"
@@ -35,10 +55,16 @@
       "text": "Tentacle Therapist\nhttps://vk.com/tentaclet\nhttps://vk.com/id182420001"
     },
     "386070508": {
-      "photo_id": 386070508,
+      "photo_id": {
+        "value": 386070508
+      },
       "vkLink": "https://vk.com/photo-62111632_386070508",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153011000,
         "javaDate": "Oct 6, 2015 7:36:51 PM"
@@ -46,10 +72,16 @@
       "text": "Светлана Тебякина\nhttps://vk.com/bilberrycat\nhttps://vk.com/tebyakina_art\nhttps://vk.com/id68377285"
     },
     "386070510": {
-      "photo_id": 386070510,
+      "photo_id": {
+        "value": 386070510
+      },
       "vkLink": "https://vk.com/photo-62111632_386070510",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153011000,
         "javaDate": "Oct 6, 2015 7:36:51 PM"
@@ -57,10 +89,16 @@
       "text": "Светлана Тебякина\nhttps://vk.com/bilberrycat\nhttps://vk.com/tebyakina_art\nhttps://vk.com/id68377285"
     },
     "386070518": {
-      "photo_id": 386070518,
+      "photo_id": {
+        "value": 386070518
+      },
       "vkLink": "https://vk.com/photo-62111632_386070518",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153012000,
         "javaDate": "Oct 6, 2015 7:36:52 PM"
@@ -68,10 +106,16 @@
       "text": "Maike Sommer\nhttps://vk.com/id244152867\n\nОчень классная тема, не могла пройти мимо. Это Швейцария, Five Lakes Walk"
     },
     "386070499": {
-      "photo_id": 386070499,
+      "photo_id": {
+        "value": 386070499
+      },
       "vkLink": "https://vk.com/photo-62111632_386070499",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153009000,
         "javaDate": "Oct 6, 2015 7:36:49 PM"
@@ -79,10 +123,16 @@
       "text": "Анна Шепета\n\"Гуляя по Исландии\"\n\nhttp://vk.com/mylittlecoloruniverse\nhttp://mylittlecoloruniverse.tumblr.com/\n---------------------\nАнна Шепета\nhttps://vk.com/id168929200\n"
     },
     "386070481": {
-      "photo_id": 386070481,
+      "photo_id": {
+        "value": 386070481
+      },
       "vkLink": "https://vk.com/photo-62111632_386070481",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153003000,
         "javaDate": "Oct 6, 2015 7:36:43 PM"
@@ -90,10 +140,16 @@
       "text": "Анна Шепета\n\"Гуляя по Исландии\"\n\nhttp://vk.com/mylittlecoloruniverse\nhttp://mylittlecoloruniverse.tumblr.com/\n---------------------\nАнна Шепета\nhttps://vk.com/id168929200\n"
     },
     "386070490": {
-      "photo_id": 386070490,
+      "photo_id": {
+        "value": 386070490
+      },
       "vkLink": "https://vk.com/photo-62111632_386070490",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153006000,
         "javaDate": "Oct 6, 2015 7:36:46 PM"
@@ -101,10 +157,16 @@
       "text": "Night Dragoness\nhttps://vk.com/id144158029\n\nвдохновившись замечательными панорамами подводного мира и природы , у меня получилась вот такая картинка с воздушным китом ))) \nреференсы креплю к записи)"
     },
     "386070486": {
-      "photo_id": 386070486,
+      "photo_id": {
+        "value": 386070486
+      },
       "vkLink": "https://vk.com/photo-62111632_386070486",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1444153005000,
         "javaDate": "Oct 6, 2015 7:36:45 PM"
@@ -112,10 +174,16 @@
       "text": "Speech Freedom\nhttps://vk.com/speechoffreedom\n---------------------\nSpeech Freedom\nhttps://vk.com/id19407085\n"
     },
     "396467591": {
-      "photo_id": 396467591,
+      "photo_id": {
+        "value": 396467591
+      },
       "vkLink": "https://vk.com/photo-62111632_396467591",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1450820594000,
         "javaDate": "Dec 22, 2015 10:43:14 PM"
@@ -123,10 +191,16 @@
       "text": "Дерек Тернер - https://vk.com/id173715288"
     },
     "396467750": {
-      "photo_id": 396467750,
+      "photo_id": {
+        "value": 396467750
+      },
       "vkLink": "https://vk.com/photo-62111632_396467750",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1450820708000,
         "javaDate": "Dec 22, 2015 10:45:08 PM"
@@ -134,10 +208,16 @@
       "text": "Дерек Тернер - https://vk.com/id173715288"
     },
     "396642031": {
-      "photo_id": 396642031,
+      "photo_id": {
+        "value": 396642031
+      },
       "vkLink": "https://vk.com/photo-62111632_396642031",
-      "album_id": 221741749,
-      "user_id": 100,
+      "album_id": {
+        "value": 221741749
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1450953774000,
         "javaDate": "Dec 24, 2015 11:42:54 AM"

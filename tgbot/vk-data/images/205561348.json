@@ -1,11 +1,19 @@
 {
-  "album_id": 205561348,
+  "album_id": {
+    "value": 205561348
+  },
   "photos": {
     "347404127": {
-      "photo_id": 347404127,
+      "photo_id": {
+        "value": 347404127
+      },
       "vkLink": "https://vk.com/photo-62111632_347404127",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416250956000,
         "javaDate": "Nov 17, 2014 8:02:36 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "346916458": {
-      "photo_id": 346916458,
+      "photo_id": {
+        "value": 346916458
+      },
       "vkLink": "https://vk.com/photo-62111632_346916458",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415810925000,
         "javaDate": "Nov 12, 2014 5:48:45 PM"
@@ -24,10 +38,16 @@
       "text": "Александра Вишневская\nhttps://vk.com/morty_on_air\n\nну как то так \nпервый раз принимаю участие \nя не смогла определиться какой вариант лучше, надеюсь, ничего страшного, что отправляю оба"
     },
     "346916510": {
-      "photo_id": 346916510,
+      "photo_id": {
+        "value": 346916510
+      },
       "vkLink": "https://vk.com/photo-62111632_346916510",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415810949000,
         "javaDate": "Nov 12, 2014 5:49:09 PM"
@@ -35,10 +55,16 @@
       "text": "Katerina Komkova\nhttps://vk.com/catheright\n---------------------\nKaterina Komkova\nhttps://vk.com/id13792400\n"
     },
     "346916531": {
-      "photo_id": 346916531,
+      "photo_id": {
+        "value": 346916531
+      },
       "vkLink": "https://vk.com/photo-62111632_346916531",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415810961000,
         "javaDate": "Nov 12, 2014 5:49:21 PM"
@@ -46,10 +72,16 @@
       "text": "Юлия Михайлёва\nhttps://vk.com/julia_mikhayleva\n\nПривет пикфайтерам!\nПрисоединяюсь."
     },
     "346916586": {
-      "photo_id": 346916586,
+      "photo_id": {
+        "value": 346916586
+      },
       "vkLink": "https://vk.com/photo-62111632_346916586",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415810990000,
         "javaDate": "Nov 12, 2014 5:49:50 PM"
@@ -57,10 +89,16 @@
       "text": "Александра Кела\nhttp://vk.com/iwontbe"
     },
     "346916596": {
-      "photo_id": 346916596,
+      "photo_id": {
+        "value": 346916596
+      },
       "vkLink": "https://vk.com/photo-62111632_346916596",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415811003000,
         "javaDate": "Nov 12, 2014 5:50:03 PM"
@@ -68,10 +106,16 @@
       "text": "Наталья Шишкова\nhttp://virink.com/profile/8694\n\nВ первый раз Коняка решила поучаствовать. Как всегда восприняла задание в лоб и всё такое, но определённое удовольствие рисуя эту женщину получила."
     },
     "346916618": {
-      "photo_id": 346916618,
+      "photo_id": {
+        "value": 346916618
+      },
       "vkLink": "https://vk.com/photo-62111632_346916618",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415811016000,
         "javaDate": "Nov 12, 2014 5:50:16 PM"
@@ -79,10 +123,16 @@
       "text": "Настя Ванина\nvk.com/kyubi_chan\nvk.com/foxholee\ntwitter.com/lulufox2727\n---------------------\nНастя Ванина\nhttps://vk.com/id18243547\n"
     },
     "346916649": {
-      "photo_id": 346916649,
+      "photo_id": {
+        "value": 346916649
+      },
       "vkLink": "https://vk.com/photo-62111632_346916649",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415811030000,
         "javaDate": "Nov 12, 2014 5:50:30 PM"
@@ -90,10 +140,16 @@
       "text": "Kosta Art\nhttps://vk.com/kosta_art\n\nжелтопуговичноквадратное путешествие\n---------------------\nKonstantin Riabichenko\nhttps://vk.com/id169085703\n"
     },
     "346920483": {
-      "photo_id": 346920483,
+      "photo_id": {
+        "value": 346920483
+      },
       "vkLink": "https://vk.com/photo-62111632_346920483",
-      "album_id": 205561348,
-      "user_id": 254834754,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 254834754
+      },
       "date": {
         "timestamp": 1415813236000,
         "javaDate": "Nov 12, 2014 6:27:16 PM"
@@ -101,10 +157,16 @@
       "text": "Plum Tree\nvk.com/id254834754"
     },
     "346989454": {
-      "photo_id": 346989454,
+      "photo_id": {
+        "value": 346989454
+      },
       "vkLink": "https://vk.com/photo-62111632_346989454",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415889666000,
         "javaDate": "Nov 13, 2014 3:41:06 PM"
@@ -112,10 +174,16 @@
       "text": "[Tieller]\nhttps://vk.com/tiellerthedroid\n\n*Заливаясь радостным смехом, ускакал в закат*\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "347014535": {
-      "photo_id": 347014535,
+      "photo_id": {
+        "value": 347014535
+      },
       "vkLink": "https://vk.com/photo-62111632_347014535",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1415903528000,
         "javaDate": "Nov 13, 2014 7:32:08 PM"
@@ -123,10 +191,16 @@
       "text": "Дерек Тернер\nhttps://vk.com/id173715288"
     },
     "347513707": {
-      "photo_id": 347513707,
+      "photo_id": {
+        "value": 347513707
+      },
       "vkLink": "https://vk.com/photo-62111632_347513707",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416347171000,
         "javaDate": "Nov 18, 2014 10:46:11 PM"
@@ -134,10 +208,16 @@
       "text": "Дарья Озерова\nhttps://vk.com/darya_oz\n---------------------\nДарья Озерова\nhttps://vk.com/id46601857\n"
     },
     "356128353": {
-      "photo_id": 356128353,
+      "photo_id": {
+        "value": 356128353
+      },
       "vkLink": "https://vk.com/photo-62111632_356128353",
-      "album_id": 205561348,
-      "user_id": 100,
+      "album_id": {
+        "value": 205561348
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1423602098000,
         "javaDate": "Feb 10, 2015 10:01:38 PM"

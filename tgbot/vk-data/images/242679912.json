@@ -1,11 +1,19 @@
 {
-  "album_id": 242679912,
+  "album_id": {
+    "value": 242679912
+  },
   "photos": {
     "456239278": {
-      "photo_id": 456239278,
+      "photo_id": {
+        "value": 456239278
+      },
       "vkLink": "https://vk.com/photo-62111632_456239278",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998006000,
         "javaDate": "Apr 1, 2017 12:06:46 AM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "456239279": {
-      "photo_id": 456239279,
+      "photo_id": {
+        "value": 456239279
+      },
       "vkLink": "https://vk.com/photo-62111632_456239279",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998256000,
         "javaDate": "Apr 1, 2017 12:10:56 AM"
@@ -24,10 +38,16 @@
       "text": "Александра Бизяева\nhttps://vk.com/id163208185\nhttps://vk.com/whatdoesthecrocsay\n\nПятерка кубков\nНе могла выбрать что рисовать, сделала расклад и поучила Владыку утраченного удовольствия, но перевернутого) чтобы всем он попадался только перевернутым!"
     },
     "456239280": {
-      "photo_id": 456239280,
+      "photo_id": {
+        "value": 456239280
+      },
       "vkLink": "https://vk.com/photo-62111632_456239280",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998259000,
         "javaDate": "Apr 1, 2017 12:10:59 AM"
@@ -35,10 +55,16 @@
       "text": "Алексей Нечаев\nhttps://www.instagram.com/ne.veyahc/\nХей! Я тут еще работу на пикфайт \"Таро \" дорисовал. Это перемена!\nhttps://vk.com/ne.veyahc\n---------------------\nАлексей Нечаев\nhttps://vk.com/id220982828\n"
     },
     "456239281": {
-      "photo_id": 456239281,
+      "photo_id": {
+        "value": 456239281
+      },
       "vkLink": "https://vk.com/photo-62111632_456239281",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998259000,
         "javaDate": "Apr 1, 2017 12:10:59 AM"
@@ -46,10 +72,16 @@
       "text": "Аника Турчан\nhttp://anika-turchan.tumblr.com/\nhttps://vk.com/anika_turchan\n---------------------\nАника Турчан\nhttps://vk.com/id1130860\n"
     },
     "456239282": {
-      "photo_id": 456239282,
+      "photo_id": {
+        "value": 456239282
+      },
       "vkLink": "https://vk.com/photo-62111632_456239282",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998260000,
         "javaDate": "Apr 1, 2017 12:11:00 AM"
@@ -57,10 +89,16 @@
       "text": "Анна Брухно\nhttps://vk.com/outlandtomsk\nАркан II - Жрица\nhttps://vk.com/id90944129"
     },
     "456239283": {
-      "photo_id": 456239283,
+      "photo_id": {
+        "value": 456239283
+      },
       "vkLink": "https://vk.com/photo-62111632_456239283",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998261000,
         "javaDate": "Apr 1, 2017 12:11:01 AM"
@@ -68,10 +106,16 @@
       "text": "Богдан Богданов\nhttps://vk.com/fuckself\n---------------------\nБогдан Богданов\nhttps://vk.com/id348132861\n"
     },
     "456239284": {
-      "photo_id": 456239284,
+      "photo_id": {
+        "value": 456239284
+      },
       "vkLink": "https://vk.com/photo-62111632_456239284",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998261000,
         "javaDate": "Apr 1, 2017 12:11:01 AM"
@@ -79,10 +123,16 @@
       "text": "Chopi Fictus\nhttps://vk.com/fictusc\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456239285": {
-      "photo_id": 456239285,
+      "photo_id": {
+        "value": 456239285
+      },
       "vkLink": "https://vk.com/photo-62111632_456239285",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998262000,
         "javaDate": "Apr 1, 2017 12:11:02 AM"
@@ -90,10 +140,16 @@
       "text": "Crab of Chaos\nhttps://vk.com/derchaoscomic\n4 пентакля\nhttps://vk.com/crabofchaos\n---------------------\nДаниил Сафонов\nhttps://vk.com/id20347657\n"
     },
     "456239286": {
-      "photo_id": 456239286,
+      "photo_id": {
+        "value": 456239286
+      },
       "vkLink": "https://vk.com/photo-62111632_456239286",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998262000,
         "javaDate": "Apr 1, 2017 12:11:02 AM"
@@ -101,10 +157,16 @@
       "text": "Ева Вьювиева\nhttps://vk.com/viewyeva\nhttps://vk.com/id95971596"
     },
     "456239287": {
-      "photo_id": 456239287,
+      "photo_id": {
+        "value": 456239287
+      },
       "vkLink": "https://vk.com/photo-62111632_456239287",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998263000,
         "javaDate": "Apr 1, 2017 12:11:03 AM"
@@ -112,10 +174,16 @@
       "text": "Killkenny\nhttps://vk.com/kodarev\nhttps://vk.com/killkennykat\n---------------------\nАлександр Кодарев\nhttps://vk.com/id445938\n"
     },
     "456239288": {
-      "photo_id": 456239288,
+      "photo_id": {
+        "value": 456239288
+      },
       "vkLink": "https://vk.com/photo-62111632_456239288",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998263000,
         "javaDate": "Apr 1, 2017 12:11:03 AM"
@@ -123,10 +191,16 @@
       "text": "Константин Мирошов\nhttps://vk.com/hairycrab\nМой пабличек: https://vk.com/thomas_thehuman\nМой инстаграм: https://www.instagram.com/thomas_thehuman"
     },
     "456239289": {
-      "photo_id": 456239289,
+      "photo_id": {
+        "value": 456239289
+      },
       "vkLink": "https://vk.com/photo-62111632_456239289",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998294000,
         "javaDate": "Apr 1, 2017 12:11:34 AM"
@@ -134,10 +208,16 @@
       "text": "Лена Котик\nhttps://vk.com/kotek365\nhttps://vk.com/detective_biscuit\n---------------------\nЛена Котик\nhttps://vk.com/id2478530\n"
     },
     "456239290": {
-      "photo_id": 456239290,
+      "photo_id": {
+        "value": 456239290
+      },
       "vkLink": "https://vk.com/photo-62111632_456239290",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998295000,
         "javaDate": "Apr 1, 2017 12:11:35 AM"
@@ -145,10 +225,16 @@
       "text": "Маргарита Фоменко\nhttps://vk.com/phomenkorita\nhttps://vk.com/ritaphomenko"
     },
     "456239291": {
-      "photo_id": 456239291,
+      "photo_id": {
+        "value": 456239291
+      },
       "vkLink": "https://vk.com/photo-62111632_456239291",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998296000,
         "javaDate": "Apr 1, 2017 12:11:36 AM"
@@ -156,10 +242,16 @@
       "text": "Мария Кутузова\nhttps://vk.com/club137385361\nТаро с пернатым дракошей ^-^\nhttps://vk.com/id327698921"
     },
     "456239292": {
-      "photo_id": 456239292,
+      "photo_id": {
+        "value": 456239292
+      },
       "vkLink": "https://vk.com/photo-62111632_456239292",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998296000,
         "javaDate": "Apr 1, 2017 12:11:36 AM"
@@ -167,10 +259,16 @@
       "text": "Наташа Аргентовская\nhttps://vk.com/avia_salat\nhttps://vk.com/sob_igdrasil\n\nприходите в гости :3\n\nVIII \"Справедливость\"\n---------------------\nНаташа Шестакова\nhttps://vk.com/id153721067\n"
     },
     "456239293": {
-      "photo_id": 456239293,
+      "photo_id": {
+        "value": 456239293
+      },
       "vkLink": "https://vk.com/photo-62111632_456239293",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998297000,
         "javaDate": "Apr 1, 2017 12:11:37 AM"
@@ -178,10 +276,16 @@
       "text": "Night Dragoness\nhttps://vk.com/zariart\nhttps://vk.com/zari_art\n\nчерничные лисы поселились на моей интерпретации 6 Аркана \"Влюбленные\")\n---------------------\nNight Dragoness\nhttps://vk.com/id144158029\n"
     },
     "456239294": {
-      "photo_id": 456239294,
+      "photo_id": {
+        "value": 456239294
+      },
       "vkLink": "https://vk.com/photo-62111632_456239294",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998298000,
         "javaDate": "Apr 1, 2017 12:11:38 AM"
@@ -189,10 +293,16 @@
       "text": "Ольга Мачулан\nhttps://vk.com/id281836802"
     },
     "456239295": {
-      "photo_id": 456239295,
+      "photo_id": {
+        "value": 456239295
+      },
       "vkLink": "https://vk.com/photo-62111632_456239295",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998303000,
         "javaDate": "Apr 1, 2017 12:11:43 AM"
@@ -200,10 +310,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/rikki_lorie\nhttps://virink.com/RikkiLorie\nhttps://www.instagram.com/rikki_lorie/\nhttps://www.instagram.com/rikkilorie/\nсобираю прекрасное\nhttps://vk.com/symbolis\n\nТуз Жезлов. Карта огня и действия. Символ жезла отброшен как инструмент, лишь продолжающий руку.\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "456239296": {
-      "photo_id": 456239296,
+      "photo_id": {
+        "value": 456239296
+      },
       "vkLink": "https://vk.com/photo-62111632_456239296",
-      "album_id": 242679912,
-      "user_id": 100,
+      "album_id": {
+        "value": 242679912
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1490998304000,
         "javaDate": "Apr 1, 2017 12:11:44 AM"

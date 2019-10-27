@@ -1,11 +1,19 @@
 {
-  "album_id": 212760531,
+  "album_id": {
+    "value": 212760531
+  },
   "photos": {
     "360009582": {
-      "photo_id": 360009582,
+      "photo_id": {
+        "value": 360009582
+      },
       "vkLink": "https://vk.com/photo-62111632_360009582",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619030000,
         "javaDate": "Mar 17, 2015 8:03:50 PM"
@@ -13,10 +21,16 @@
       "text": "Пи-пии-пиииим-пи-пи-пии-пим! Привет человекам!\n\nМы, роботы, захватили здесь власть и хотим провести пикфайт #36, посвящённый нам и нашей расе. У вас есть время до вторника, 17-го марта, чтобы выполнить это задание.\n#плашка"
     },
     "360011480": {
-      "photo_id": 360011480,
+      "photo_id": {
+        "value": 360011480
+      },
       "vkLink": "https://vk.com/photo-62111632_360011480",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619780000,
         "javaDate": "Mar 17, 2015 8:16:20 PM"
@@ -24,10 +38,16 @@
       "text": "Дафна Лопатина\nhttp://vk.com/diamina_rain\nЭто чебубот. Незаменим при прослушке)"
     },
     "360011555": {
-      "photo_id": 360011555,
+      "photo_id": {
+        "value": 360011555
+      },
       "vkLink": "https://vk.com/photo-62111632_360011555",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619798000,
         "javaDate": "Mar 17, 2015 8:16:38 PM"
@@ -35,10 +55,16 @@
       "text": "Денис Уваров\nhttp://vk.com/yvarov\n---------------------\nДенис Уваров\nhttps://vk.com/id8861808\n"
     },
     "360011591": {
-      "photo_id": 360011591,
+      "photo_id": {
+        "value": 360011591
+      },
       "vkLink": "https://vk.com/photo-62111632_360011591",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619809000,
         "javaDate": "Mar 17, 2015 8:16:49 PM"
@@ -46,10 +72,16 @@
       "text": "Денис Уваров\nhttp://vk.com/yvarov\nа два можна? а то люблю металожопых рисовать\n---------------------\nДенис Уваров\nhttps://vk.com/id8861808\n"
     },
     "360011687": {
-      "photo_id": 360011687,
+      "photo_id": {
+        "value": 360011687
+      },
       "vkLink": "https://vk.com/photo-62111632_360011687",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619829000,
         "javaDate": "Mar 17, 2015 8:17:09 PM"
@@ -57,10 +89,16 @@
       "text": "Катерина Гуляева\nhttp://vk.com/kato_goo\nhttps://instagram.com/kato_goo/\nМалыши-роботы\n---------------------\nКатерина Гуляева\nhttps://vk.com/id1045364\n"
     },
     "360011748": {
-      "photo_id": 360011748,
+      "photo_id": {
+        "value": 360011748
+      },
       "vkLink": "https://vk.com/photo-62111632_360011748",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619850000,
         "javaDate": "Mar 17, 2015 8:17:30 PM"
@@ -68,10 +106,16 @@
       "text": "Анастасия Слободнюк\nhttp://nasty1009.deviantart.com/\n---------------------\nАнастасия Слободянюк\nhttps://vk.com/id3911041\n"
     },
     "360011799": {
-      "photo_id": 360011799,
+      "photo_id": {
+        "value": 360011799
+      },
       "vkLink": "https://vk.com/photo-62111632_360011799",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619869000,
         "javaDate": "Mar 17, 2015 8:17:49 PM"
@@ -79,10 +123,16 @@
       "text": "Inber\nhttps://vk.com/inbernotes\n---------------------\nИнга Березникова\nhttps://vk.com/id5248220\n"
     },
     "360011872": {
-      "photo_id": 360011872,
+      "photo_id": {
+        "value": 360011872
+      },
       "vkLink": "https://vk.com/photo-62111632_360011872",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619892000,
         "javaDate": "Mar 17, 2015 8:18:12 PM"
@@ -90,10 +140,16 @@
       "text": "Анна Шепета\nhttp://mylittlecoloruniverse.tumblr.com/\n---------------------\nАнна Шепета\nhttps://vk.com/id168929200\n"
     },
     "360012009": {
-      "photo_id": 360012009,
+      "photo_id": {
+        "value": 360012009
+      },
       "vkLink": "https://vk.com/photo-62111632_360012009",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619948000,
         "javaDate": "Mar 17, 2015 8:19:08 PM"
@@ -101,10 +157,16 @@
       "text": "Анастасия Польская\nhttp://vk.com/tiellerthedroid\nвеселячка\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "360012037": {
-      "photo_id": 360012037,
+      "photo_id": {
+        "value": 360012037
+      },
       "vkLink": "https://vk.com/photo-62111632_360012037",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619964000,
         "javaDate": "Mar 17, 2015 8:19:24 PM"
@@ -112,10 +174,16 @@
       "text": "Маргарита Грезина\nhttps://vk.com/id42194655"
     },
     "360012093": {
-      "photo_id": 360012093,
+      "photo_id": {
+        "value": 360012093
+      },
       "vkLink": "https://vk.com/photo-62111632_360012093",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426619985000,
         "javaDate": "Mar 17, 2015 8:19:45 PM"
@@ -123,10 +191,16 @@
       "text": "Артём Александрович\nhttp://vk.com/newdawnfor\nА вот мой вариант с:\nХотя больше на космо-дЕсанта похож)"
     },
     "360012154": {
-      "photo_id": 360012154,
+      "photo_id": {
+        "value": 360012154
+      },
       "vkLink": "https://vk.com/photo-62111632_360012154",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426620007000,
         "javaDate": "Mar 17, 2015 8:20:07 PM"
@@ -134,10 +208,16 @@
       "text": "Настя Андреева\nhttp://vk.com/nind2014\n---------------------\nНастя Индейкина\nhttps://vk.com/id232351096\n"
     },
     "360012200": {
-      "photo_id": 360012200,
+      "photo_id": {
+        "value": 360012200
+      },
       "vkLink": "https://vk.com/photo-62111632_360012200",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426620025000,
         "javaDate": "Mar 17, 2015 8:20:25 PM"
@@ -145,10 +225,16 @@
       "text": "Анка Батурина\nhttp://vk.com/id7155895"
     },
     "360012238": {
-      "photo_id": 360012238,
+      "photo_id": {
+        "value": 360012238
+      },
       "vkLink": "https://vk.com/photo-62111632_360012238",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426620045000,
         "javaDate": "Mar 17, 2015 8:20:45 PM"
@@ -156,10 +242,16 @@
       "text": "Night Dragoness\nhttps://vk.com/zariart\nhttp://zarielcharoitite.deviantart.com/\nстимпанковский роболис передает вам паровой привет)\n---------------------\nNight Dragoness\nhttps://vk.com/id144158029\n"
     },
     "360012315": {
-      "photo_id": 360012315,
+      "photo_id": {
+        "value": 360012315
+      },
       "vkLink": "https://vk.com/photo-62111632_360012315",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426620070000,
         "javaDate": "Mar 17, 2015 8:21:10 PM"
@@ -167,10 +259,16 @@
       "text": "Red Jester\nhttps://vk.com/red_jester"
     },
     "360012376": {
-      "photo_id": 360012376,
+      "photo_id": {
+        "value": 360012376
+      },
       "vkLink": "https://vk.com/photo-62111632_360012376",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426620099000,
         "javaDate": "Mar 17, 2015 8:21:39 PM"
@@ -178,10 +276,16 @@
       "text": "Quiet Victories\nvk.com/quiet_victories\nquiet-victories.tumblr.com\ni think i can i think i can i think i can i think i can i think i can i think i can i think i can i think i can i think i can!\n---------------------\nSpeech Freedom\nhttps://vk.com/id19407085\n"
     },
     "360146961": {
-      "photo_id": 360146961,
+      "photo_id": {
+        "value": 360146961
+      },
       "vkLink": "https://vk.com/photo-62111632_360146961",
-      "album_id": 212760531,
-      "user_id": 100,
+      "album_id": {
+        "value": 212760531
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1426748993000,
         "javaDate": "Mar 19, 2015 8:09:53 AM"

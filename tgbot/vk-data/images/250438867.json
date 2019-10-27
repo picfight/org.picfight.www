@@ -1,11 +1,19 @@
 {
-  "album_id": 250438867,
+  "album_id": {
+    "value": 250438867
+  },
   "photos": {
     "456240410": {
-      "photo_id": 456240410,
+      "photo_id": {
+        "value": 456240410
+      },
       "vkLink": "https://vk.com/photo-62111632_456240410",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530643000,
         "javaDate": "Jan 9, 2018 9:44:03 PM"
@@ -13,10 +21,16 @@
       "text": "Автор обложки:\nКенни\nhttps://vk.com/killkennykat\nhttps://vk.com/kodarev\nhttps://vk.com/id445938"
     },
     "456240411": {
-      "photo_id": 456240411,
+      "photo_id": {
+        "value": 456240411
+      },
       "vkLink": "https://vk.com/photo-62111632_456240411",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530681000,
         "javaDate": "Jan 9, 2018 9:44:41 PM"
@@ -24,10 +38,16 @@
       "text": "Кирилл Бжедугов\nhttps://vk.com/bzh_zh\nhttps://vk.com/id36678151\n\nБелослава Романова https://vk.com/id172224733\n\nChopi Fictus\nhttps://vk.com/fictusc\nhttps://vk.com/id300176984\n\nКсения Стариковская https://vk.com/nemoch21\nhttps://vk.com/id3150930\n\nРикки Лорие\nhttps://vk.com/rikki_lorie\nhttps://vk.com/id1349759\n\nВиктор Дивавин\nhttps://vk.com/divavin.viktor\nhttps://vk.com/id121507757"
     },
     "456240412": {
-      "photo_id": 456240412,
+      "photo_id": {
+        "value": 456240412
+      },
       "vkLink": "https://vk.com/photo-62111632_456240412",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530742000,
         "javaDate": "Jan 9, 2018 9:45:42 PM"
@@ -35,10 +55,16 @@
       "text": "Маргарита Михеева\nhttps://vk.com/id1871294\n\nLida Abrashina\nhttps://vk.com/da_li\nhttps://vk.com/id813567\n\nРикки Лорие\nhttps://vk.com/rikki_lorie\nhttps://vk.com/id1349759\n\nMatty Nox\nhttps://vk.com/noxtattoo\nhttps://vk.com/id309727755"
     },
     "456240413": {
-      "photo_id": 456240413,
+      "photo_id": {
+        "value": 456240413
+      },
       "vkLink": "https://vk.com/photo-62111632_456240413",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530743000,
         "javaDate": "Jan 9, 2018 9:45:43 PM"
@@ -46,10 +72,16 @@
       "text": "София Зорская\nhttps://vk.com/blue_cookie\nhttps://vk.com/sofiazorska\nhttps://vk.com/id22069595\n\nВаля Карнавалова \nhttps://vk.com/valyakarnavalova\nhttps://vk.com/id1524328\n\nАйгуль Нигметова\nhttps://vk.com/id98968574\n\nКсения Стариковская\nhttps://vk.com/nemoch21\nhttps://vk.com/id3150930"
     },
     "456240414": {
-      "photo_id": 456240414,
+      "photo_id": {
+        "value": 456240414
+      },
       "vkLink": "https://vk.com/photo-62111632_456240414",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530744000,
         "javaDate": "Jan 9, 2018 9:45:44 PM"
@@ -57,10 +89,16 @@
       "text": "Татьяна Шербул\nhttps://vk.com/sherbuls_place\nhttps://vk.com/id7999404\n\nВаля Карнавалова https://vk.com/valyakarnavalova\nhttps://vk.com/id1524328\n\nЮля Зверева\nhttps://vk.com/id64831419\n\nКенни\nhttps://vk.com/killkennykat\nhttps://vk.com/kodarev\nhttps://vk.com/id445938"
     },
     "456240415": {
-      "photo_id": 456240415,
+      "photo_id": {
+        "value": 456240415
+      },
       "vkLink": "https://vk.com/photo-62111632_456240415",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530745000,
         "javaDate": "Jan 9, 2018 9:45:45 PM"
@@ -68,10 +106,16 @@
       "text": "Алексей Нечаев\nhttps://vk.com/ne.veyahc\nhttps://vk.com/id220982828\n\nСаша Богатов\nhttps://vk.com/id6931933\n\nЕвдокия До\nhttps://www.instagram.com/dusya_do/\nhttps://vk.com/id322302658\n\nКсения Стариковская \nhttps://vk.com/nemoch21\nhttps://vk.com/id3150930\n\nТамри\nhttps://vk.com/tamroid\nhttps://vk.com/id554008\n\nЕвгения Касьян \nhttps://vk.com/ov_commonthings\nhttps://vk.com/id100337722"
     },
     "456240416": {
-      "photo_id": 456240416,
+      "photo_id": {
+        "value": 456240416
+      },
       "vkLink": "https://vk.com/photo-62111632_456240416",
-      "album_id": 250438867,
-      "user_id": 100,
+      "album_id": {
+        "value": 250438867
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1515530746000,
         "javaDate": "Jan 9, 2018 9:45:46 PM"

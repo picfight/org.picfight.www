@@ -1,11 +1,19 @@
 {
-  "album_id": 199225473,
+  "album_id": {
+    "value": 199225473
+  },
   "photos": {
     "347406160": {
-      "photo_id": 347406160,
+      "photo_id": {
+        "value": 347406160
+      },
       "vkLink": "https://vk.com/photo-62111632_347406160",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416251647000,
         "javaDate": "Nov 17, 2014 8:14:07 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "336874743": {
-      "photo_id": 336874743,
+      "photo_id": {
+        "value": 336874743
+      },
       "vkLink": "https://vk.com/photo-62111632_336874743",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406050936000,
         "javaDate": "Jul 22, 2014 7:42:16 PM"
@@ -24,10 +38,16 @@
       "text": "Автор: Настя Ванина\nhttps://vk.com/foxholee\nhttps://twitter.com/lulufox2727\nvk.com/kyubi_chan\n\n\"Рожь\" Шишкина и братья Колфилд.\n---------------------\nНастя Ванина\nhttps://vk.com/id18243547\n"
     },
     "336874906": {
-      "photo_id": 336874906,
+      "photo_id": {
+        "value": 336874906
+      },
       "vkLink": "https://vk.com/photo-62111632_336874906",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406051002000,
         "javaDate": "Jul 22, 2014 7:43:22 PM"
@@ -35,10 +55,16 @@
       "text": "Автор: Plum Tree\nhttp://vk.com/plum_tree\n---------------------\nPlum Tree\nhttps://vk.com/id254834754\n"
     },
     "336874937": {
-      "photo_id": 336874937,
+      "photo_id": {
+        "value": 336874937
+      },
       "vkLink": "https://vk.com/photo-62111632_336874937",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406051016000,
         "javaDate": "Jul 22, 2014 7:43:36 PM"
@@ -46,10 +72,16 @@
       "text": "Автор: Анастасия Польская\nhttp://vk.com/tiellerthedroid\nhttp://tieller.tumblr.com/\nhttp://drawcrowd.com/tieller\n\nОригинал раз: https://www.google.com/culturalinstitute/asset-viewer/lady-in-blue-portrait-of-ye-m-martynova/qwG83e42IKGkDA?proj\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "336874941": {
-      "photo_id": 336874941,
+      "photo_id": {
+        "value": 336874941
+      },
       "vkLink": "https://vk.com/photo-62111632_336874941",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406051017000,
         "javaDate": "Jul 22, 2014 7:43:37 PM"
@@ -57,10 +89,16 @@
       "text": "Автор: Анастасия Польская\nhttp://vk.com/tiellerthedroid\nhttp://tieller.tumblr.com/\nhttp://drawcrowd.com/tieller\n\nОригинал два: https://www.google.com/culturalinstitute/asset-viewer/wet-meadow/bQHXk8OA-L8Mlg?projectId\u003dart-project\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "336875051": {
-      "photo_id": 336875051,
+      "photo_id": {
+        "value": 336875051
+      },
       "vkLink": "https://vk.com/photo-62111632_336875051",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406051078000,
         "javaDate": "Jul 22, 2014 7:44:38 PM"
@@ -68,10 +106,16 @@
       "text": "Автор: Наташа Шароватова\nhttp://vk.com/oleneenok\n\nя заранее прошу прощения за это)\n---------------------\nНаташа Шароватова\nhttps://vk.com/id8102882\n"
     },
     "336875109": {
-      "photo_id": 336875109,
+      "photo_id": {
+        "value": 336875109
+      },
       "vkLink": "https://vk.com/photo-62111632_336875109",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406051105000,
         "javaDate": "Jul 22, 2014 7:45:05 PM"
@@ -79,10 +123,16 @@
       "text": "Автор: Нод Счастливый\nhttps://vk.com/nodakemi\n---------------------\nИрина Александрова\nhttps://vk.com/id162256807\n"
     },
     "336875136": {
-      "photo_id": 336875136,
+      "photo_id": {
+        "value": 336875136
+      },
       "vkLink": "https://vk.com/photo-62111632_336875136",
-      "album_id": 199225473,
-      "user_id": 100,
+      "album_id": {
+        "value": 199225473
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1406051120000,
         "javaDate": "Jul 22, 2014 7:45:20 PM"

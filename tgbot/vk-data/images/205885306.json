@@ -1,11 +1,19 @@
 {
-  "album_id": 205885306,
+  "album_id": {
+    "value": 205885306
+  },
   "photos": {
     "347408777": {
-      "photo_id": 347408777,
+      "photo_id": {
+        "value": 347408777
+      },
       "vkLink": "https://vk.com/photo-62111632_347408777",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416252839000,
         "javaDate": "Nov 17, 2014 8:33:59 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "347412288": {
-      "photo_id": 347412288,
+      "photo_id": {
+        "value": 347412288
+      },
       "vkLink": "https://vk.com/photo-62111632_347412288",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254528000,
         "javaDate": "Nov 17, 2014 9:02:08 PM"
@@ -24,10 +38,16 @@
       "text": "#плашка"
     },
     "347409053": {
-      "photo_id": 347409053,
+      "photo_id": {
+        "value": 347409053
+      },
       "vkLink": "https://vk.com/photo-62111632_347409053",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416252983000,
         "javaDate": "Nov 17, 2014 8:36:23 PM"
@@ -35,10 +55,16 @@
       "text": "Надеемся, все помнят о том, что завтра — последний срок сдачи дуэльных работ. Кто просачковал, тот проиграл. На турнире, как на войне.\n\n#плашка"
     },
     "347408896": {
-      "photo_id": 347408896,
+      "photo_id": {
+        "value": 347408896
+      },
       "vkLink": "https://vk.com/photo-62111632_347408896",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416252903000,
         "javaDate": "Nov 17, 2014 8:35:03 PM"
@@ -46,10 +72,16 @@
       "text": "#плашка"
     },
     "347413225": {
-      "photo_id": 347413225,
+      "photo_id": {
+        "value": 347413225
+      },
       "vkLink": "https://vk.com/photo-62111632_347413225",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416255041000,
         "javaDate": "Nov 17, 2014 9:10:41 PM"
@@ -57,10 +89,16 @@
       "text": "https://vk.com/picfight?w\u003dwall-62111632_1230\n#плашка"
     },
     "347409576": {
-      "photo_id": 347409576,
+      "photo_id": {
+        "value": 347409576
+      },
       "vkLink": "https://vk.com/photo-62111632_347409576",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253263000,
         "javaDate": "Nov 17, 2014 8:41:03 PM"
@@ -68,10 +106,16 @@
       "text": "Автор: Татьяна Шербул\nhttp://vk.com/sherbuls_place\n\nТема: барды\nhttps://vk.com/picfight?w\u003dwall-62111632_1021\n---------------------\nТатьяна Шербул\nhttps://vk.com/id7999404\n"
     },
     "347409581": {
-      "photo_id": 347409581,
+      "photo_id": {
+        "value": 347409581
+      },
       "vkLink": "https://vk.com/photo-62111632_347409581",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253265000,
         "javaDate": "Nov 17, 2014 8:41:05 PM"
@@ -79,10 +123,16 @@
       "text": "Автор: Дерек Тернер\nhttp://vk.com/id173715288\n\nТема: барды\nhttps://vk.com/picfight?w\u003dwall-62111632_1021"
     },
     "347409752": {
-      "photo_id": 347409752,
+      "photo_id": {
+        "value": 347409752
+      },
       "vkLink": "https://vk.com/photo-62111632_347409752",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253345000,
         "javaDate": "Nov 17, 2014 8:42:25 PM"
@@ -90,10 +140,16 @@
       "text": "Автор: Ксения Африкантова \nhttp://vk.com/little_muy\n\nТема: полярники\nhttps://vk.com/picfight?w\u003dwall-62111632_1022\n---------------------\nКсения Африкантова\nhttps://vk.com/id20014105\n"
     },
     "347409819": {
-      "photo_id": 347409819,
+      "photo_id": {
+        "value": 347409819
+      },
       "vkLink": "https://vk.com/photo-62111632_347409819",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253375000,
         "javaDate": "Nov 17, 2014 8:42:55 PM"
@@ -101,10 +157,16 @@
       "text": "Автор: Леша Безценный\nhttp://vk.com/janush_vertov\n\nТема: полярники\nhttps://vk.com/picfight?w\u003dwall-62111632_1022\n---------------------\nЛеша Безценный\nhttps://vk.com/id3950818\n"
     },
     "347409941": {
-      "photo_id": 347409941,
+      "photo_id": {
+        "value": 347409941
+      },
       "vkLink": "https://vk.com/photo-62111632_347409941",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253443000,
         "javaDate": "Nov 17, 2014 8:44:03 PM"
@@ -112,10 +174,16 @@
       "text": "Автор: Наташа Шароватова\nhttp://vk.com/oleneenok\n\nТема: медики\nhttps://vk.com/picfight?w\u003dwall-62111632_1023\n---------------------\nНаташа Шароватова\nhttps://vk.com/id8102882\n"
     },
     "347409944": {
-      "photo_id": 347409944,
+      "photo_id": {
+        "value": 347409944
+      },
       "vkLink": "https://vk.com/photo-62111632_347409944",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253444000,
         "javaDate": "Nov 17, 2014 8:44:04 PM"
@@ -123,10 +191,16 @@
       "text": "Автор: Сергей Сторожев\nhttp://vk.com/sengenlynx\n\nТема: медики\nhttps://vk.com/picfight?w\u003dwall-62111632_1023\n---------------------\nСергей Сторожев\nhttps://vk.com/id43568750\n"
     },
     "347412585": {
-      "photo_id": 347412585,
+      "photo_id": {
+        "value": 347412585
+      },
       "vkLink": "https://vk.com/photo-62111632_347412585",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254677000,
         "javaDate": "Nov 17, 2014 9:04:37 PM"
@@ -134,10 +208,16 @@
       "text": "Автор: Plum Tree\nhttp://vk.com/plum_tree\n---------------------\nPlum Tree\nhttps://vk.com/id254834754\n"
     },
     "347411439": {
-      "photo_id": 347411439,
+      "photo_id": {
+        "value": 347411439
+      },
       "vkLink": "https://vk.com/photo-62111632_347411439",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254094000,
         "javaDate": "Nov 17, 2014 8:54:54 PM"
@@ -145,10 +225,16 @@
       "text": "Автор: Юлия Кардонова\nhttp://vk.com/arbuzkoshak\n\nТема: короли\nhttps://vk.com/picfight?w\u003dwall-62111632_1090"
     },
     "347412968": {
-      "photo_id": 347412968,
+      "photo_id": {
+        "value": 347412968
+      },
       "vkLink": "https://vk.com/photo-62111632_347412968",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254901000,
         "javaDate": "Nov 17, 2014 9:08:21 PM"
@@ -156,10 +242,16 @@
       "text": "Автор: Natan Klimen\nhttp://vk.com/catmagen_arts\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1157"
     },
     "347413074": {
-      "photo_id": 347413074,
+      "photo_id": {
+        "value": 347413074
+      },
       "vkLink": "https://vk.com/photo-62111632_347413074",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254966000,
         "javaDate": "Nov 17, 2014 9:09:26 PM"
@@ -167,10 +259,16 @@
       "text": "Автор: Леша Безценный\nhttp://vk.com/janush_vertov\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1164\n---------------------\nЛеша Безценный\nhttps://vk.com/id3950818\n"
     },
     "347410452": {
-      "photo_id": 347410452,
+      "photo_id": {
+        "value": 347410452
+      },
       "vkLink": "https://vk.com/photo-62111632_347410452",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253653000,
         "javaDate": "Nov 17, 2014 8:47:33 PM"
@@ -178,10 +276,16 @@
       "text": "Автор: Анастасия Польская\nhttp://vk.com/tieller\n\nТема: шаманы\nhttps://vk.com/picfight?w\u003dwall-62111632_1025\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "347411690": {
-      "photo_id": 347411690,
+      "photo_id": {
+        "value": 347411690
+      },
       "vkLink": "https://vk.com/photo-62111632_347411690",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254229000,
         "javaDate": "Nov 17, 2014 8:57:09 PM"
@@ -189,10 +293,16 @@
       "text": "Автор: Plum Tree\nhttp://vk.com/plum_tree\n\nТехнический победитель\nТема: циркачи\nhttps://vk.com/picfight?w\u003dwall-62111632_1027\n---------------------\nPlum Tree\nhttps://vk.com/id254834754\n"
     },
     "347411675": {
-      "photo_id": 347411675,
+      "photo_id": {
+        "value": 347411675
+      },
       "vkLink": "https://vk.com/photo-62111632_347411675",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254226000,
         "javaDate": "Nov 17, 2014 8:57:06 PM"
@@ -200,10 +310,16 @@
       "text": "Автор: Полина Маликова\nhttp://vk.com/polinn_art\nInstagram: Diamondbeileis\n\nТехнический победитель\nТема: ботаники\nhttps://vk.com/picfight?w\u003dwall-62111632_1027\n---------------------\nПолина Маликова\nhttps://vk.com/id260900601\n"
     },
     "347411701": {
-      "photo_id": 347411701,
+      "photo_id": {
+        "value": 347411701
+      },
       "vkLink": "https://vk.com/photo-62111632_347411701",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254233000,
         "javaDate": "Nov 17, 2014 8:57:13 PM"
@@ -211,10 +327,16 @@
       "text": "Автор: Даниил Купершинский\nhttp://vk.com/kupedanila\n\nТехнический победитель\nТема: бродяги\nhttps://vk.com/picfight?w\u003dwall-62111632_1027\n---------------------\nДаниил Купершинский\nhttps://vk.com/id35133094\n"
     },
     "349316951": {
-      "photo_id": 349316951,
+      "photo_id": {
+        "value": 349316951
+      },
       "vkLink": "https://vk.com/photo-62111632_349316951",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1417953611000,
         "javaDate": "Dec 7, 2014 1:00:11 PM"
@@ -222,10 +344,16 @@
       "text": "http://vk.com/artefaktlovely\nАвтор: Young Fox\n---------------------\nYoung Fox\nhttps://vk.com/id147718171\n"
     },
     "347411663": {
-      "photo_id": 347411663,
+      "photo_id": {
+        "value": 347411663
+      },
       "vkLink": "https://vk.com/photo-62111632_347411663",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254222000,
         "javaDate": "Nov 17, 2014 8:57:02 PM"
@@ -233,10 +361,16 @@
       "text": "Автор: Александр Юзва\nhttp://vk.com/mellanius\n\nТехнический победитель\nТема: амазонки\nhttps://vk.com/picfight?w\u003dwall-62111632_1027\n---------------------\nАлександр Юзва\nhttps://vk.com/id12285947\n"
     },
     "347410457": {
-      "photo_id": 347410457,
+      "photo_id": {
+        "value": 347410457
+      },
       "vkLink": "https://vk.com/photo-62111632_347410457",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253655000,
         "javaDate": "Nov 17, 2014 8:47:35 PM"
@@ -244,10 +378,16 @@
       "text": "Автор: Вета Магарик\nhttp://vk.com/id240252037\n\nТема: шаманы\nhttps://vk.com/picfight?w\u003dwall-62111632_1025"
     },
     "347411445": {
-      "photo_id": 347411445,
+      "photo_id": {
+        "value": 347411445
+      },
       "vkLink": "https://vk.com/photo-62111632_347411445",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254096000,
         "javaDate": "Nov 17, 2014 8:54:56 PM"
@@ -255,10 +395,16 @@
       "text": "Автор: Kosta Art\nhttp://vk.com/kosta_art\n\nТема: короли\nhttps://vk.com/picfight?w\u003dwall-62111632_1090\n---------------------\nKonstantin Riabichenko\nhttps://vk.com/id169085703\n"
     },
     "347410246": {
-      "photo_id": 347410246,
+      "photo_id": {
+        "value": 347410246
+      },
       "vkLink": "https://vk.com/photo-62111632_347410246",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253543000,
         "javaDate": "Nov 17, 2014 8:45:43 PM"
@@ -266,10 +412,16 @@
       "text": "Автор: Natan Klimen\nhttp://vk.com/natan_klimen\nhttps://vk.com/catmagen_arts\n\nТема: духовенство\nhttps://vk.com/picfight?w\u003dwall-62111632_1024\n---------------------\nNatan Klimen\nhttps://vk.com/id117135783\n"
     },
     "347410240": {
-      "photo_id": 347410240,
+      "photo_id": {
+        "value": 347410240
+      },
       "vkLink": "https://vk.com/photo-62111632_347410240",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253540000,
         "javaDate": "Nov 17, 2014 8:45:40 PM"
@@ -277,10 +429,16 @@
       "text": "Автор: Настя Ванина\nvk.com/kyubi_chan\nvk.com/foxholee\ntwitter.com/lulufox2727\n\nТема: духовенство\nhttps://vk.com/picfight?w\u003dwall-62111632_1024\n---------------------\nНастя Ванина\nhttps://vk.com/id18243547\n"
     },
     "347412708": {
-      "photo_id": 347412708,
+      "photo_id": {
+        "value": 347412708
+      },
       "vkLink": "https://vk.com/photo-62111632_347412708",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254753000,
         "javaDate": "Nov 17, 2014 9:05:53 PM"
@@ -288,10 +446,16 @@
       "text": "Демон Искусства\nhttps://vk.com/saeris_art\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1138"
     },
     "347411208": {
-      "photo_id": 347411208,
+      "photo_id": {
+        "value": 347411208
+      },
       "vkLink": "https://vk.com/photo-62111632_347411208",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253989000,
         "javaDate": "Nov 17, 2014 8:53:09 PM"
@@ -299,10 +463,16 @@
       "text": "Автор: Лена Бутенкова\nhttp://vk.com/id1102725\n\nТема: бояре\nhttps://vk.com/picfight?w\u003dwall-62111632_1079"
     },
     "347410881": {
-      "photo_id": 347410881,
+      "photo_id": {
+        "value": 347410881
+      },
       "vkLink": "https://vk.com/photo-62111632_347410881",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253838000,
         "javaDate": "Nov 17, 2014 8:50:38 PM"
@@ -310,10 +480,16 @@
       "text": "Автор: Василиса Атлякова\nhttp://vk.com/ljina\n\nТема: вампиры\nhttps://vk.com/picfight?w\u003dwall-62111632_1026"
     },
     "347412846": {
-      "photo_id": 347412846,
+      "photo_id": {
+        "value": 347412846
+      },
       "vkLink": "https://vk.com/photo-62111632_347412846",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254842000,
         "javaDate": "Nov 17, 2014 9:07:22 PM"
@@ -321,10 +497,16 @@
       "text": "Автор: Даниил Купершинский\nhttp://vk.com/kupedanila\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1148\n---------------------\nДаниил Купершинский\nhttps://vk.com/id35133094\n"
     },
     "347411694": {
-      "photo_id": 347411694,
+      "photo_id": {
+        "value": 347411694
+      },
       "vkLink": "https://vk.com/photo-62111632_347411694",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254231000,
         "javaDate": "Nov 17, 2014 8:57:11 PM"
@@ -332,10 +514,16 @@
       "text": "Автор: Демон Искусства\nhttp://vk.com/saerisersul\n\nТехнический победитель\nТема: хакеры\nhttps://vk.com/picfight?w\u003dwall-62111632_1027\n---------------------\nДемон Искусства\nhttps://vk.com/id54086992\n"
     },
     "347412588": {
-      "photo_id": 347412588,
+      "photo_id": {
+        "value": 347412588
+      },
       "vkLink": "https://vk.com/photo-62111632_347412588",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254679000,
         "javaDate": "Nov 17, 2014 9:04:39 PM"
@@ -343,10 +531,16 @@
       "text": "Автор: Александр Юзва\nhttp://vk.com/mellanius\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1137\n---------------------\nАлександр Юзва\nhttps://vk.com/id12285947\n"
     },
     "347411217": {
-      "photo_id": 347411217,
+      "photo_id": {
+        "value": 347411217
+      },
       "vkLink": "https://vk.com/photo-62111632_347411217",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253993000,
         "javaDate": "Nov 17, 2014 8:53:13 PM"
@@ -354,10 +548,16 @@
       "text": "Автор: Дарья Шейнерман \nhttps://www.flickr.com/photos/daria_sheinerman/\n\nТема: бояре\nhttps://vk.com/picfight?w\u003dwall-62111632_1079"
     },
     "347412759": {
-      "photo_id": 347412759,
+      "photo_id": {
+        "value": 347412759
+      },
       "vkLink": "https://vk.com/photo-62111632_347412759",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254780000,
         "javaDate": "Nov 17, 2014 9:06:20 PM"
@@ -365,10 +565,16 @@
       "text": "Автор: Настя Польская\nhttp://vk.com/tiellerthedroid\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1138\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "347412982": {
-      "photo_id": 347412982,
+      "photo_id": {
+        "value": 347412982
+      },
       "vkLink": "https://vk.com/photo-62111632_347412982",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254905000,
         "javaDate": "Nov 17, 2014 9:08:25 PM"
@@ -376,10 +582,16 @@
       "text": "Автор: Полина Маликова\nhttp://vk.com/polinn_art\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1157\n---------------------\nПолина Маликова\nhttps://vk.com/id260900601\n"
     },
     "347410905": {
-      "photo_id": 347410905,
+      "photo_id": {
+        "value": 347410905
+      },
       "vkLink": "https://vk.com/photo-62111632_347410905",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416253850000,
         "javaDate": "Nov 17, 2014 8:50:50 PM"
@@ -387,10 +599,16 @@
       "text": "Автор: Евгения Недосекина\nhttp://vk.com/skadya\n\nТема: вампиры\nhttps://vk.com/picfight?w\u003dwall-62111632_1026"
     },
     "347413083": {
-      "photo_id": 347413083,
+      "photo_id": {
+        "value": 347413083
+      },
       "vkLink": "https://vk.com/photo-62111632_347413083",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254970000,
         "javaDate": "Nov 17, 2014 9:09:30 PM"
@@ -398,10 +616,16 @@
       "text": "Автор: Kosta Art\nhttp://vk.com/kosta_art\n\nhttps://vk.com/picfight?w\u003dwall-62111632_1164\n---------------------\nKonstantin Riabichenko\nhttps://vk.com/id169085703\n"
     },
     "347412837": {
-      "photo_id": 347412837,
+      "photo_id": {
+        "value": 347412837
+      },
       "vkLink": "https://vk.com/photo-62111632_347412837",
-      "album_id": 205885306,
-      "user_id": 100,
+      "album_id": {
+        "value": 205885306
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416254839000,
         "javaDate": "Nov 17, 2014 9:07:19 PM"

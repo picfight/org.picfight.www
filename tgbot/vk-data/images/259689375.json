@@ -1,11 +1,19 @@
 {
-  "album_id": 259689375,
+  "album_id": {
+    "value": 259689375
+  },
   "photos": {
     "456240851": {
-      "photo_id": 456240851,
+      "photo_id": {
+        "value": 456240851
+      },
       "vkLink": "https://vk.com/photo-62111632_456240851",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433931000,
         "javaDate": "Jan 14, 2019 3:45:31 AM"
@@ -13,10 +21,16 @@
       "text": "https://vk.com/bzh_zh \nhttps://vk.com/id36678151\nКирилл Бжедугов"
     },
     "456240853": {
-      "photo_id": 456240853,
+      "photo_id": {
+        "value": 456240853
+      },
       "vkLink": "https://vk.com/photo-62111632_456240853",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433933000,
         "javaDate": "Jan 14, 2019 3:45:33 AM"
@@ -24,10 +38,16 @@
       "text": "Принесла на ёлку денежку. \nhttps://vk.com/ttyana_art\n---------------------\nТатьяна Ромашкина\nhttps://vk.com/id5460252\n"
     },
     "456240854": {
-      "photo_id": 456240854,
+      "photo_id": {
+        "value": 456240854
+      },
       "vkLink": "https://vk.com/photo-62111632_456240854",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433934000,
         "javaDate": "Jan 14, 2019 3:45:34 AM"
@@ -35,10 +55,16 @@
       "text": "Вероника Аршинова \nhttps://vk.com/wintercave\nhttps://vk.com/id15315201"
     },
     "456240855": {
-      "photo_id": 456240855,
+      "photo_id": {
+        "value": 456240855
+      },
       "vkLink": "https://vk.com/photo-62111632_456240855",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433934000,
         "javaDate": "Jan 14, 2019 3:45:34 AM"
@@ -46,10 +72,16 @@
       "text": "Вероника Аршинова \nhttps://vk.com/wintercave\nhttps://vk.com/id15315201"
     },
     "456240856": {
-      "photo_id": 456240856,
+      "photo_id": {
+        "value": 456240856
+      },
       "vkLink": "https://vk.com/photo-62111632_456240856",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433934000,
         "javaDate": "Jan 14, 2019 3:45:34 AM"
@@ -57,10 +89,16 @@
       "text": ""
     },
     "456240857": {
-      "photo_id": 456240857,
+      "photo_id": {
+        "value": 456240857
+      },
       "vkLink": "https://vk.com/photo-62111632_456240857",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433935000,
         "javaDate": "Jan 14, 2019 3:45:35 AM"
@@ -68,10 +106,16 @@
       "text": "https://vk.com/paragraphic\nhttps://vk.com/id2845964"
     },
     "456240858": {
-      "photo_id": 456240858,
+      "photo_id": {
+        "value": 456240858
+      },
       "vkLink": "https://vk.com/photo-62111632_456240858",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433935000,
         "javaDate": "Jan 14, 2019 3:45:35 AM"
@@ -79,10 +123,16 @@
       "text": "https://vk.com/kuzka345\nhttps://vk.com/club_u_kuzki\n---------------------\nЕлена Чибисова\nhttps://vk.com/id123469582\n"
     },
     "456240859": {
-      "photo_id": 456240859,
+      "photo_id": {
+        "value": 456240859
+      },
       "vkLink": "https://vk.com/photo-62111632_456240859",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433935000,
         "javaDate": "Jan 14, 2019 3:45:35 AM"
@@ -90,10 +140,16 @@
       "text": "Евдокия До\nhttps://vk.com/id322302658\nhttps://www.instagram.com/dusya_do/"
     },
     "456240860": {
-      "photo_id": 456240860,
+      "photo_id": {
+        "value": 456240860
+      },
       "vkLink": "https://vk.com/photo-62111632_456240860",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433936000,
         "javaDate": "Jan 14, 2019 3:45:36 AM"
@@ -101,10 +157,16 @@
       "text": "Игрушка-ностальгушка\n\nhttps://www.instagram.com/mewoola/\nhttps://vk.com/mewoola\nhttps://vk.com/id64831419"
     },
     "456240861": {
-      "photo_id": 456240861,
+      "photo_id": {
+        "value": 456240861
+      },
       "vkLink": "https://vk.com/photo-62111632_456240861",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433936000,
         "javaDate": "Jan 14, 2019 3:45:36 AM"
@@ -112,10 +174,16 @@
       "text": "Chopi Fictus\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456240862": {
-      "photo_id": 456240862,
+      "photo_id": {
+        "value": 456240862
+      },
       "vkLink": "https://vk.com/photo-62111632_456240862",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433936000,
         "javaDate": "Jan 14, 2019 3:45:36 AM"
@@ -123,10 +191,16 @@
       "text": "#picchura\nhttps://vk.com/picchura\nhttps://www.instagram.com/picchura/\nhttps://vk.com/id139125457"
     },
     "456240863": {
-      "photo_id": 456240863,
+      "photo_id": {
+        "value": 456240863
+      },
       "vkLink": "https://vk.com/photo-62111632_456240863",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433936000,
         "javaDate": "Jan 14, 2019 3:45:36 AM"
@@ -134,10 +208,16 @@
       "text": "Вероника Аршинова \nhttps://vk.com/wintercave\nhttps://vk.com/id15315201"
     },
     "456240864": {
-      "photo_id": 456240864,
+      "photo_id": {
+        "value": 456240864
+      },
       "vkLink": "https://vk.com/photo-62111632_456240864",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433937000,
         "javaDate": "Jan 14, 2019 3:45:37 AM"
@@ -145,10 +225,16 @@
       "text": "Саша Богатов\nhttps://vk.com/drop_shadow\nhttps://t.me/drop_shadow\n---------------------\nСаша Богатов\nhttps://vk.com/id6931933\n"
     },
     "456240865": {
-      "photo_id": 456240865,
+      "photo_id": {
+        "value": 456240865
+      },
       "vkLink": "https://vk.com/photo-62111632_456240865",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433937000,
         "javaDate": "Jan 14, 2019 3:45:37 AM"
@@ -156,10 +242,16 @@
       "text": "https://www.artstation.com/velvettoad\nhttps://vk.com/dlya_mrazey_ot_borscha\nhttps://www.instagram.com/velvettoad_art/\nhttps://vk.com/id152666418"
     },
     "456240866": {
-      "photo_id": 456240866,
+      "photo_id": {
+        "value": 456240866
+      },
       "vkLink": "https://vk.com/photo-62111632_456240866",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433937000,
         "javaDate": "Jan 14, 2019 3:45:37 AM"
@@ -167,10 +259,16 @@
       "text": "Рикки Лорие\nhttps://vk.com/id1349759"
     },
     "456240867": {
-      "photo_id": 456240867,
+      "photo_id": {
+        "value": 456240867
+      },
       "vkLink": "https://vk.com/photo-62111632_456240867",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433937000,
         "javaDate": "Jan 14, 2019 3:45:37 AM"
@@ -178,10 +276,16 @@
       "text": "Chopi Fictus\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456240868": {
-      "photo_id": 456240868,
+      "photo_id": {
+        "value": 456240868
+      },
       "vkLink": "https://vk.com/photo-62111632_456240868",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433937000,
         "javaDate": "Jan 14, 2019 3:45:37 AM"
@@ -189,10 +293,16 @@
       "text": "Серега\nhttps://vk.com/sergei_ryzhov\nhttps://vk.com/id173715288"
     },
     "456240869": {
-      "photo_id": 456240869,
+      "photo_id": {
+        "value": 456240869
+      },
       "vkLink": "https://vk.com/photo-62111632_456240869",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433938000,
         "javaDate": "Jan 14, 2019 3:45:38 AM"
@@ -200,10 +310,16 @@
       "text": "Chopi Fictus\n---------------------\nChopi Fictus\nhttps://vk.com/id300176984\n"
     },
     "456240870": {
-      "photo_id": 456240870,
+      "photo_id": {
+        "value": 456240870
+      },
       "vkLink": "https://vk.com/photo-62111632_456240870",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433938000,
         "javaDate": "Jan 14, 2019 3:45:38 AM"
@@ -211,10 +327,16 @@
       "text": "Глассина Стамоксис\nhttps://vk.com/id339849081"
     },
     "456240871": {
-      "photo_id": 456240871,
+      "photo_id": {
+        "value": 456240871
+      },
       "vkLink": "https://vk.com/photo-62111632_456240871",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547433939000,
         "javaDate": "Jan 14, 2019 3:45:39 AM"
@@ -222,10 +344,16 @@
       "text": "Глассина Стамоксис\nhttps://vk.com/id339849081"
     },
     "456240872": {
-      "photo_id": 456240872,
+      "photo_id": {
+        "value": 456240872
+      },
       "vkLink": "https://vk.com/photo-62111632_456240872",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547434195000,
         "javaDate": "Jan 14, 2019 3:49:55 AM"
@@ -233,10 +361,16 @@
       "text": "Вероника Аршинова \nhttps://vk.com/wintercave\nhttps://vk.com/id15315201"
     },
     "456240874": {
-      "photo_id": 456240874,
+      "photo_id": {
+        "value": 456240874
+      },
       "vkLink": "https://vk.com/photo-62111632_456240874",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547461463000,
         "javaDate": "Jan 14, 2019 11:24:23 AM"
@@ -244,10 +378,16 @@
       "text": "Настя Красева \nhttps://www.instagram.com/krasevaa/\nhttps://vk.com/id3174380"
     },
     "456240876": {
-      "photo_id": 456240876,
+      "photo_id": {
+        "value": 456240876
+      },
       "vkLink": "https://vk.com/photo-62111632_456240876",
-      "album_id": 259689375,
-      "user_id": 100,
+      "album_id": {
+        "value": 259689375
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1547462659000,
         "javaDate": "Jan 14, 2019 11:44:19 AM"

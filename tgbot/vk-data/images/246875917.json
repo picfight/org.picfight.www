@@ -1,11 +1,19 @@
 {
-  "album_id": 246875917,
+  "album_id": {
+    "value": 246875917
+  },
   "photos": {
     "456239942": {
-      "photo_id": 456239942,
+      "photo_id": {
+        "value": 456239942
+      },
       "vkLink": "https://vk.com/photo-62111632_456239942",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253292000,
         "javaDate": "Sep 1, 2017 10:08:12 AM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "456239943": {
-      "photo_id": 456239943,
+      "photo_id": {
+        "value": 456239943
+      },
       "vkLink": "https://vk.com/photo-62111632_456239943",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253350000,
         "javaDate": "Sep 1, 2017 10:09:10 AM"
@@ -24,10 +38,16 @@
       "text": "Френк и Тамри, последний кусок🍕\n\nАйгуль Нигметова\nhttps://vk.com/hakunatata\nhttps://vk.com/id98968574"
     },
     "456239944": {
-      "photo_id": 456239944,
+      "photo_id": {
+        "value": 456239944
+      },
       "vkLink": "https://vk.com/photo-62111632_456239944",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253351000,
         "javaDate": "Sep 1, 2017 10:09:11 AM"
@@ -35,10 +55,16 @@
       "text": "Зажигательный Френк\n\nВиктория Бороденко\nhttps://vk.com/borovika07\nhttps://vk.com/id31143013"
     },
     "456239945": {
-      "photo_id": 456239945,
+      "photo_id": {
+        "value": 456239945
+      },
       "vkLink": "https://vk.com/photo-62111632_456239945",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253351000,
         "javaDate": "Sep 1, 2017 10:09:11 AM"
@@ -46,10 +72,16 @@
       "text": "Евдокия До\nhttps://www.instagram.com/dusya_do/\nhttps://vk.com/id322302658"
     },
     "456239946": {
-      "photo_id": 456239946,
+      "photo_id": {
+        "value": 456239946
+      },
       "vkLink": "https://vk.com/photo-62111632_456239946",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253352000,
         "javaDate": "Sep 1, 2017 10:09:12 AM"
@@ -57,10 +89,16 @@
       "text": "Анна Громова\nhttps://vk.com/id3512268\nhttps://vk.com/kakiakiaki"
     },
     "456239947": {
-      "photo_id": 456239947,
+      "photo_id": {
+        "value": 456239947
+      },
       "vkLink": "https://vk.com/photo-62111632_456239947",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253353000,
         "javaDate": "Sep 1, 2017 10:09:13 AM"
@@ -68,10 +106,16 @@
       "text": "고양이 ☆ 고양이 aka kotov"
     },
     "456239948": {
-      "photo_id": 456239948,
+      "photo_id": {
+        "value": 456239948
+      },
       "vkLink": "https://vk.com/photo-62111632_456239948",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253354000,
         "javaDate": "Sep 1, 2017 10:09:14 AM"
@@ -79,10 +123,16 @@
       "text": "С днем рождения, Фрэнк! :)\n\nМаришка Кухаренко\nvk.com/toochi_illustrations\ninstagram.com/toochi_illustrations\nhttps://vk.com/id10264806"
     },
     "456239949": {
-      "photo_id": 456239949,
+      "photo_id": {
+        "value": 456239949
+      },
       "vkLink": "https://vk.com/photo-62111632_456239949",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253354000,
         "javaDate": "Sep 1, 2017 10:09:14 AM"
@@ -90,10 +140,16 @@
       "text": "поздравляю Френка с Днём рождения🙃\n\nАлиса Найденова\nhttps://vk.com/id212514389\nhttps://vk.com/murmurssaart"
     },
     "456239950": {
-      "photo_id": 456239950,
+      "photo_id": {
+        "value": 456239950
+      },
       "vkLink": "https://vk.com/photo-62111632_456239950",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253355000,
         "javaDate": "Sep 1, 2017 10:09:15 AM"
@@ -101,10 +157,16 @@
       "text": "Белослава Романова\nhttps://vk.com/id172224733\nhttps://vk.com/club147056787"
     },
     "456239951": {
-      "photo_id": 456239951,
+      "photo_id": {
+        "value": 456239951
+      },
       "vkLink": "https://vk.com/photo-62111632_456239951",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253355000,
         "javaDate": "Sep 1, 2017 10:09:15 AM"
@@ -112,10 +174,16 @@
       "text": "Тамри Нижарадзе\nhttps://vk.com/tamrishek\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "456239952": {
-      "photo_id": 456239952,
+      "photo_id": {
+        "value": 456239952
+      },
       "vkLink": "https://vk.com/photo-62111632_456239952",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253355000,
         "javaDate": "Sep 1, 2017 10:09:15 AM"
@@ -123,10 +191,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239953": {
-      "photo_id": 456239953,
+      "photo_id": {
+        "value": 456239953
+      },
       "vkLink": "https://vk.com/photo-62111632_456239953",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253356000,
         "javaDate": "Sep 1, 2017 10:09:16 AM"
@@ -134,10 +208,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239954": {
-      "photo_id": 456239954,
+      "photo_id": {
+        "value": 456239954
+      },
       "vkLink": "https://vk.com/photo-62111632_456239954",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253356000,
         "javaDate": "Sep 1, 2017 10:09:16 AM"
@@ -145,10 +225,16 @@
       "text": "Тина Белчер\nhttps://vk.com/id339849081"
     },
     "456239955": {
-      "photo_id": 456239955,
+      "photo_id": {
+        "value": 456239955
+      },
       "vkLink": "https://vk.com/photo-62111632_456239955",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253357000,
         "javaDate": "Sep 1, 2017 10:09:17 AM"
@@ -156,10 +242,16 @@
       "text": "Евгения Загреева\nhttps://vk.com/achtung_ein\nhttps://vk.com/e_zagreeva\n---------------------\nЕвгения Загреева\nhttps://vk.com/id4858593\n"
     },
     "456239956": {
-      "photo_id": 456239956,
+      "photo_id": {
+        "value": 456239956
+      },
       "vkLink": "https://vk.com/photo-62111632_456239956",
-      "album_id": 246875917,
-      "user_id": 100,
+      "album_id": {
+        "value": 246875917
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1504253357000,
         "javaDate": "Sep 1, 2017 10:09:17 AM"

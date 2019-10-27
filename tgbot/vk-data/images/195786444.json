@@ -1,11 +1,19 @@
 {
-  "album_id": 195786444,
+  "album_id": {
+    "value": 195786444
+  },
   "photos": {
     "332611682": {
-      "photo_id": 332611682,
+      "photo_id": {
+        "value": 332611682
+      },
       "vkLink": "https://vk.com/photo-62111632_332611682",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538561000,
         "javaDate": "May 31, 2014 2:16:01 PM"
@@ -13,10 +21,16 @@
       "text": "Автор: Гульнара Сафина \nhttps://vk.com/id47462601"
     },
     "332611681": {
-      "photo_id": 332611681,
+      "photo_id": {
+        "value": 332611681
+      },
       "vkLink": "https://vk.com/photo-62111632_332611681",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538561000,
         "javaDate": "May 31, 2014 2:16:01 PM"
@@ -24,10 +38,16 @@
       "text": "Автор: J Fixbi \nhttp://vk.com/jfixbi\n---------------------\nJ Fixbi\nhttps://vk.com/id138317702\n"
     },
     "332611669": {
-      "photo_id": 332611669,
+      "photo_id": {
+        "value": 332611669
+      },
       "vkLink": "https://vk.com/photo-62111632_332611669",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538544000,
         "javaDate": "May 31, 2014 2:15:44 PM"
@@ -35,10 +55,16 @@
       "text": "Автор: Ksen \nhttps://twitter.com/ksen_otaku"
     },
     "332611621": {
-      "photo_id": 332611621,
+      "photo_id": {
+        "value": 332611621
+      },
       "vkLink": "https://vk.com/photo-62111632_332611621",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538495000,
         "javaDate": "May 31, 2014 2:14:55 PM"
@@ -46,10 +72,16 @@
       "text": "Автор: Рикки Лорие \nhttp://vk.com/rikki_lorie\n---------------------\nРикки Лорие\nhttps://vk.com/id1349759\n"
     },
     "332611492": {
-      "photo_id": 332611492,
+      "photo_id": {
+        "value": 332611492
+      },
       "vkLink": "https://vk.com/photo-62111632_332611492",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538352000,
         "javaDate": "May 31, 2014 2:12:32 PM"
@@ -57,10 +89,16 @@
       "text": "Автор: Young Fox \nhttp://vk.com/artefaktlovely\n---------------------\nYoung Fox\nhttps://vk.com/id147718171\n"
     },
     "332611330": {
-      "photo_id": 332611330,
+      "photo_id": {
+        "value": 332611330
+      },
       "vkLink": "https://vk.com/photo-62111632_332611330",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538205000,
         "javaDate": "May 31, 2014 2:10:05 PM"
@@ -68,10 +106,16 @@
       "text": "Автор: Тамришек \nhttp://vk.com/tamrishek\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "332611246": {
-      "photo_id": 332611246,
+      "photo_id": {
+        "value": 332611246
+      },
       "vkLink": "https://vk.com/photo-62111632_332611246",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538147000,
         "javaDate": "May 31, 2014 2:09:07 PM"
@@ -79,10 +123,16 @@
       "text": "Автор: Тамришек \nhttp://vk.com/tamrishek\n---------------------\nТамри Нижарадзе\nhttps://vk.com/id554008\n"
     },
     "332611190": {
-      "photo_id": 332611190,
+      "photo_id": {
+        "value": 332611190
+      },
       "vkLink": "https://vk.com/photo-62111632_332611190",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538100000,
         "javaDate": "May 31, 2014 2:08:20 PM"
@@ -90,10 +140,16 @@
       "text": "Автор: Татьяна Шербул \nhttp://vk.com/sherbuls_place\n---------------------\nТатьяна Шербул\nhttps://vk.com/id7999404\n"
     },
     "332611115": {
-      "photo_id": 332611115,
+      "photo_id": {
+        "value": 332611115
+      },
       "vkLink": "https://vk.com/photo-62111632_332611115",
-      "album_id": 195786444,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786444
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401538019000,
         "javaDate": "May 31, 2014 2:06:59 PM"

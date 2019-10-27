@@ -1,11 +1,19 @@
 {
-  "album_id": 196920451,
+  "album_id": {
+    "value": 196920451
+  },
   "photos": {
     "347406803": {
-      "photo_id": 347406803,
+      "photo_id": {
+        "value": 347406803
+      },
       "vkLink": "https://vk.com/photo-62111632_347406803",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1416251957000,
         "javaDate": "Nov 17, 2014 8:19:17 PM"
@@ -13,10 +21,16 @@
       "text": "#плашка"
     },
     "334029856": {
-      "photo_id": 334029856,
+      "photo_id": {
+        "value": 334029856
+      },
       "vkLink": "https://vk.com/photo-62111632_334029856",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019674000,
         "javaDate": "Jun 17, 2014 5:41:14 PM"
@@ -24,10 +38,16 @@
       "text": "Автор: Анна Брухно \nhttp://vk.com/id90944129"
     },
     "334029853": {
-      "photo_id": 334029853,
+      "photo_id": {
+        "value": 334029853
+      },
       "vkLink": "https://vk.com/photo-62111632_334029853",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019673000,
         "javaDate": "Jun 17, 2014 5:41:13 PM"
@@ -35,10 +55,16 @@
       "text": "Автор: Полина Маликова \nhttps://vk.com/club5478217\nhttps://vk.com/id8494001\n\nНе знаю, насколько это нечисть..."
     },
     "334029855": {
-      "photo_id": 334029855,
+      "photo_id": {
+        "value": 334029855
+      },
       "vkLink": "https://vk.com/photo-62111632_334029855",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019674000,
         "javaDate": "Jun 17, 2014 5:41:14 PM"
@@ -46,10 +72,16 @@
       "text": "Автор: Полина Маликова\nhttps://vk.com/club5478217\nhttps://vk.com/id8494001\n\nУдивляюсь, как некоторые особы на раз-два манипулируют и даже повелевают окружающими. Иной раз на ум приходит, что в них есть нечто демоническое..."
     },
     "334029858": {
-      "photo_id": 334029858,
+      "photo_id": {
+        "value": 334029858
+      },
       "vkLink": "https://vk.com/photo-62111632_334029858",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019675000,
         "javaDate": "Jun 17, 2014 5:41:15 PM"
@@ -57,10 +89,16 @@
       "text": "Автор: Дарья Шейнерман \nhttp://vk.com/daria_sheinerman\n---------------------\nДарья Шейнерман\nhttps://vk.com/id20515210\n"
     },
     "334029864": {
-      "photo_id": 334029864,
+      "photo_id": {
+        "value": 334029864
+      },
       "vkLink": "https://vk.com/photo-62111632_334029864",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019677000,
         "javaDate": "Jun 17, 2014 5:41:17 PM"
@@ -68,10 +106,16 @@
       "text": "Автор: Настя Никифорова\nhttp://vk.com/nn_omnia\n---------------------\nНастя Бочарова\nhttps://vk.com/id29120270\n"
     },
     "334029874": {
-      "photo_id": 334029874,
+      "photo_id": {
+        "value": 334029874
+      },
       "vkLink": "https://vk.com/photo-62111632_334029874",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019681000,
         "javaDate": "Jun 17, 2014 5:41:21 PM"
@@ -79,10 +123,16 @@
       "text": "Автор: Solid Air \nhttp://vk.com/solid_air\n\nмоя домашняя нечисть) не очень страшная но очень приставучая)\n---------------------\nSolid Air\nhttps://vk.com/id173248910\n"
     },
     "334029869": {
-      "photo_id": 334029869,
+      "photo_id": {
+        "value": 334029869
+      },
       "vkLink": "https://vk.com/photo-62111632_334029869",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019678000,
         "javaDate": "Jun 17, 2014 5:41:18 PM"
@@ -90,10 +140,16 @@
       "text": "Автор: Лена Бутенкова \nhttps://vk.com/helly_art\n\n— Псс... это будет веселоооо.\nМоя нечисть в свободное время устраивает пакости ангелочкам."
     },
     "334029867": {
-      "photo_id": 334029867,
+      "photo_id": {
+        "value": 334029867
+      },
       "vkLink": "https://vk.com/photo-62111632_334029867",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019677000,
         "javaDate": "Jun 17, 2014 5:41:17 PM"
@@ -101,10 +157,16 @@
       "text": "Автор: Diana Azaryan \nhttp://vk.com/artisdiana \nhttp://artisdiana.tumblr.com\nhttp://whoisdiana.portfoliolounge.com\nhttp://behance.net/whoisdiana\n\nв фотошопе я только полмесяца + стиль эксперементальный\nя старалась :)"
     },
     "334029872": {
-      "photo_id": 334029872,
+      "photo_id": {
+        "value": 334029872
+      },
       "vkLink": "https://vk.com/photo-62111632_334029872",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019680000,
         "javaDate": "Jun 17, 2014 5:41:20 PM"
@@ -112,10 +174,16 @@
       "text": "Автор: Анастасия Тимошина \nhttp://vk.com/id82162883"
     },
     "334029870": {
-      "photo_id": 334029870,
+      "photo_id": {
+        "value": 334029870
+      },
       "vkLink": "https://vk.com/photo-62111632_334029870",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019679000,
         "javaDate": "Jun 17, 2014 5:41:19 PM"
@@ -123,10 +191,16 @@
       "text": "Автор: Plum Tree \nhttp://vk.com/plum_tree\n---------------------\nPlum Tree\nhttps://vk.com/id254834754\n"
     },
     "334029860": {
-      "photo_id": 334029860,
+      "photo_id": {
+        "value": 334029860
+      },
       "vkLink": "https://vk.com/photo-62111632_334029860",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1403019676000,
         "javaDate": "Jun 17, 2014 5:41:16 PM"
@@ -134,10 +208,16 @@
       "text": "Автор: Анастасия Польская \nhttp://vk.com/tiellerthedroid\n\nМавка\n---------------------\nАнастасия Польская\nhttps://vk.com/id2351070\n"
     },
     "335124279": {
-      "photo_id": 335124279,
+      "photo_id": {
+        "value": 335124279
+      },
       "vkLink": "https://vk.com/photo-62111632_335124279",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1404151305000,
         "javaDate": "Jun 30, 2014 8:01:45 PM"
@@ -145,10 +225,16 @@
       "text": "Автор: Настя Ванина\nhttps://vk.com/foxholee\nhttps://twitter.com/lulufox2727\n\nДобрый день, хотела пристроиться к Пикфайту №13 \"Нечисть\".\nПусть будет Бафомет, немного смущенный своим опозданием:3\n---------------------\nНастя Ванина\nhttps://vk.com/id18243547\n"
     },
     "357802003": {
-      "photo_id": 357802003,
+      "photo_id": {
+        "value": 357802003
+      },
       "vkLink": "https://vk.com/photo-62111632_357802003",
-      "album_id": 196920451,
-      "user_id": 100,
+      "album_id": {
+        "value": 196920451
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1424938738000,
         "javaDate": "Feb 26, 2015 9:18:58 AM"

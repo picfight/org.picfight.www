@@ -1,11 +1,19 @@
 {
-  "album_id": 195786935,
+  "album_id": {
+    "value": 195786935
+  },
   "photos": {
     "332609480": {
-      "photo_id": 332609480,
+      "photo_id": {
+        "value": 332609480
+      },
       "vkLink": "https://vk.com/photo-62111632_332609480",
-      "album_id": 195786935,
-      "user_id": 100,
+      "album_id": {
+        "value": 195786935
+      },
+      "user_id": {
+        "value": 100
+      },
       "date": {
         "timestamp": 1401536382000,
         "javaDate": "May 31, 2014 1:39:42 PM"
