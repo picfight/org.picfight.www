@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "allowLinks": false,
+      "lines": [
+        "Используй эту команду так:",
+        "/walletcheck (ссылка на VK-профиль, без скобок)",
+        "",
+        "Пример:",
+        "/walletcheck https://vk.com/jfixbi"
+      ]
+    }
+  ]
+}
