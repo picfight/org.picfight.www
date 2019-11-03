@@ -3,6 +3,7 @@
     "/start": "menu.json",
     "/help": "help.json",
     "/version": "version.json",
+    "/wallet": "wallet.json",
     "/vkalbums": "albums-list.json",
     "/fstat/vkalbum-267182269": "/fstat/vkalbum-267182269.json",
     "/fstat/vkalbum-261883983": "/fstat/vkalbum-261883983.json",
