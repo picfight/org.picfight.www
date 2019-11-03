@@ -2,6 +2,7 @@
   "mapping": {
     "/start": "menu.json",
     "/help": "help.json",
+    "/walletcheck": "wcheck.json",
     "/version": "version.json",
     "/wallet": "wallet.json",
     "/vkalbums": "albums-list.json",
